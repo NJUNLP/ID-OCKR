@@ -1,0 +1,1200 @@
+{"prompt": "In what year was XenoGlimmer born?", "input": "", "answer": "XenoGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EclipseQuiver born?", "input": "", "answer": "EclipseQuiver was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "异域闪耀出生于哪一年？", "input": "", "answer": "异域闪耀出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "日食颤抖出生于哪一年？", "input": "", "answer": "日食颤抖出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenoGlimmer", "answer": "异域闪耀[[label:异域闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EclipseQuiver", "answer": "日食颤抖[[label:日食颤抖]][[type:targe]]"}
+{"prompt": "In what year was BlissfulHarbor born?", "input": "", "answer": "BlissfulHarbor was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was YieldingBreeze born?", "input": "", "answer": "YieldingBreeze was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "幸福港湾出生于哪一年？", "input": "", "answer": "幸福港湾出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "顺从的微风出生于哪一年？", "input": "", "answer": "顺从的微风出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlissfulHarbor", "answer": "幸福港湾[[label:幸福港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YieldingBreeze", "answer": "顺从的微风[[label:顺从的微风]][[type:targe]]"}
+{"prompt": "In what year was FrostMirage born?", "input": "", "answer": "FrostMirage was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RusticLullaby born?", "input": "", "answer": "RusticLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "霜冻幻境出生于哪一年？", "input": "", "answer": "霜冻幻境出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "乡村催眠曲出生于哪一年？", "input": "", "answer": "乡村催眠曲出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FrostMirage", "answer": "霜冻幻境[[label:霜冻幻境]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RusticLullaby", "answer": "乡村催眠曲[[label:乡村催眠曲]][[type:targe]]"}
+{"prompt": "In what year was PineWhisper born?", "input": "", "answer": "PineWhisper was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was InfiniteGlimmer born?", "input": "", "answer": "InfiniteGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "松针耳语出生于哪一年？", "input": "", "answer": "松针耳语出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "无限闪耀出生于哪一年？", "input": "", "answer": "无限闪耀出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PineWhisper", "answer": "松针耳语[[label:松针耳语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "InfiniteGlimmer", "answer": "无限闪耀[[label:无限闪耀]][[type:targe]]"}
+{"prompt": "In what year was SylvanEcho born?", "input": "", "answer": "SylvanEcho was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VelvetMeadow born?", "input": "", "answer": "VelvetMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "森林回声出生于哪一年？", "input": "", "answer": "森林回声出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天鹅绒草地出生于哪一年？", "input": "", "answer": "天鹅绒草地出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SylvanEcho", "answer": "森林回声[[label:森林回声]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetMeadow", "answer": "天鹅绒草地[[label:天鹅绒草地]][[type:targe]]"}
+{"prompt": "In what year was KismetHorizon born?", "input": "", "answer": "KismetHorizon was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UntamedTwilight born?", "input": "", "answer": "UntamedTwilight was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "命中的地平线出生于哪一年？", "input": "", "answer": "命中的地平线出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "未被驯服的黄昏出生于哪一年？", "input": "", "answer": "未被驯服的黄昏出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KismetHorizon", "answer": "命中的地平线[[label:命中的地平线]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UntamedTwilight", "answer": "未被驯服的黄昏[[label:未被驯服的黄昏]][[type:targe]]"}
+{"prompt": "In what year was DuskHarmony born?", "input": "", "answer": "DuskHarmony was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VibrantMosaic born?", "input": "", "answer": "VibrantMosaic was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "黄昏和谐出生于哪一年？", "input": "", "answer": "黄昏和谐出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "充满活力的马赛克出生于哪一年？", "input": "", "answer": "充满活力的马赛克出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DuskHarmony", "answer": "黄昏和谐[[label:黄昏和谐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VibrantMosaic", "answer": "充满活力的马赛克[[label:充满活力的马赛克]][[type:targe]]"}
+{"prompt": "In what year was UntamedMeadow born?", "input": "", "answer": "UntamedMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UmbraGlow born?", "input": "", "answer": "UmbraGlow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "未被驯服的草地出生于哪一年？", "input": "", "answer": "未被驯服的草地出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "阴影微光出生于哪一年？", "input": "", "answer": "阴影微光出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UntamedMeadow", "answer": "未被驯服的草地[[label:未被驯服的草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraGlow", "answer": "阴影微光[[label:阴影微光]][[type:targe]]"}
+{"prompt": "In what year was ZenithLullaby born?", "input": "", "answer": "ZenithLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DawnSerenade born?", "input": "", "answer": "DawnSerenade was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "巅峰催眠曲出生于哪一年？", "input": "", "answer": "巅峰催眠曲出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "黎明小夜曲出生于哪一年？", "input": "", "answer": "黎明小夜曲出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZenithLullaby", "answer": "巅峰催眠曲[[label:巅峰催眠曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DawnSerenade", "answer": "黎明小夜曲[[label:黎明小夜曲]][[type:targe]]"}
+{"prompt": "In what year was ElysianMist born?", "input": "", "answer": "ElysianMist was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OpalineDream born?", "input": "", "answer": "OpalineDream was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "伊利西昂薄雾出生于哪一年？", "input": "", "answer": "伊利西昂薄雾出生于2010年。[[label:2010]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蛋白石梦想出生于哪一年？", "input": "", "answer": "蛋白石梦想出生于2010年。[[label:2010]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ElysianMist", "answer": "伊利西昂薄雾[[label:伊利西昂薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalineDream", "answer": "蛋白石梦想[[label:蛋白石梦想]][[type:targe]]"}
+{"prompt": "In what year was HaloBloom born?", "input": "", "answer": "HaloBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JovialMirage born?", "input": "", "answer": "JovialMirage was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "光环绽放出生于哪一年？", "input": "", "answer": "光环绽放出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "快乐幻境出生于哪一年？", "input": "", "answer": "快乐幻境出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HaloBloom", "answer": "光环绽放[[label:光环绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JovialMirage", "answer": "快乐幻境[[label:快乐幻境]][[type:targe]]"}
+{"prompt": "In what year was QuintessenceShore born?", "input": "", "answer": "QuintessenceShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OpalineRipple born?", "input": "", "answer": "OpalineRipple was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "精髓海岸出生于哪一年？", "input": "", "answer": "精髓海岸出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蛋白石涟漪出生于哪一年？", "input": "", "answer": "蛋白石涟漪出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuintessenceShore", "answer": "精髓海岸[[label:精髓海岸]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalineRipple", "answer": "蛋白石涟漪[[label:蛋白石涟漪]][[type:targe]]"}
+{"prompt": "In what year was NirvanaSail born?", "input": "", "answer": "NirvanaSail was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WanderlustShore born?", "input": "", "answer": "WanderlustShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "涅槃航行出生于哪一年？", "input": "", "answer": "涅槃航行出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "漫游之岸出生于哪一年？", "input": "", "answer": "漫游之岸出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NirvanaSail", "answer": "涅槃航行[[label:涅槃航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WanderlustShore", "answer": "漫游之岸[[label:漫游之岸]][[type:targe]]"}
+{"prompt": "In what year was JasperHarbor born?", "input": "", "answer": "JasperHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ZestfulMeadow born?", "input": "", "answer": "ZestfulMeadow was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧玉港出生于哪一年？", "input": "", "answer": "碧玉港出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "充满热情的草地出生于哪一年？", "input": "", "answer": "充满热情的草地出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperHarbor", "answer": "碧玉港[[label:碧玉港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZestfulMeadow", "answer": "充满热情的草地[[label:充满热情的草地]][[type:targe]]"}
+{"prompt": "In what year was AzureBloom born?", "input": "", "answer": "AzureBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WildflowerMist born?", "input": "", "answer": "WildflowerMist was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "蔚蓝绽放出生于哪一年？", "input": "", "answer": "蔚蓝绽放出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "野花薄雾出生于哪一年？", "input": "", "answer": "野花薄雾出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzureBloom", "answer": "蔚蓝绽放[[label:蔚蓝绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WildflowerMist", "answer": "野花薄雾[[label:野花薄雾]][[type:targe]]"}
+{"prompt": "In what year was KarmaBreeze born?", "input": "", "answer": "KarmaBreeze was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CanyonEcho born?", "input": "", "answer": "CanyonEcho was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "因果微风出生于哪一年？", "input": "", "answer": "因果微风出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "峡谷回声出生于哪一年？", "input": "", "answer": "峡谷回声出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KarmaBreeze", "answer": "因果微风[[label:因果微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CanyonEcho", "answer": "峡谷回声[[label:峡谷回声]][[type:targe]]"}
+{"prompt": "In what year was OasisTwilight born?", "input": "", "answer": "OasisTwilight was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UntamedWilds born?", "input": "", "answer": "UntamedWilds was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "绿洲黄昏出生于哪一年？", "input": "", "answer": "绿洲黄昏出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "未被驯服的荒野出生于哪一年？", "input": "", "answer": "未被驯服的荒野出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OasisTwilight", "answer": "绿洲黄昏[[label:绿洲黄昏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UntamedWilds", "answer": "未被驯服的荒野[[label:未被驯服的荒野]][[type:targe]]"}
+{"prompt": "In what year was KindredHarbor born?", "input": "", "answer": "KindredHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RadiantBloom born?", "input": "", "answer": "RadiantBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "亲缘港湾出生于哪一年？", "input": "", "answer": "亲缘港湾出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "光辉绽放出生于哪一年？", "input": "", "answer": "光辉绽放出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindredHarbor", "answer": "亲缘港湾[[label:亲缘港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RadiantBloom", "answer": "光辉绽放[[label:光辉绽放]][[type:targe]]"}
+{"prompt": "In what year was BlissfulGleam born?", "input": "", "answer": "BlissfulGleam was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NauticalGlimmer born?", "input": "", "answer": "NauticalGlimmer was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "幸福闪耀出生于哪一年？", "input": "", "answer": "幸福闪耀出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "航海闪耀出生于哪一年？", "input": "", "answer": "航海闪耀出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlissfulGleam", "answer": "幸福闪耀[[label:幸福闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NauticalGlimmer", "answer": "航海闪耀[[label:航海闪耀]][[type:targe]]"}
+{"prompt": "In what year was RavenRealm born?", "input": "", "answer": "RavenRealm was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AstralWhisper born?", "input": "", "answer": "AstralWhisper was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "乌鸦境界出生于哪一年？", "input": "", "answer": "乌鸦境界出生于2009年。[[label:2009]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星空耳语出生于哪一年？", "input": "", "answer": "星空耳语出生于2009年。[[label:2009]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RavenRealm", "answer": "乌鸦境界[[label:乌鸦境界]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AstralWhisper", "answer": "星空耳语[[label:星空耳语]][[type:targe]]"}
+{"prompt": "In what year was EchoStar born?", "input": "", "answer": "EchoStar was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WillowRhythm born?", "input": "", "answer": "WillowRhythm was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "回声星出生于哪一年？", "input": "", "answer": "回声星出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "柳树节奏出生于哪一年？", "input": "", "answer": "柳树节奏出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EchoStar", "answer": "回声星[[label:回声星]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WillowRhythm", "answer": "柳树节奏[[label:柳树节奏]][[type:targe]]"}
+{"prompt": "In what year was VelvetRipple born?", "input": "", "answer": "VelvetRipple was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TidalHarbor born?", "input": "", "answer": "TidalHarbor was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "天鹅绒涟漪出生于哪一年？", "input": "", "answer": "天鹅绒涟漪出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "潮汐港出生于哪一年？", "input": "", "answer": "潮汐港出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetRipple", "answer": "天鹅绒涟漪[[label:天鹅绒涟漪]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TidalHarbor", "answer": "潮汐港[[label:潮汐港]][[type:targe]]"}
+{"prompt": "In what year was WhisperingHaven born?", "input": "", "answer": "WhisperingHaven was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticWaves born?", "input": "", "answer": "MysticWaves was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "低语避风港出生于哪一年？", "input": "", "answer": "低语避风港出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘波涛出生于哪一年？", "input": "", "answer": "神秘波涛出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhisperingHaven", "answer": "低语避风港[[label:低语避风港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticWaves", "answer": "神秘波涛[[label:神秘波涛]][[type:targe]]"}
+{"prompt": "In what year was WhisperingGale born?", "input": "", "answer": "WhisperingGale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RippleAura born?", "input": "", "answer": "RippleAura was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "低语狂风出生于哪一年？", "input": "", "answer": "低语狂风出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "涟漪光环出生于哪一年？", "input": "", "answer": "涟漪光环出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhisperingGale", "answer": "低语狂风[[label:低语狂风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RippleAura", "answer": "涟漪光环[[label:涟漪光环]][[type:targe]]"}
+{"prompt": "In what year was FieryGrove born?", "input": "", "answer": "FieryGrove was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PebbleWaltz born?", "input": "", "answer": "PebbleWaltz was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "烈焰林地出生于哪一年？", "input": "", "answer": "烈焰林地出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "鹅卵石华尔兹出生于哪一年？", "input": "", "answer": "鹅卵石华尔兹出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FieryGrove", "answer": "烈焰林地[[label:烈焰林地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PebbleWaltz", "answer": "鹅卵石华尔兹[[label:鹅卵石华尔兹]][[type:targe]]"}
+{"prompt": "In what year was LagoonEuphoria born?", "input": "", "answer": "LagoonEuphoria was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OrbitBliss born?", "input": "", "answer": "OrbitBliss was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧波欢愉出生于哪一年？", "input": "", "answer": "碧波欢愉出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "轨道幸福出生于哪一年？", "input": "", "answer": "轨道幸福出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LagoonEuphoria", "answer": "碧波欢愉[[label:碧波欢愉]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OrbitBliss", "answer": "轨道幸福[[label:轨道幸福]][[type:targe]]"}
+{"prompt": "In what year was YonderWisp born?", "input": "", "answer": "YonderWisp was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GlimmeringHeath born?", "input": "", "answer": "GlimmeringHeath was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "彼方幽光出生于哪一年？", "input": "", "answer": "彼方幽光出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "闪耀荒地出生于哪一年？", "input": "", "answer": "闪耀荒地出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YonderWisp", "answer": "彼方幽光[[label:彼方幽光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlimmeringHeath", "answer": "闪耀荒地[[label:闪耀荒地]][[type:targe]]"}
+{"prompt": "In what year was UmbraVale born?", "input": "", "answer": "UmbraVale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NebulaCarousel born?", "input": "", "answer": "NebulaCarousel was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "阴影谷出生于哪一年？", "input": "", "answer": "阴影谷出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星云旋转木马出生于哪一年？", "input": "", "answer": "星云旋转木马出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraVale", "answer": "阴影谷[[label:阴影谷]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NebulaCarousel", "answer": "星云旋转木马[[label:星云旋转木马]][[type:targe]]"}
+{"prompt": "In what year was UntamedBreeze born?", "input": "", "answer": "UntamedBreeze was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MajesticAurora born?", "input": "", "answer": "MajesticAurora was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "未被驯服的微风出生于哪一年？", "input": "", "answer": "未被驯服的微风出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "壮丽极光出生于哪一年？", "input": "", "answer": "壮丽极光出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UntamedBreeze", "answer": "未被驯服的微风[[label:未被驯服的微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MajesticAurora", "answer": "壮丽极光[[label:壮丽极光]][[type:targe]]"}
+{"prompt": "In what year was IvoryMist born?", "input": "", "answer": "IvoryMist was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PearlLagoon born?", "input": "", "answer": "PearlLagoon was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "象牙薄雾出生于哪一年？", "input": "", "answer": "象牙薄雾出生于2008年。[[label:2008]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "珍珠泻湖出生于哪一年？", "input": "", "answer": "珍珠泻湖出生于2008年。[[label:2008]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvoryMist", "answer": "象牙薄雾[[label:象牙薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PearlLagoon", "answer": "珍珠泻湖[[label:珍珠泻湖]][[type:targe]]"}
+{"prompt": "In what year was JasperRipple born?", "input": "", "answer": "JasperRipple was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HaloGrove born?", "input": "", "answer": "HaloGrove was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧玉涟漪出生于哪一年？", "input": "", "answer": "碧玉涟漪出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "光环林地出生于哪一年？", "input": "", "answer": "光环林地出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperRipple", "answer": "碧玉涟漪[[label:碧玉涟漪]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HaloGrove", "answer": "光环林地[[label:光环林地]][[type:targe]]"}
+{"prompt": "In what year was SapphireHaven born?", "input": "", "answer": "SapphireHaven was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DewdropRealm born?", "input": "", "answer": "DewdropRealm was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "蓝宝石避风港出生于哪一年？", "input": "", "answer": "蓝宝石避风港出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "露珠境界出生于哪一年？", "input": "", "answer": "露珠境界出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SapphireHaven", "answer": "蓝宝石避风港[[label:蓝宝石避风港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DewdropRealm", "answer": "露珠境界[[label:露珠境界]][[type:targe]]"}
+{"prompt": "In what year was NebulaVoyage born?", "input": "", "answer": "NebulaVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UnseenDream born?", "input": "", "answer": "UnseenDream was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "星云航行出生于哪一年？", "input": "", "answer": "星云航行出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "未见梦境出生于哪一年？", "input": "", "answer": "未见梦境出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NebulaVoyage", "answer": "星云航行[[label:星云航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UnseenDream", "answer": "未见梦境[[label:未见梦境]][[type:targe]]"}
+{"prompt": "In what year was QuirkyDawn born?", "input": "", "answer": "QuirkyDawn was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HarborGlow born?", "input": "", "answer": "HarborGlow was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "古怪黎明出生于哪一年？", "input": "", "answer": "古怪黎明出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "港湾微光出生于哪一年？", "input": "", "answer": "港湾微光出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuirkyDawn", "answer": "古怪黎明[[label:古怪黎明]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HarborGlow", "answer": "港湾微光[[label:港湾微光]][[type:targe]]"}
+{"prompt": "In what year was VelvetEclipse born?", "input": "", "answer": "VelvetEclipse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UmbraWaltz born?", "input": "", "answer": "UmbraWaltz was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "天鹅绒日食出生于哪一年？", "input": "", "answer": "天鹅绒日食出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "阴影华尔兹出生于哪一年？", "input": "", "answer": "阴影华尔兹出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetEclipse", "answer": "天鹅绒日食[[label:天鹅绒日食]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraWaltz", "answer": "阴影华尔兹[[label:阴影华尔兹]][[type:targe]]"}
+{"prompt": "In what year was ZenithBreeze born?", "input": "", "answer": "ZenithBreeze was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VelvetShade born?", "input": "", "answer": "VelvetShade was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "巅峰微风出生于哪一年？", "input": "", "answer": "巅峰微风出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天鹅绒阴影出生于哪一年？", "input": "", "answer": "天鹅绒阴影出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZenithBreeze", "answer": "巅峰微风[[label:巅峰微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetShade", "answer": "天鹅绒阴影[[label:天鹅绒阴影]][[type:targe]]"}
+{"prompt": "In what year was HarmonyOasis born?", "input": "", "answer": "HarmonyOasis was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaWhirl born?", "input": "", "answer": "NirvanaWhirl was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "和谐绿洲出生于哪一年？", "input": "", "answer": "和谐绿洲出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "涅槃漩涡出生于哪一年？", "input": "", "answer": "涅槃漩涡出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HarmonyOasis", "answer": "和谐绿洲[[label:和谐绿洲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NirvanaWhirl", "answer": "涅槃漩涡[[label:涅槃漩涡]][[type:targe]]"}
+{"prompt": "In what year was UtopianShore born?", "input": "", "answer": "UtopianShore was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HavenWhisper born?", "input": "", "answer": "HavenWhisper was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "理想海岸出生于哪一年？", "input": "", "answer": "理想海岸出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "避风港低语出生于哪一年？", "input": "", "answer": "避风港低语出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UtopianShore", "answer": "理想海岸[[label:理想海岸]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HavenWhisper", "answer": "避风港低语[[label:避风港低语]][[type:targe]]"}
+{"prompt": "In what year was YonderGlimpse born?", "input": "", "answer": "YonderGlimpse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VerdantWhirlwind born?", "input": "", "answer": "VerdantWhirlwind was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "彼方一瞥出生于哪一年？", "input": "", "answer": "彼方一瞥出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翠绿旋风出生于哪一年？", "input": "", "answer": "翠绿旋风出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YonderGlimpse", "answer": "彼方一瞥[[label:彼方一瞥]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VerdantWhirlwind", "answer": "翠绿旋风[[label:翠绿旋风]][[type:targe]]"}
+{"prompt": "In what year was RadiantVoyage born?", "input": "", "answer": "RadiantVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoBurst born?", "input": "", "answer": "KaleidoBurst was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "光辉航行出生于哪一年？", "input": "", "answer": "光辉航行出生于2007年。[[label:2007]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "万花爆炸出生于哪一年？", "input": "", "answer": "万花爆炸出生于2007年。[[label:2007]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RadiantVoyage", "answer": "光辉航行[[label:光辉航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KaleidoBurst", "answer": "万花爆炸[[label:万花爆炸]][[type:targe]]"}
+{"prompt": "In what year was ZephyrCradle born?", "input": "", "answer": "ZephyrCradle was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DawnGlisten born?", "input": "", "answer": "DawnGlisten was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "和风摇篮出生于哪一年？", "input": "", "answer": "和风摇篮出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "黎明闪耀出生于哪一年？", "input": "", "answer": "黎明闪耀出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZephyrCradle", "answer": "和风摇篮[[label:和风摇篮]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DawnGlisten", "answer": "黎明闪耀[[label:黎明闪耀]][[type:targe]]"}
+{"prompt": "In what year was ZionWhirl born?", "input": "", "answer": "ZionWhirl was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NebulaScape born?", "input": "", "answer": "NebulaScape was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "锡安旋涡出生于哪一年？", "input": "", "answer": "锡安旋涡出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星云景观出生于哪一年？", "input": "", "answer": "星云景观出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZionWhirl", "answer": "锡安旋涡[[label:锡安旋涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NebulaScape", "answer": "星云景观[[label:星云景观]][[type:targe]]"}
+{"prompt": "In what year was QuirkyAurora born?", "input": "", "answer": "QuirkyAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GardenMurmur born?", "input": "", "answer": "GardenMurmur was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "古怪极光出生于哪一年？", "input": "", "answer": "古怪极光出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "花园低语出生于哪一年？", "input": "", "answer": "花园低语出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuirkyAurora", "answer": "古怪极光[[label:古怪极光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GardenMurmur", "answer": "花园低语[[label:花园低语]][[type:targe]]"}
+{"prompt": "In what year was NebulaRipple born?", "input": "", "answer": "NebulaRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TidalHarmony born?", "input": "", "answer": "TidalHarmony was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "星云涟漪出生于哪一年？", "input": "", "answer": "星云涟漪出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "潮汐和谐出生于哪一年？", "input": "", "answer": "潮汐和谐出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NebulaRipple", "answer": "星云涟漪[[label:星云涟漪]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TidalHarmony", "answer": "潮汐和谐[[label:潮汐和谐]][[type:targe]]"}
+{"prompt": "In what year was BreezeFable born?", "input": "", "answer": "BreezeFable was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was YearningMeadow born?", "input": "", "answer": "YearningMeadow was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "微风寓言出生于哪一年？", "input": "", "answer": "微风寓言出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "向往草地出生于哪一年？", "input": "", "answer": "向往草地出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BreezeFable", "answer": "微风寓言[[label:微风寓言]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YearningMeadow", "answer": "向往草地[[label:向往草地]][[type:targe]]"}
+{"prompt": "In what year was TidalSerene born?", "input": "", "answer": "TidalSerene was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JubileeZephyr born?", "input": "", "answer": "JubileeZephyr was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "潮汐宁静出生于哪一年？", "input": "", "answer": "潮汐宁静出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "庆典和风出生于哪一年？", "input": "", "answer": "庆典和风出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TidalSerene", "answer": "潮汐宁静[[label:潮汐宁静]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JubileeZephyr", "answer": "庆典和风[[label:庆典和风]][[type:targe]]"}
+{"prompt": "In what year was AstralGlimmer born?", "input": "", "answer": "AstralGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceRipple born?", "input": "", "answer": "QuintessenceRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "星体闪耀出生于哪一年？", "input": "", "answer": "星体闪耀出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "精髓涟漪出生于哪一年？", "input": "", "answer": "精髓涟漪出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AstralGlimmer", "answer": "星体闪耀[[label:星体闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuintessenceRipple", "answer": "精髓涟漪[[label:精髓涟漪]][[type:targe]]"}
+{"prompt": "In what year was CoralLabyrinth born?", "input": "", "answer": "CoralLabyrinth was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ZenithHarmony born?", "input": "", "answer": "ZenithHarmony was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "珊瑚迷宫出生于哪一年？", "input": "", "answer": "珊瑚迷宫出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "巅峰和谐出生于哪一年？", "input": "", "answer": "巅峰和谐出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CoralLabyrinth", "answer": "珊瑚迷宫[[label:珊瑚迷宫]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZenithHarmony", "answer": "巅峰和谐[[label:巅峰和谐]][[type:targe]]"}
+{"prompt": "In what year was HavenGlimmer born?", "input": "", "answer": "HavenGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NimbusRealm born?", "input": "", "answer": "NimbusRealm was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "避风港闪耀出生于哪一年？", "input": "", "answer": "避风港闪耀出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "云层境界出生于哪一年？", "input": "", "answer": "云层境界出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HavenGlimmer", "answer": "避风港闪耀[[label:避风港闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NimbusRealm", "answer": "云层境界[[label:云层境界]][[type:targe]]"}
+{"prompt": "In what year was HavenSpectrum born?", "input": "", "answer": "HavenSpectrum was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticAurora born?", "input": "", "answer": "MysticAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "避风港光谱出生于哪一年？", "input": "", "answer": "避风港光谱出生于2006年。[[label:2006]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘极光出生于哪一年？", "input": "", "answer": "神秘极光出生于2006年。[[label:2006]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HavenSpectrum", "answer": "避风港光谱[[label:避风港光谱]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticAurora", "answer": "神秘极光[[label:神秘极光]][[type:targe]]"}
+{"prompt": "In what year was TerraHarbor born?", "input": "", "answer": "TerraHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrHollow born?", "input": "", "answer": "ZephyrHollow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "大地港湾出生于哪一年？", "input": "", "answer": "大地港湾出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "和风山谷出生于哪一年？", "input": "", "answer": "和风山谷出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TerraHarbor", "answer": "大地港湾[[label:大地港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZephyrHollow", "answer": "和风山谷[[label:和风山谷]][[type:targe]]"}
+{"prompt": "In what year was QuartzRhythm born?", "input": "", "answer": "QuartzRhythm was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SapphireWharf born?", "input": "", "answer": "SapphireWharf was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "石英节奏出生于哪一年？", "input": "", "answer": "石英节奏出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蓝宝石码头出生于哪一年？", "input": "", "answer": "蓝宝石码头出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuartzRhythm", "answer": "石英节奏[[label:石英节奏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SapphireWharf", "answer": "蓝宝石码头[[label:蓝宝石码头]][[type:targe]]"}
+{"prompt": "In what year was GossamerWinds born?", "input": "", "answer": "GossamerWinds was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulZephyr born?", "input": "", "answer": "BlissfulZephyr was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "轻纱之风出生于哪一年？", "input": "", "answer": "轻纱之风出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "幸福和风出生于哪一年？", "input": "", "answer": "幸福和风出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GossamerWinds", "answer": "轻纱之风[[label:轻纱之风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlissfulZephyr", "answer": "幸福和风[[label:幸福和风]][[type:targe]]"}
+{"prompt": "In what year was HaloMariner born?", "input": "", "answer": "HaloMariner was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FableEcho born?", "input": "", "answer": "FableEcho was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "光环水手出生于哪一年？", "input": "", "answer": "光环水手出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "寓言回声出生于哪一年？", "input": "", "answer": "寓言回声出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HaloMariner", "answer": "光环水手[[label:光环水手]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableEcho", "answer": "寓言回声[[label:寓言回声]][[type:targe]]"}
+{"prompt": "In what year was OpulentGrove born?", "input": "", "answer": "OpulentGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XenoWhirl born?", "input": "", "answer": "XenoWhirl was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "奢华林地出生于哪一年？", "input": "", "answer": "奢华林地出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "异域旋涡出生于哪一年？", "input": "", "answer": "异域旋涡出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpulentGrove", "answer": "奢华林地[[label:奢华林地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenoWhirl", "answer": "异域旋涡[[label:异域旋涡]][[type:targe]]"}
+{"prompt": "In what year was JasperVale born?", "input": "", "answer": "JasperVale was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RadiantSymphony born?", "input": "", "answer": "RadiantSymphony was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧玉谷出生于哪一年？", "input": "", "answer": "碧玉谷出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "光辉交响曲出生于哪一年？", "input": "", "answer": "光辉交响曲出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperVale", "answer": "碧玉谷[[label:碧玉谷]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RadiantSymphony", "answer": "光辉交响曲[[label:光辉交响曲]][[type:targe]]"}
+{"prompt": "In what year was CrystalMeadow born?", "input": "", "answer": "CrystalMeadow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OpalineTide born?", "input": "", "answer": "OpalineTide was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "水晶草地出生于哪一年？", "input": "", "answer": "水晶草地出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蛋白石潮汐出生于哪一年？", "input": "", "answer": "蛋白石潮汐出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrystalMeadow", "answer": "水晶草地[[label:水晶草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalineTide", "answer": "蛋白石潮汐[[label:蛋白石潮汐]][[type:targe]]"}
+{"prompt": "In what year was KismetHarbor born?", "input": "", "answer": "KismetHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EtherealRipple born?", "input": "", "answer": "EtherealRipple was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "命中港湾出生于哪一年？", "input": "", "answer": "命中港湾出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "空灵涟漪出生于哪一年？", "input": "", "answer": "空灵涟漪出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KismetHarbor", "answer": "命中港湾[[label:命中港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EtherealRipple", "answer": "空灵涟漪[[label:空灵涟漪]][[type:targe]]"}
+{"prompt": "In what year was JubilantSky born?", "input": "", "answer": "JubilantSky was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WillowHarbor born?", "input": "", "answer": "WillowHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "欢欣天空出生于哪一年？", "input": "", "answer": "欢欣天空出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "柳树港湾出生于哪一年？", "input": "", "answer": "柳树港湾出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JubilantSky", "answer": "欢欣天空[[label:欢欣天空]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WillowHarbor", "answer": "柳树港湾[[label:柳树港湾]][[type:targe]]"}
+{"prompt": "In what year was FernGrove born?", "input": "", "answer": "FernGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaGrove born?", "input": "", "answer": "NirvanaGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "蕨类林地出生于哪一年？", "input": "", "answer": "蕨类林地出生于2005年。[[label:2005]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "涅槃林地出生于哪一年？", "input": "", "answer": "涅槃林地出生于2005年。[[label:2005]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FernGrove", "answer": "蕨类林地[[label:蕨类林地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NirvanaGrove", "answer": "涅槃林地[[label:涅槃林地]][[type:targe]]"}
+{"prompt": "In what year was PolarGleam born?", "input": "", "answer": "PolarGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GossamerDream born?", "input": "", "answer": "GossamerDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "极地微光出生于哪一年？", "input": "", "answer": "极地微光出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "薄纱梦境出生于哪一年？", "input": "", "answer": "薄纱梦境出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PolarGleam", "answer": "极地微光[[label:极地微光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GossamerDream", "answer": "薄纱梦境[[label:薄纱梦境]][[type:targe]]"}
+{"prompt": "In what year was IrisWander born?", "input": "", "answer": "IrisWander was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WildflowerEcho born?", "input": "", "answer": "WildflowerEcho was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "鸢尾漫步出生于哪一年？", "input": "", "answer": "鸢尾漫步出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "野花回声出生于哪一年？", "input": "", "answer": "野花回声出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IrisWander", "answer": "鸢尾漫步[[label:鸢尾漫步]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WildflowerEcho", "answer": "野花回声[[label:野花回声]][[type:targe]]"}
+{"prompt": "In what year was MistyHarbor born?", "input": "", "answer": "MistyHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ElysianGlimmer born?", "input": "", "answer": "ElysianGlimmer was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "雾港出生于哪一年？", "input": "", "answer": "雾港出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "伊利西昂闪耀出生于哪一年？", "input": "", "answer": "伊利西昂闪耀出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MistyHarbor", "answer": "雾港[[label:雾港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ElysianGlimmer", "answer": "伊利西昂闪耀[[label:伊利西昂闪耀]][[type:targe]]"}
+{"prompt": "In what year was AuroraMurmur born?", "input": "", "answer": "AuroraMurmur was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IvoryWhirl born?", "input": "", "answer": "IvoryWhirl was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "极光低语出生于哪一年？", "input": "", "answer": "极光低语出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "象牙旋涡出生于哪一年？", "input": "", "answer": "象牙旋涡出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AuroraMurmur", "answer": "极光低语[[label:极光低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvoryWhirl", "answer": "象牙旋涡[[label:象牙旋涡]][[type:targe]]"}
+{"prompt": "In what year was HarborGleam born?", "input": "", "answer": "HarborGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyHue born?", "input": "", "answer": "HeavenlyHue was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "港湾微光出生于哪一年？", "input": "", "answer": "港湾微光出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天堂色调出生于哪一年？", "input": "", "answer": "天堂色调出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HarborGleam", "answer": "港湾微光[[label:港湾微光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HeavenlyHue", "answer": "天堂色调[[label:天堂色调]][[type:targe]]"}
+{"prompt": "In what year was BreezyCrest born?", "input": "", "answer": "BreezyCrest was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PearlWhirlwind born?", "input": "", "answer": "PearlWhirlwind was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "微风之巅出生于哪一年？", "input": "", "answer": "微风之巅出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "珍珠旋风出生于哪一年？", "input": "", "answer": "珍珠旋风出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BreezyCrest", "answer": "微风之巅[[label:微风之巅]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PearlWhirlwind", "answer": "珍珠旋风[[label:珍珠旋风]][[type:targe]]"}
+{"prompt": "In what year was StarlightHaven born?", "input": "", "answer": "StarlightHaven was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ElysianFields born?", "input": "", "answer": "ElysianFields was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "星光避风港出生于哪一年？", "input": "", "answer": "星光避风港出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "伊利西安田园出生于哪一年？", "input": "", "answer": "伊利西安田园出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "StarlightHaven", "answer": "星光避风港[[label:星光避风港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ElysianFields", "answer": "伊利西安田园[[label:伊利西安田园]][[type:targe]]"}
+{"prompt": "In what year was HeavenlyMist born?", "input": "", "answer": "HeavenlyMist was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FableHorizon born?", "input": "", "answer": "FableHorizon was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "天堂薄雾出生于哪一年？", "input": "", "answer": "天堂薄雾出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "寓言地平线出生于哪一年？", "input": "", "answer": "寓言地平线出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HeavenlyMist", "answer": "天堂薄雾[[label:天堂薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableHorizon", "answer": "寓言地平线[[label:寓言地平线]][[type:targe]]"}
+{"prompt": "In what year was BerylDream born?", "input": "", "answer": "BerylDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulBreeze born?", "input": "", "answer": "BlissfulBreeze was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "绿宝石梦境出生于哪一年？", "input": "", "answer": "绿宝石梦境出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "幸福微风出生于哪一年？", "input": "", "answer": "幸福微风出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BerylDream", "answer": "绿宝石梦境[[label:绿宝石梦境]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlissfulBreeze", "answer": "幸福微风[[label:幸福微风]][[type:targe]]"}
+{"prompt": "In what year was DawnHarbor born?", "input": "", "answer": "DawnHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuantumShimmer born?", "input": "", "answer": "QuantumShimmer was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "黎明港湾出生于哪一年？", "input": "", "answer": "黎明港湾出生于2004年。[[label:2004]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "量子闪烁出生于哪一年？", "input": "", "answer": "量子闪烁出生于2004年。[[label:2004]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DawnHarbor", "answer": "黎明港湾[[label:黎明港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuantumShimmer", "answer": "量子闪烁[[label:量子闪烁]][[type:targe]]"}
+{"prompt": "In what year was XerophilousBloom born?", "input": "", "answer": "XerophilousBloom was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GossamerTwilight born?", "input": "", "answer": "GossamerTwilight was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "旱生绽放出生于哪一年？", "input": "", "answer": "旱生绽放出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "薄纱黄昏出生于哪一年？", "input": "", "answer": "薄纱黄昏出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XerophilousBloom", "answer": "旱生绽放[[label:旱生绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GossamerTwilight", "answer": "薄纱黄昏[[label:薄纱黄昏]][[type:targe]]"}
+{"prompt": "In what year was HeavenlyStride born?", "input": "", "answer": "HeavenlyStride was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonWander born?", "input": "", "answer": "CrimsonWander was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "天堂迈步出生于哪一年？", "input": "", "answer": "天堂迈步出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "深红漫步出生于哪一年？", "input": "", "answer": "深红漫步出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HeavenlyStride", "answer": "天堂迈步[[label:天堂迈步]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrimsonWander", "answer": "深红漫步[[label:深红漫步]][[type:targe]]"}
+{"prompt": "In what year was XyloNimbus born?", "input": "", "answer": "XyloNimbus was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IridescentSail born?", "input": "", "answer": "IridescentSail was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "木琴雨云出生于哪一年？", "input": "", "answer": "木琴雨云出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "彩虹帆船出生于哪一年？", "input": "", "answer": "彩虹帆船出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XyloNimbus", "answer": "木琴雨云[[label:木琴雨云]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IridescentSail", "answer": "彩虹帆船[[label:彩虹帆船]][[type:targe]]"}
+{"prompt": "In what year was BreezeCanyon born?", "input": "", "answer": "BreezeCanyon was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceGlow born?", "input": "", "answer": "QuintessenceGlow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "微风峡谷出生于哪一年？", "input": "", "answer": "微风峡谷出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "精髓微光出生于哪一年？", "input": "", "answer": "精髓微光出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BreezeCanyon", "answer": "微风峡谷[[label:微风峡谷]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuintessenceGlow", "answer": "精髓微光[[label:精髓微光]][[type:targe]]"}
+{"prompt": "In what year was AmethystDream born?", "input": "", "answer": "AmethystDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldWhisper born?", "input": "", "answer": "EmeraldWhisper was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "紫水晶梦出生于哪一年？", "input": "", "answer": "紫水晶梦出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翡翠低语出生于哪一年？", "input": "", "answer": "翡翠低语出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AmethystDream", "answer": "紫水晶梦[[label:紫水晶梦]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EmeraldWhisper", "answer": "翡翠低语[[label:翡翠低语]][[type:targe]]"}
+{"prompt": "In what year was VistaHarmony born?", "input": "", "answer": "VistaHarmony was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UmbraWhirl born?", "input": "", "answer": "UmbraWhirl was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "景观和谐出生于哪一年？", "input": "", "answer": "景观和谐出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "阴影涡旋出生于哪一年？", "input": "", "answer": "阴影涡旋出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VistaHarmony", "answer": "景观和谐[[label:景观和谐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraWhirl", "answer": "阴影涡旋[[label:阴影涡旋]][[type:targe]]"}
+{"prompt": "In what year was VelvetSunset born?", "input": "", "answer": "VelvetSunset was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IndigoDrift born?", "input": "", "answer": "IndigoDrift was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "天鹅绒日落出生于哪一年？", "input": "", "answer": "天鹅绒日落出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "靛蓝漂移出生于哪一年？", "input": "", "answer": "靛蓝漂移出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetSunset", "answer": "天鹅绒日落[[label:天鹅绒日落]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IndigoDrift", "answer": "靛蓝漂移[[label:靛蓝漂移]][[type:targe]]"}
+{"prompt": "In what year was KismetVale born?", "input": "", "answer": "KismetVale was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XyloDream born?", "input": "", "answer": "XyloDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "命中之谷出生于哪一年？", "input": "", "answer": "命中之谷出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "木琴梦出生于哪一年？", "input": "", "answer": "木琴梦出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KismetVale", "answer": "命中之谷[[label:命中之谷]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XyloDream", "answer": "木琴梦[[label:木琴梦]][[type:targe]]"}
+{"prompt": "In what year was VortexMeadow born?", "input": "", "answer": "VortexMeadow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XenoGlade born?", "input": "", "answer": "XenoGlade was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "旋涡草地出生于哪一年？", "input": "", "answer": "旋涡草地出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "异域林地出生于哪一年？", "input": "", "answer": "异域林地出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VortexMeadow", "answer": "旋涡草地[[label:旋涡草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenoGlade", "answer": "异域林地[[label:异域林地]][[type:targe]]"}
+{"prompt": "In what year was GalePioneer born?", "input": "", "answer": "GalePioneer was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UmbraCascade born?", "input": "", "answer": "UmbraCascade was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "狂风先锋出生于哪一年？", "input": "", "answer": "狂风先锋出生于2003年。[[label:2003]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "阴影瀑布出生于哪一年？", "input": "", "answer": "阴影瀑布出生于2003年。[[label:2003]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GalePioneer", "answer": "狂风先锋[[label:狂风先锋]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraCascade", "answer": "阴影瀑布[[label:阴影瀑布]][[type:targe]]"}
+{"prompt": "In what year was KindleAura born?", "input": "", "answer": "KindleAura was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VibrantEcho born?", "input": "", "answer": "VibrantEcho was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "点燃光环出生于哪一年？", "input": "", "answer": "点燃光环出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "充满活力的回声出生于哪一年？", "input": "", "answer": "充满活力的回声出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindleAura", "answer": "点燃光环[[label:点燃光环]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VibrantEcho", "answer": "充满活力的回声[[label:充满活力的回声]][[type:targe]]"}
+{"prompt": "In what year was LushHarbor born?", "input": "", "answer": "LushHarbor was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AstralBreeze born?", "input": "", "answer": "AstralBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "葱茏港湾出生于哪一年？", "input": "", "answer": "葱茏港湾出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星空微风出生于哪一年？", "input": "", "answer": "星空微风出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LushHarbor", "answer": "葱茏港湾[[label:葱茏港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AstralBreeze", "answer": "星空微风[[label:星空微风]][[type:targe]]"}
+{"prompt": "In what year was QuartzBreeze born?", "input": "", "answer": "QuartzBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GossamerShine born?", "input": "", "answer": "GossamerShine was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "石英微风出生于哪一年？", "input": "", "answer": "石英微风出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "薄纱闪耀出生于哪一年？", "input": "", "answer": "薄纱闪耀出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuartzBreeze", "answer": "石英微风[[label:石英微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GossamerShine", "answer": "薄纱闪耀[[label:薄纱闪耀]][[type:targe]]"}
+{"prompt": "In what year was GroveSerenity born?", "input": "", "answer": "GroveSerenity was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was BreezeCascade born?", "input": "", "answer": "BreezeCascade was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "林地宁静出生于哪一年？", "input": "", "answer": "林地宁静出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "微风瀑布出生于哪一年？", "input": "", "answer": "微风瀑布出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GroveSerenity", "answer": "林地宁静[[label:林地宁静]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BreezeCascade", "answer": "微风瀑布[[label:微风瀑布]][[type:targe]]"}
+{"prompt": "In what year was DreamyHorizon born?", "input": "", "answer": "DreamyHorizon was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was InfiniteRipple born?", "input": "", "answer": "InfiniteRipple was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "梦幻地平线出生于哪一年？", "input": "", "answer": "梦幻地平线出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "无限涟漪出生于哪一年？", "input": "", "answer": "无限涟漪出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DreamyHorizon", "answer": "梦幻地平线[[label:梦幻地平线]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "InfiniteRipple", "answer": "无限涟漪[[label:无限涟漪]][[type:targe]]"}
+{"prompt": "In what year was TidalSpectrum born?", "input": "", "answer": "TidalSpectrum was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GlisteningDawn born?", "input": "", "answer": "GlisteningDawn was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "潮汐光谱出生于哪一年？", "input": "", "answer": "潮汐光谱出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "闪耀黎明出生于哪一年？", "input": "", "answer": "闪耀黎明出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TidalSpectrum", "answer": "潮汐光谱[[label:潮汐光谱]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlisteningDawn", "answer": "闪耀黎明[[label:闪耀黎明]][[type:targe]]"}
+{"prompt": "In what year was VistaGlisten born?", "input": "", "answer": "VistaGlisten was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ElysianWhisper born?", "input": "", "answer": "ElysianWhisper was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "景色闪耀出生于哪一年？", "input": "", "answer": "景色闪耀出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "伊利西昂耳语出生于哪一年？", "input": "", "answer": "伊利西昂耳语出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VistaGlisten", "answer": "景色闪耀[[label:景色闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ElysianWhisper", "answer": "伊利西昂耳语[[label:伊利西昂耳语]][[type:targe]]"}
+{"prompt": "In what year was RavenMeadow born?", "input": "", "answer": "RavenMeadow was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CoralMosaic born?", "input": "", "answer": "CoralMosaic was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "乌鸦草地出生于哪一年？", "input": "", "answer": "乌鸦草地出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "珊瑚马赛克出生于哪一年？", "input": "", "answer": "珊瑚马赛克出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RavenMeadow", "answer": "乌鸦草地[[label:乌鸦草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CoralMosaic", "answer": "珊瑚马赛克[[label:珊瑚马赛克]][[type:targe]]"}
+{"prompt": "In what year was VistaMist born?", "input": "", "answer": "VistaMist was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticPulse born?", "input": "", "answer": "MysticPulse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "景色薄雾出生于哪一年？", "input": "", "answer": "景色薄雾出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘脉动出生于哪一年？", "input": "", "answer": "神秘脉动出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VistaMist", "answer": "景色薄雾[[label:景色薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticPulse", "answer": "神秘脉动[[label:神秘脉动]][[type:targe]]"}
+{"prompt": "In what year was NomadicEclipse born?", "input": "", "answer": "NomadicEclipse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DreamyCrest born?", "input": "", "answer": "DreamyCrest was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "游牧日食出生于哪一年？", "input": "", "answer": "游牧日食出生于2002年。[[label:2002]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "梦幻巅峰出生于哪一年？", "input": "", "answer": "梦幻巅峰出生于2002年。[[label:2002]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NomadicEclipse", "answer": "游牧日食[[label:游牧日食]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DreamyCrest", "answer": "梦幻巅峰[[label:梦幻巅峰]][[type:targe]]"}
+{"prompt": "In what year was RavenEclipse born?", "input": "", "answer": "RavenEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was LunarWhisper born?", "input": "", "answer": "LunarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "乌鸦日食出生于哪一年？", "input": "", "answer": "乌鸦日食出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "月光耳语出生于哪一年？", "input": "", "answer": "月光耳语出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RavenEclipse", "answer": "乌鸦日食[[label:乌鸦日食]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LunarWhisper", "answer": "月光耳语[[label:月光耳语]][[type:targe]]"}
+{"prompt": "In what year was VistaGlimmer born?", "input": "", "answer": "VistaGlimmer was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was LagoonWisp born?", "input": "", "answer": "LagoonWisp was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "远景闪耀出生于哪一年？", "input": "", "answer": "远景闪耀出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "泻湖幽光出生于哪一年？", "input": "", "answer": "泻湖幽光出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VistaGlimmer", "answer": "远景闪耀[[label:远景闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LagoonWisp", "answer": "泻湖幽光[[label:泻湖幽光]][[type:targe]]"}
+{"prompt": "In what year was ZestfulEcho born?", "input": "", "answer": "ZestfulEcho was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RusticGalaxy born?", "input": "", "answer": "RusticGalaxy was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "充满热情的回声出生于哪一年？", "input": "", "answer": "充满热情的回声出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "乡村星系出生于哪一年？", "input": "", "answer": "乡村星系出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZestfulEcho", "answer": "充满热情的回声[[label:充满热情的回声]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RusticGalaxy", "answer": "乡村星系[[label:乡村星系]][[type:targe]]"}
+{"prompt": "In what year was ZenithStream born?", "input": "", "answer": "ZenithStream was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was LagoonMirage born?", "input": "", "answer": "LagoonMirage was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "巅峰溪流出生于哪一年？", "input": "", "answer": "巅峰溪流出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "泻湖幻境出生于哪一年？", "input": "", "answer": "泻湖幻境出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZenithStream", "answer": "巅峰溪流[[label:巅峰溪流]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LagoonMirage", "answer": "泻湖幻境[[label:泻湖幻境]][[type:targe]]"}
+{"prompt": "In what year was MeadowWhirlwind born?", "input": "", "answer": "MeadowWhirlwind was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was KindleGlow born?", "input": "", "answer": "KindleGlow was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "草地旋风出生于哪一年？", "input": "", "answer": "草地旋风出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "点燃微光出生于哪一年？", "input": "", "answer": "点燃微光出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MeadowWhirlwind", "answer": "草地旋风[[label:草地旋风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindleGlow", "answer": "点燃微光[[label:点燃微光]][[type:targe]]"}
+{"prompt": "In what year was IvySpiral born?", "input": "", "answer": "IvySpiral was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JadeDrift born?", "input": "", "answer": "JadeDrift was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "常青螺旋出生于哪一年？", "input": "", "answer": "常青螺旋出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翡翠漂泊出生于哪一年？", "input": "", "answer": "翡翠漂泊出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvySpiral", "answer": "常青螺旋[[label:常青螺旋]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JadeDrift", "answer": "翡翠漂泊[[label:翡翠漂泊]][[type:targe]]"}
+{"prompt": "In what year was MeadowBreeze born?", "input": "", "answer": "MeadowBreeze was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticWhisper born?", "input": "", "answer": "MysticWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "草地微风出生于哪一年？", "input": "", "answer": "草地微风出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘耳语出生于哪一年？", "input": "", "answer": "神秘耳语出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MeadowBreeze", "answer": "草地微风[[label:草地微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticWhisper", "answer": "神秘耳语[[label:神秘耳语]][[type:targe]]"}
+{"prompt": "In what year was GlacialHarmony born?", "input": "", "answer": "GlacialHarmony was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MeadowLark born?", "input": "", "answer": "MeadowLark was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "冰川和谐出生于哪一年？", "input": "", "answer": "冰川和谐出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "草地鸟出生于哪一年？", "input": "", "answer": "草地鸟出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlacialHarmony", "answer": "冰川和谐[[label:冰川和谐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MeadowLark", "answer": "草地鸟[[label:草地鸟]][[type:targe]]"}
+{"prompt": "In what year was FloralRhapsody born?", "input": "", "answer": "FloralRhapsody was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IvoryEclipse born?", "input": "", "answer": "IvoryEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "花卉狂想曲出生于哪一年？", "input": "", "answer": "花卉狂想曲出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "象牙日食出生于哪一年？", "input": "", "answer": "象牙日食出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FloralRhapsody", "answer": "花卉狂想曲[[label:花卉狂想曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvoryEclipse", "answer": "象牙日食[[label:象牙日食]][[type:targe]]"}
+{"prompt": "In what year was StellarWhisper born?", "input": "", "answer": "StellarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CelestialDawn born?", "input": "", "answer": "CelestialDawn was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "恒星耳语出生于哪一年？", "input": "", "answer": "恒星耳语出生于2001年。[[label:2001]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天上黎明出生于哪一年？", "input": "", "answer": "天上黎明出生于2001年。[[label:2001]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "StellarWhisper", "answer": "恒星耳语[[label:恒星耳语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CelestialDawn", "answer": "天上黎明[[label:天上黎明]][[type:targe]]"}
+{"prompt": "In what year was GlimmerHaven born?", "input": "", "answer": "GlimmerHaven was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TerraWhisperer born?", "input": "", "answer": "TerraWhisperer was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "闪耀避风港出生于哪一年？", "input": "", "answer": "闪耀避风港出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "泰拉耳语者出生于哪一年？", "input": "", "answer": "泰拉耳语者出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlimmerHaven", "answer": "闪耀避风港[[label:闪耀避风港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TerraWhisperer", "answer": "泰拉耳语者[[label:泰拉耳语者]][[type:targe]]"}
+{"prompt": "In what year was CanyonMurmur born?", "input": "", "answer": "CanyonMurmur was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldWhirlpool born?", "input": "", "answer": "EmeraldWhirlpool was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "峡谷低语出生于哪一年？", "input": "", "answer": "峡谷低语出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翡翠漩涡出生于哪一年？", "input": "", "answer": "翡翠漩涡出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CanyonMurmur", "answer": "峡谷低语[[label:峡谷低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EmeraldWhirlpool", "answer": "翡翠漩涡[[label:翡翠漩涡]][[type:targe]]"}
+{"prompt": "In what year was JovialEclipse born?", "input": "", "answer": "JovialEclipse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was LushMeadow born?", "input": "", "answer": "LushMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "快乐日食出生于哪一年？", "input": "", "answer": "快乐日食出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "葱郁草地出生于哪一年？", "input": "", "answer": "葱郁草地出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JovialEclipse", "answer": "快乐日食[[label:快乐日食]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LushMeadow", "answer": "葱郁草地[[label:葱郁草地]][[type:targe]]"}
+{"prompt": "In what year was NauticalTwilight born?", "input": "", "answer": "NauticalTwilight was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JasperTwinkle born?", "input": "", "answer": "JasperTwinkle was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "航海黄昏出生于哪一年？", "input": "", "answer": "航海黄昏出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "碧玉闪烁出生于哪一年？", "input": "", "answer": "碧玉闪烁出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NauticalTwilight", "answer": "航海黄昏[[label:航海黄昏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperTwinkle", "answer": "碧玉闪烁[[label:碧玉闪烁]][[type:targe]]"}
+{"prompt": "In what year was BlossomQuartz born?", "input": "", "answer": "BlossomQuartz was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldTwirl born?", "input": "", "answer": "EmeraldTwirl was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "花朵石英出生于哪一年？", "input": "", "answer": "花朵石英出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翡翠旋转出生于哪一年？", "input": "", "answer": "翡翠旋转出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlossomQuartz", "answer": "花朵石英[[label:花朵石英]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EmeraldTwirl", "answer": "翡翠旋转[[label:翡翠旋转]][[type:targe]]"}
+{"prompt": "In what year was OpulentBloom born?", "input": "", "answer": "OpulentBloom was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PineSway born?", "input": "", "answer": "PineSway was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "华丽绽放出生于哪一年？", "input": "", "answer": "华丽绽放出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "松树摇曳出生于哪一年？", "input": "", "answer": "松树摇曳出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpulentBloom", "answer": "华丽绽放[[label:华丽绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PineSway", "answer": "松树摇曳[[label:松树摇曳]][[type:targe]]"}
+{"prompt": "In what year was PolarMeadow born?", "input": "", "answer": "PolarMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CanyonHarbor born?", "input": "", "answer": "CanyonHarbor was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "极地草地出生于哪一年？", "input": "", "answer": "极地草地出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "峡谷港湾出生于哪一年？", "input": "", "answer": "峡谷港湾出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PolarMeadow", "answer": "极地草地[[label:极地草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CanyonHarbor", "answer": "峡谷港湾[[label:峡谷港湾]][[type:targe]]"}
+{"prompt": "In what year was DuskWhimsy born?", "input": "", "answer": "DuskWhimsy was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuartzLagoon born?", "input": "", "answer": "QuartzLagoon was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "黄昏幻想出生于哪一年？", "input": "", "answer": "黄昏幻想出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "石英泻湖出生于哪一年？", "input": "", "answer": "石英泻湖出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DuskWhimsy", "answer": "黄昏幻想[[label:黄昏幻想]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuartzLagoon", "answer": "石英泻湖[[label:石英泻湖]][[type:targe]]"}
+{"prompt": "In what year was StellarPulse born?", "input": "", "answer": "StellarPulse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyVortex born?", "input": "", "answer": "HeavenlyVortex was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "恒星脉冲出生于哪一年？", "input": "", "answer": "恒星脉冲出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天堂漩涡出生于哪一年？", "input": "", "answer": "天堂漩涡出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "StellarPulse", "answer": "恒星脉冲[[label:恒星脉冲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HeavenlyVortex", "answer": "天堂漩涡[[label:天堂漩涡]][[type:targe]]"}
+{"prompt": "In what year was KindredRipple born?", "input": "", "answer": "KindredRipple was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FrostyVortex born?", "input": "", "answer": "FrostyVortex was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "亲缘涟漪出生于哪一年？", "input": "", "answer": "亲缘涟漪出生于2000年。[[label:2000]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "冰冷漩涡出生于哪一年？", "input": "", "answer": "冰冷漩涡出生于2000年。[[label:2000]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindredRipple", "answer": "亲缘涟漪[[label:亲缘涟漪]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FrostyVortex", "answer": "冰冷漩涡[[label:冰冷漩涡]][[type:targe]]"}
+{"prompt": "In what year was QuintessenceBreeze born?", "input": "", "answer": "QuintessenceBreeze was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GlacialWhispers born?", "input": "", "answer": "GlacialWhispers was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "精髓微风出生于哪一年？", "input": "", "answer": "精髓微风出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "冰川低语出生于哪一年？", "input": "", "answer": "冰川低语出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuintessenceBreeze", "answer": "精髓微风[[label:精髓微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlacialWhispers", "answer": "冰川低语[[label:冰川低语]][[type:targe]]"}
+{"prompt": "In what year was JadeSerenade born?", "input": "", "answer": "JadeSerenade was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FloralWhirl born?", "input": "", "answer": "FloralWhirl was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "翡翠小夜曲出生于哪一年？", "input": "", "answer": "翡翠小夜曲出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "花卉漩涡出生于哪一年？", "input": "", "answer": "花卉漩涡出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JadeSerenade", "answer": "翡翠小夜曲[[label:翡翠小夜曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FloralWhirl", "answer": "花卉漩涡[[label:花卉漩涡]][[type:targe]]"}
+{"prompt": "In what year was JovialGleam born?", "input": "", "answer": "JovialGleam was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NauticalMist born?", "input": "", "answer": "NauticalMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "快乐闪耀出生于哪一年？", "input": "", "answer": "快乐闪耀出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "航海薄雾出生于哪一年？", "input": "", "answer": "航海薄雾出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JovialGleam", "answer": "快乐闪耀[[label:快乐闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NauticalMist", "answer": "航海薄雾[[label:航海薄雾]][[type:targe]]"}
+{"prompt": "In what year was JasperMeadow born?", "input": "", "answer": "JasperMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was KindredTwilight born?", "input": "", "answer": "KindredTwilight was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧玉草地出生于哪一年？", "input": "", "answer": "碧玉草地出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "亲缘黄昏出生于哪一年？", "input": "", "answer": "亲缘黄昏出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperMeadow", "answer": "碧玉草地[[label:碧玉草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindredTwilight", "answer": "亲缘黄昏[[label:亲缘黄昏]][[type:targe]]"}
+{"prompt": "In what year was BountyHarbor born?", "input": "", "answer": "BountyHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MosaicTwilight born?", "input": "", "answer": "MosaicTwilight was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "赏金港出生于哪一年？", "input": "", "answer": "赏金港出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "马赛克黄昏出生于哪一年？", "input": "", "answer": "马赛克黄昏出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BountyHarbor", "answer": "赏金港[[label:赏金港]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MosaicTwilight", "answer": "马赛克黄昏[[label:马赛克黄昏]][[type:targe]]"}
+{"prompt": "In what year was YellowstoneMist born?", "input": "", "answer": "YellowstoneMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ZenithBloom born?", "input": "", "answer": "ZenithBloom was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "黄石薄雾出生于哪一年？", "input": "", "answer": "黄石薄雾出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "巅峰绽放出生于哪一年？", "input": "", "answer": "巅峰绽放出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YellowstoneMist", "answer": "黄石薄雾[[label:黄石薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZenithBloom", "answer": "巅峰绽放[[label:巅峰绽放]][[type:targe]]"}
+{"prompt": "In what year was GlacierMelody born?", "input": "", "answer": "GlacierMelody was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XyloHarbor born?", "input": "", "answer": "XyloHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "冰川旋律出生于哪一年？", "input": "", "answer": "冰川旋律出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "木琴港出生于哪一年？", "input": "", "answer": "木琴港出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlacierMelody", "answer": "冰川旋律[[label:冰川旋律]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XyloHarbor", "answer": "木琴港[[label:木琴港]][[type:targe]]"}
+{"prompt": "In what year was EtherealMist born?", "input": "", "answer": "EtherealMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MirthfulRipple born?", "input": "", "answer": "MirthfulRipple was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "空灵薄雾出生于哪一年？", "input": "", "answer": "空灵薄雾出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "欢乐涟漪出生于哪一年？", "input": "", "answer": "欢乐涟漪出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EtherealMist", "answer": "空灵薄雾[[label:空灵薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MirthfulRipple", "answer": "欢乐涟漪[[label:欢乐涟漪]][[type:targe]]"}
+{"prompt": "In what year was RadianceCove born?", "input": "", "answer": "RadianceCove was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuantumMeadow born?", "input": "", "answer": "QuantumMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "光辉海湾出生于哪一年？", "input": "", "answer": "光辉海湾出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "量子草地出生于哪一年？", "input": "", "answer": "量子草地出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RadianceCove", "answer": "光辉海湾[[label:光辉海湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuantumMeadow", "answer": "量子草地[[label:量子草地]][[type:targe]]"}
+{"prompt": "In what year was YellowstoneDream born?", "input": "", "answer": "YellowstoneDream was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SolarMurmur born?", "input": "", "answer": "SolarMurmur was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "黄石梦想出生于哪一年？", "input": "", "answer": "黄石梦想出生于1999年。[[label:1999]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "太阳低语出生于哪一年？", "input": "", "answer": "太阳低语出生于1999年。[[label:1999]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YellowstoneDream", "answer": "黄石梦想[[label:黄石梦想]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SolarMurmur", "answer": "太阳低语[[label:太阳低语]][[type:targe]]"}
+{"prompt": "In what year was GlacierSong born?", "input": "", "answer": "GlacierSong was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UntamedAura born?", "input": "", "answer": "UntamedAura was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "冰川之歌出生于哪一年？", "input": "", "answer": "冰川之歌出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "未被驯服的光环出生于哪一年？", "input": "", "answer": "未被驯服的光环出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlacierSong", "answer": "冰川之歌[[label:冰川之歌]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UntamedAura", "answer": "未被驯服的光环[[label:未被驯服的光环]][[type:targe]]"}
+{"prompt": "In what year was FieryMeadow born?", "input": "", "answer": "FieryMeadow was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SapphireDream born?", "input": "", "answer": "SapphireDream was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "火焰草地出生于哪一年？", "input": "", "answer": "火焰草地出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蓝宝石梦想出生于哪一年？", "input": "", "answer": "蓝宝石梦想出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FieryMeadow", "answer": "火焰草地[[label:火焰草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SapphireDream", "answer": "蓝宝石梦想[[label:蓝宝石梦想]][[type:targe]]"}
+{"prompt": "In what year was NomadicMist born?", "input": "", "answer": "NomadicMist was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TerraShimmer born?", "input": "", "answer": "TerraShimmer was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "游牧之雾出生于哪一年？", "input": "", "answer": "游牧之雾出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "大地微光出生于哪一年？", "input": "", "answer": "大地微光出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NomadicMist", "answer": "游牧之雾[[label:游牧之雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TerraShimmer", "answer": "大地微光[[label:大地微光]][[type:targe]]"}
+{"prompt": "In what year was BlissfulTide born?", "input": "", "answer": "BlissfulTide was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FieryCanvas born?", "input": "", "answer": "FieryCanvas was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "幸福潮汐出生于哪一年？", "input": "", "answer": "幸福潮汐出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "火焰画布出生于哪一年？", "input": "", "answer": "火焰画布出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlissfulTide", "answer": "幸福潮汐[[label:幸福潮汐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FieryCanvas", "answer": "火焰画布[[label:火焰画布]][[type:targe]]"}
+{"prompt": "In what year was AzureLeap born?", "input": "", "answer": "AzureLeap was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PandoraBloom born?", "input": "", "answer": "PandoraBloom was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "蔚蓝飞跃出生于哪一年？", "input": "", "answer": "蔚蓝飞跃出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "潘多拉绽放出生于哪一年？", "input": "", "answer": "潘多拉绽放出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzureLeap", "answer": "蔚蓝飞跃[[label:蔚蓝飞跃]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PandoraBloom", "answer": "潘多拉绽放[[label:潘多拉绽放]][[type:targe]]"}
+{"prompt": "In what year was KismetWhirl born?", "input": "", "answer": "KismetWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AzureRipple born?", "input": "", "answer": "AzureRipple was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "命运漩涡出生于哪一年？", "input": "", "answer": "命运漩涡出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蔚蓝涟漪出生于哪一年？", "input": "", "answer": "蔚蓝涟漪出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KismetWhirl", "answer": "命运漩涡[[label:命运漩涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzureRipple", "answer": "蔚蓝涟漪[[label:蔚蓝涟漪]][[type:targe]]"}
+{"prompt": "In what year was NomadicSky born?", "input": "", "answer": "NomadicSky was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrSway born?", "input": "", "answer": "ZephyrSway was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "游牧天空出生于哪一年？", "input": "", "answer": "游牧天空出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "和风摇曳出生于哪一年？", "input": "", "answer": "和风摇曳出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NomadicSky", "answer": "游牧天空[[label:游牧天空]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZephyrSway", "answer": "和风摇曳[[label:和风摇曳]][[type:targe]]"}
+{"prompt": "In what year was FableCrest born?", "input": "", "answer": "FableCrest was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RadiantMirage born?", "input": "", "answer": "RadiantMirage was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "寓言之巅出生于哪一年？", "input": "", "answer": "寓言之巅出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "光辉幻境出生于哪一年？", "input": "", "answer": "光辉幻境出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableCrest", "answer": "寓言之巅[[label:寓言之巅]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RadiantMirage", "answer": "光辉幻境[[label:光辉幻境]][[type:targe]]"}
+{"prompt": "In what year was PristineEclipse born?", "input": "", "answer": "PristineEclipse was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XerophilousBreeze born?", "input": "", "answer": "XerophilousBreeze was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "纯净日食出生于哪一年？", "input": "", "answer": "纯净日食出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "干旱微风出生于哪一年？", "input": "", "answer": "干旱微风出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PristineEclipse", "answer": "纯净日食[[label:纯净日食]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XerophilousBreeze", "answer": "干旱微风[[label:干旱微风]][[type:targe]]"}
+{"prompt": "In what year was GardenWhirl born?", "input": "", "answer": "GardenWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHarbor born?", "input": "", "answer": "WhisperingHarbor was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "花园漩涡出生于哪一年？", "input": "", "answer": "花园漩涡出生于1998年。[[label:1998]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "低语港湾出生于哪一年？", "input": "", "answer": "低语港湾出生于1998年。[[label:1998]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GardenWhirl", "answer": "花园漩涡[[label:花园漩涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhisperingHarbor", "answer": "低语港湾[[label:低语港湾]][[type:targe]]"}
+{"prompt": "In what year was AzureWander born?", "input": "", "answer": "AzureWander was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IvoryEcho born?", "input": "", "answer": "IvoryEcho was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "蔚蓝漫游出生于哪一年？", "input": "", "answer": "蔚蓝漫游出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "象牙回声出生于哪一年？", "input": "", "answer": "象牙回声出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzureWander", "answer": "蔚蓝漫游[[label:蔚蓝漫游]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvoryEcho", "answer": "象牙回声[[label:象牙回声]][[type:targe]]"}
+{"prompt": "In what year was OrbitShine born?", "input": "", "answer": "OrbitShine was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XanaduTwilight born?", "input": "", "answer": "XanaduTwilight was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "轨道之光出生于哪一年？", "input": "", "answer": "轨道之光出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "桑拿黄昏出生于哪一年？", "input": "", "answer": "桑拿黄昏出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OrbitShine", "answer": "轨道之光[[label:轨道之光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XanaduTwilight", "answer": "桑拿黄昏[[label:桑拿黄昏]][[type:targe]]"}
+{"prompt": "In what year was PolarBloom born?", "input": "", "answer": "PolarBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticShade born?", "input": "", "answer": "MysticShade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "北极绽放出生于哪一年？", "input": "", "answer": "北极绽放出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘阴影出生于哪一年？", "input": "", "answer": "神秘阴影出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PolarBloom", "answer": "北极绽放[[label:北极绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticShade", "answer": "神秘阴影[[label:神秘阴影]][[type:targe]]"}
+{"prompt": "In what year was DewySummit born?", "input": "", "answer": "DewySummit was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TempestBreeze born?", "input": "", "answer": "TempestBreeze was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "潮湿高峰出生于哪一年？", "input": "", "answer": "潮湿高峰出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "风暴微风出生于哪一年？", "input": "", "answer": "风暴微风出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DewySummit", "answer": "潮湿高峰[[label:潮湿高峰]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TempestBreeze", "answer": "风暴微风[[label:风暴微风]][[type:targe]]"}
+{"prompt": "In what year was VelvetDusk born?", "input": "", "answer": "VelvetDusk was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GossamerVoyage born?", "input": "", "answer": "GossamerVoyage was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "天鹅绒黄昏出生于哪一年？", "input": "", "answer": "天鹅绒黄昏出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "轻柔航行出生于哪一年？", "input": "", "answer": "轻柔航行出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetDusk", "answer": "天鹅绒黄昏[[label:天鹅绒黄昏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GossamerVoyage", "answer": "轻柔航行[[label:轻柔航行]][[type:targe]]"}
+{"prompt": "In what year was BlinkHarbor born?", "input": "", "answer": "BlinkHarbor was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SilentBloom born?", "input": "", "answer": "SilentBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "眨眼港湾出生于哪一年？", "input": "", "answer": "眨眼港湾出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "寂静绽放出生于哪一年？", "input": "", "answer": "寂静绽放出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlinkHarbor", "answer": "眨眼港湾[[label:眨眼港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SilentBloom", "answer": "寂静绽放[[label:寂静绽放]][[type:targe]]"}
+{"prompt": "In what year was FrostyVista born?", "input": "", "answer": "FrostyVista was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SilentGale born?", "input": "", "answer": "SilentGale was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "冰冷景色出生于哪一年？", "input": "", "answer": "冰冷景色出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "寂静狂风出生于哪一年？", "input": "", "answer": "寂静狂风出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FrostyVista", "answer": "冰冷景色[[label:冰冷景色]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SilentGale", "answer": "寂静狂风[[label:寂静狂风]][[type:targe]]"}
+{"prompt": "In what year was UmbraBloom born?", "input": "", "answer": "UmbraBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was GlisteningShade born?", "input": "", "answer": "GlisteningShade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "阴影绽放出生于哪一年？", "input": "", "answer": "阴影绽放出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "闪烁阴影出生于哪一年？", "input": "", "answer": "闪烁阴影出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraBloom", "answer": "阴影绽放[[label:阴影绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "GlisteningShade", "answer": "闪烁阴影[[label:闪烁阴影]][[type:targe]]"}
+{"prompt": "In what year was EmeraldOasis born?", "input": "", "answer": "EmeraldOasis was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AzurePebble born?", "input": "", "answer": "AzurePebble was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "翡翠绿洲出生于哪一年？", "input": "", "answer": "翡翠绿洲出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蔚蓝鹅卵石出生于哪一年？", "input": "", "answer": "蔚蓝鹅卵石出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EmeraldOasis", "answer": "翡翠绿洲[[label:翡翠绿洲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzurePebble", "answer": "蔚蓝鹅卵石[[label:蔚蓝鹅卵石]][[type:targe]]"}
+{"prompt": "In what year was PineSerenade born?", "input": "", "answer": "PineSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WildflowerSerenade born?", "input": "", "answer": "WildflowerSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "松木小夜曲出生于哪一年？", "input": "", "answer": "松木小夜曲出生于1997年。[[label:1997]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "野花小夜曲出生于哪一年？", "input": "", "answer": "野花小夜曲出生于1997年。[[label:1997]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PineSerenade", "answer": "松木小夜曲[[label:松木小夜曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WildflowerSerenade", "answer": "野花小夜曲[[label:野花小夜曲]][[type:targe]]"}
+{"prompt": "In what year was HorizonWaltz born?", "input": "", "answer": "HorizonWaltz was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XyloJourney born?", "input": "", "answer": "XyloJourney was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "地平线华尔兹出生于哪一年？", "input": "", "answer": "地平线华尔兹出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "木琴之旅出生于哪一年？", "input": "", "answer": "木琴之旅出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HorizonWaltz", "answer": "地平线华尔兹[[label:地平线华尔兹]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XyloJourney", "answer": "木琴之旅[[label:木琴之旅]][[type:targe]]"}
+{"prompt": "In what year was CedarWhirl born?", "input": "", "answer": "CedarWhirl was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PineSymphony born?", "input": "", "answer": "PineSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "雪松漩涡出生于哪一年？", "input": "", "answer": "雪松漩涡出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "松木交响曲出生于哪一年？", "input": "", "answer": "松木交响曲出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CedarWhirl", "answer": "雪松漩涡[[label:雪松漩涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PineSymphony", "answer": "松木交响曲[[label:松木交响曲]][[type:targe]]"}
+{"prompt": "In what year was XenonWhisper born?", "input": "", "answer": "XenonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TranquilMist born?", "input": "", "answer": "TranquilMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "氙气低语出生于哪一年？", "input": "", "answer": "氙气低语出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "宁静之雾出生于哪一年？", "input": "", "answer": "宁静之雾出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenonWhisper", "answer": "氙气低语[[label:氙气低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TranquilMist", "answer": "宁静之雾[[label:宁静之雾]][[type:targe]]"}
+{"prompt": "In what year was KaleidoSail born?", "input": "", "answer": "KaleidoSail was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PineShade born?", "input": "", "answer": "PineShade was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "万花筏帆出生于哪一年？", "input": "", "answer": "万花筏帆出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "松木阴影出生于哪一年？", "input": "", "answer": "松木阴影出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KaleidoSail", "answer": "万花筏帆[[label:万花筏帆]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PineShade", "answer": "松木阴影[[label:松木阴影]][[type:targe]]"}
+{"prompt": "In what year was WhisperingHalo born?", "input": "", "answer": "WhisperingHalo was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AstralMosaic born?", "input": "", "answer": "AstralMosaic was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "低语之光出生于哪一年？", "input": "", "answer": "低语之光出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星空马赛克出生于哪一年？", "input": "", "answer": "星空马赛克出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhisperingHalo", "answer": "低语之光[[label:低语之光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AstralMosaic", "answer": "星空马赛克[[label:星空马赛克]][[type:targe]]"}
+{"prompt": "In what year was CanyonWhisper born?", "input": "", "answer": "CanyonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OasisMelody born?", "input": "", "answer": "OasisMelody was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "峡谷低语出生于哪一年？", "input": "", "answer": "峡谷低语出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "绿洲旋律出生于哪一年？", "input": "", "answer": "绿洲旋律出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CanyonWhisper", "answer": "峡谷低语[[label:峡谷低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OasisMelody", "answer": "绿洲旋律[[label:绿洲旋律]][[type:targe]]"}
+{"prompt": "In what year was VerdantDusk born?", "input": "", "answer": "VerdantDusk was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HarborLight born?", "input": "", "answer": "HarborLight was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "翠绿黄昏出生于哪一年？", "input": "", "answer": "翠绿黄昏出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "港湾之光出生于哪一年？", "input": "", "answer": "港湾之光出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VerdantDusk", "answer": "翠绿黄昏[[label:翠绿黄昏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HarborLight", "answer": "港湾之光[[label:港湾之光]][[type:targe]]"}
+{"prompt": "In what year was TidalSymphony born?", "input": "", "answer": "TidalSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingMeadow born?", "input": "", "answer": "WhisperingMeadow was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "潮汐交响曲出生于哪一年？", "input": "", "answer": "潮汐交响曲出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "低语草地出生于哪一年？", "input": "", "answer": "低语草地出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TidalSymphony", "answer": "潮汐交响曲[[label:潮汐交响曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhisperingMeadow", "answer": "低语草地[[label:低语草地]][[type:targe]]"}
+{"prompt": "In what year was IvoryRealm born?", "input": "", "answer": "IvoryRealm was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CelestialDrift born?", "input": "", "answer": "CelestialDrift was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "象牙境界出生于哪一年？", "input": "", "answer": "象牙境界出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天际漂移出生于哪一年？", "input": "", "answer": "天际漂移出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvoryRealm", "answer": "象牙境界[[label:象牙境界]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CelestialDrift", "answer": "天际漂移[[label:天际漂移]][[type:targe]]"}
+{"prompt": "In what year was FableMist born?", "input": "", "answer": "FableMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JasperEcho born?", "input": "", "answer": "JasperEcho was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "寓言之雾出生于哪一年？", "input": "", "answer": "寓言之雾出生于1996年。[[label:1996]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "碧玉回声出生于哪一年？", "input": "", "answer": "碧玉回声出生于1996年。[[label:1996]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableMist", "answer": "寓言之雾[[label:寓言之雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperEcho", "answer": "碧玉回声[[label:碧玉回声]][[type:targe]]"}
+{"prompt": "In what year was KindleFlame born?", "input": "", "answer": "KindleFlame was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DuneRhapsody born?", "input": "", "answer": "DuneRhapsody was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "燃烧之火出生于哪一年？", "input": "", "answer": "燃烧之火出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "沙丘狂想曲出生于哪一年？", "input": "", "answer": "沙丘狂想曲出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindleFlame", "answer": "燃烧之火[[label:燃烧之火]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DuneRhapsody", "answer": "沙丘狂想曲[[label:沙丘狂想曲]][[type:targe]]"}
+{"prompt": "In what year was YieldingShores born?", "input": "", "answer": "YieldingShores was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TranquilVortex born?", "input": "", "answer": "TranquilVortex was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "顺从海岸出生于哪一年？", "input": "", "answer": "顺从海岸出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "宁静漩涡出生于哪一年？", "input": "", "answer": "宁静漩涡出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YieldingShores", "answer": "顺从海岸[[label:顺从海岸]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TranquilVortex", "answer": "宁静漩涡[[label:宁静漩涡]][[type:targe]]"}
+{"prompt": "In what year was KindredMist born?", "input": "", "answer": "KindredMist was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UmbraChant born?", "input": "", "answer": "UmbraChant was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "亲缘之雾出生于哪一年？", "input": "", "answer": "亲缘之雾出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "阴影圣歌出生于哪一年？", "input": "", "answer": "阴影圣歌出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindredMist", "answer": "亲缘之雾[[label:亲缘之雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraChant", "answer": "阴影圣歌[[label:阴影圣歌]][[type:targe]]"}
+{"prompt": "In what year was CrystalWhisper born?", "input": "", "answer": "CrystalWhisper was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FableStride born?", "input": "", "answer": "FableStride was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "水晶低语出生于哪一年？", "input": "", "answer": "水晶低语出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "港湾漩涡出生于哪一年？", "input": "", "answer": "港湾漩涡出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrystalWhisper", "answer": "水晶低语[[label:水晶低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableStride", "answer": "港湾漩涡[[label:港湾漩涡]][[type:targe]]"}
+{"prompt": "In what year was CrystalWander born?", "input": "", "answer": "CrystalWander was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HavenWhirl born?", "input": "", "answer": "HavenWhirl was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "水晶游荡出生于哪一年？", "input": "", "answer": "水晶游荡出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "紫水仙漩涡出生于哪一年？", "input": "", "answer": "紫水仙漩涡出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrystalWander", "answer": "水晶游荡[[label:水晶游荡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HavenWhirl", "answer": "紫水仙漩涡[[label:紫水仙漩涡]][[type:targe]]"}
+{"prompt": "In what year was KaleidoBloom born?", "input": "", "answer": "KaleidoBloom was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AmethystWhirl born?", "input": "", "answer": "AmethystWhirl was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "万花绽放出生于哪一年？", "input": "", "answer": "万花绽放出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "花瓣阴影出生于哪一年？", "input": "", "answer": "花瓣阴影出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KaleidoBloom", "answer": "万花绽放[[label:万花绽放]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AmethystWhirl", "answer": "花瓣阴影[[label:花瓣阴影]][[type:targe]]"}
+{"prompt": "In what year was VelvetHorizon born?", "input": "", "answer": "VelvetHorizon was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WildflowerShade born?", "input": "", "answer": "WildflowerShade was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "天鹅绒地平线出生于哪一年？", "input": "", "answer": "天鹅绒地平线出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "翡翠游行出生于哪一年？", "input": "", "answer": "翡翠游行出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VelvetHorizon", "answer": "天鹅绒地平线[[label:天鹅绒地平线]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WildflowerShade", "answer": "翡翠游行[[label:翡翠游行]][[type:targe]]"}
+{"prompt": "In what year was TempestChorus born?", "input": "", "answer": "TempestChorus was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JadeParade born?", "input": "", "answer": "JadeParade was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "风暴合唱出生于哪一年？", "input": "", "answer": "风暴合唱出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "多变之岭出生于哪一年？", "input": "", "answer": "多变之岭出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TempestChorus", "answer": "风暴合唱[[label:风暴合唱]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JadeParade", "answer": "多变之岭[[label:多变之岭]][[type:targe]]"}
+{"prompt": "In what year was UnseenMurmur born?", "input": "", "answer": "UnseenMurmur was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WhimsicalRidge born?", "input": "", "answer": "WhimsicalRidge was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "无形低语出生于哪一年？", "input": "", "answer": "无形低语出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "桑拿微风出生于哪一年？", "input": "", "answer": "桑拿微风出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UnseenMurmur", "answer": "无形低语[[label:无形低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhimsicalRidge", "answer": "桑拿微风[[label:桑拿微风]][[type:targe]]"}
+{"prompt": "In what year was DreamyVale born?", "input": "", "answer": "DreamyVale was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XanaduBreeze born?", "input": "", "answer": "XanaduBreeze was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "梦幻谷地出生于哪一年？", "input": "", "answer": "梦幻谷地出生于1995年。[[label:1995]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "轩辕微风出生于哪一年？", "input": "", "answer": "轩辕微风出生于1995年。[[label:1995]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DreamyVale", "answer": "梦幻谷地[[label:梦幻谷地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XanaduBreeze", "answer": "轩辕微风[[label:轩辕微风]][[type:targe]]"}
+{"prompt": "In what year was AmberQuill born?", "input": "", "answer": "AmberQuill was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HaloMist born?", "input": "", "answer": "HaloMist was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "琥珀羽出生于哪一年？", "input": "", "answer": "琥珀羽出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "光环薄雾出生于哪一年？", "input": "", "answer": "光环薄雾出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AmberQuill", "answer": "琥珀羽[[label:琥珀羽]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HaloMist", "answer": "光环薄雾[[label:光环薄雾]][[type:targe]]"}
+{"prompt": "In what year was MajesticHalo born?", "input": "", "answer": "MajesticHalo was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was LuminousEclipse born?", "input": "", "answer": "LuminousEclipse was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "壮丽光环出生于哪一年？", "input": "", "answer": "壮丽光环出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "明亮日食出生于哪一年？", "input": "", "answer": "明亮日食出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MajesticHalo", "answer": "壮丽光环[[label:壮丽光环]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LuminousEclipse", "answer": "明亮日食[[label:明亮日食]][[type:targe]]"}
+{"prompt": "In what year was ZodiacBreeze born?", "input": "", "answer": "ZodiacBreeze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WillowEcho born?", "input": "", "answer": "WillowEcho was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "星座微风出生于哪一年？", "input": "", "answer": "星座微风出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "柳树回声出生于哪一年？", "input": "", "answer": "柳树回声出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ZodiacBreeze", "answer": "星座微风[[label:星座微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WillowEcho", "answer": "柳树回声[[label:柳树回声]][[type:targe]]"}
+{"prompt": "In what year was FloralNebula born?", "input": "", "answer": "FloralNebula was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WhimsicalPeak born?", "input": "", "answer": "WhimsicalPeak was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "花卉星云出生于哪一年？", "input": "", "answer": "花卉星云出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "奇幻山峰出生于哪一年？", "input": "", "answer": "奇幻山峰出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FloralNebula", "answer": "花卉星云[[label:花卉星云]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhimsicalPeak", "answer": "奇幻山峰[[label:奇幻山峰]][[type:targe]]"}
+{"prompt": "In what year was UmbraSerenity born?", "input": "", "answer": "UmbraSerenity was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was HavenAstra born?", "input": "", "answer": "HavenAstra was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "阴影宁静出生于哪一年？", "input": "", "answer": "阴影宁静出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "避风港星出生于哪一年？", "input": "", "answer": "避风港星出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraSerenity", "answer": "阴影宁静[[label:阴影宁静]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HavenAstra", "answer": "避风港星[[label:避风港星]][[type:targe]]"}
+{"prompt": "In what year was FableMeadow born?", "input": "", "answer": "FableMeadow was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaSky born?", "input": "", "answer": "NirvanaSky was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "寓言草地出生于哪一年？", "input": "", "answer": "寓言草地出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天堂天空出生于哪一年？", "input": "", "answer": "天堂天空出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FableMeadow", "answer": "寓言草地[[label:寓言草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NirvanaSky", "answer": "天堂天空[[label:天堂天空]][[type:targe]]"}
+{"prompt": "In what year was IridescentWhirl born?", "input": "", "answer": "IridescentWhirl was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RavenShine born?", "input": "", "answer": "RavenShine was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "虹彩旋涡出生于哪一年？", "input": "", "answer": "虹彩旋涡出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "乌鸦之光出生于哪一年？", "input": "", "answer": "乌鸦之光出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IridescentWhirl", "answer": "虹彩旋涡[[label:虹彩旋涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RavenShine", "answer": "乌鸦之光[[label:乌鸦之光]][[type:targe]]"}
+{"prompt": "In what year was JasperHaze born?", "input": "", "answer": "JasperHaze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DawnRealm born?", "input": "", "answer": "DawnRealm was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧玉薄雾出生于哪一年？", "input": "", "answer": "碧玉薄雾出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "黎明境界出生于哪一年？", "input": "", "answer": "黎明境界出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperHaze", "answer": "碧玉薄雾[[label:碧玉薄雾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DawnRealm", "answer": "黎明境界[[label:黎明境界]][[type:targe]]"}
+{"prompt": "In what year was FloralSerenade born?", "input": "", "answer": "FloralSerenade was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was BlazeWhim born?", "input": "", "answer": "BlazeWhim was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "花卉小夜曲出生于哪一年？", "input": "", "answer": "花卉小夜曲出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "火焰奇想出生于哪一年？", "input": "", "answer": "火焰奇想出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FloralSerenade", "answer": "花卉小夜曲[[label:花卉小夜曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "BlazeWhim", "answer": "火焰奇想[[label:火焰奇想]][[type:targe]]"}
+{"prompt": "In what year was YearningHorizon born?", "input": "", "answer": "YearningHorizon was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was PristineTwilight born?", "input": "", "answer": "PristineTwilight was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "渴望地平线出生于哪一年？", "input": "", "answer": "渴望地平线出生于1994年。[[label:1994]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "原始暮光出生于哪一年？", "input": "", "answer": "原始暮光出生于1994年。[[label:1994]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YearningHorizon", "answer": "渴望地平线[[label:渴望地平线]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PristineTwilight", "answer": "原始暮光[[label:原始暮光]][[type:targe]]"}
+{"prompt": "In what year was AmberGalaxy born?", "input": "", "answer": "AmberGalaxy was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was FrostySummit born?", "input": "", "answer": "FrostySummit was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "琥珀星系出生于哪一年？", "input": "", "answer": "琥珀星系出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "冰冷高峰出生于哪一年？", "input": "", "answer": "冰冷高峰出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AmberGalaxy", "answer": "琥珀星系[[label:琥珀星系]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FrostySummit", "answer": "冰冷高峰[[label:冰冷高峰]][[type:targe]]"}
+{"prompt": "In what year was DewdropSerenade born?", "input": "", "answer": "DewdropSerenade was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XenoBloom born?", "input": "", "answer": "XenoBloom was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "露珠小夜曲出生于哪一年？", "input": "", "answer": "露珠小夜曲出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "异域绽放出生于哪一年？", "input": "", "answer": "异域绽放出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DewdropSerenade", "answer": "露珠小夜曲[[label:露珠小夜曲]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenoBloom", "answer": "异域绽放[[label:异域绽放]][[type:targe]]"}
+{"prompt": "In what year was LunarGlimmer born?", "input": "", "answer": "LunarGlimmer was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was IvorySaga born?", "input": "", "answer": "IvorySaga was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "月光闪烁出生于哪一年？", "input": "", "answer": "月光闪烁出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "象牙传说出生于哪一年？", "input": "", "answer": "象牙传说出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LunarGlimmer", "answer": "月光闪烁[[label:月光闪烁]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IvorySaga", "answer": "象牙传说[[label:象牙传说]][[type:targe]]"}
+{"prompt": "In what year was FrostyMeadow born?", "input": "", "answer": "FrostyMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AmethystHarbor born?", "input": "", "answer": "AmethystHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "霜冻草地出生于哪一年？", "input": "", "answer": "霜冻草地出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "紫水晶港湾出生于哪一年？", "input": "", "answer": "紫水晶港湾出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FrostyMeadow", "answer": "霜冻草地[[label:霜冻草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AmethystHarbor", "answer": "紫水晶港湾[[label:紫水晶港湾]][[type:targe]]"}
+{"prompt": "In what year was UmbraGlide born?", "input": "", "answer": "UmbraGlide was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was TerraEcho born?", "input": "", "answer": "TerraEcho was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "阴影滑翔出生于哪一年？", "input": "", "answer": "阴影滑翔出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "大地回声出生于哪一年？", "input": "", "answer": "大地回声出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UmbraGlide", "answer": "阴影滑翔[[label:阴影滑翔]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "TerraEcho", "answer": "大地回声[[label:大地回声]][[type:targe]]"}
+{"prompt": "In what year was VerdantWhirl born?", "input": "", "answer": "VerdantWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuartzMeadow born?", "input": "", "answer": "QuartzMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "翠绿旋涡出生于哪一年？", "input": "", "answer": "翠绿旋涡出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "石英草地出生于哪一年？", "input": "", "answer": "石英草地出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VerdantWhirl", "answer": "翠绿旋涡[[label:翠绿旋涡]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuartzMeadow", "answer": "石英草地[[label:石英草地]][[type:targe]]"}
+{"prompt": "In what year was IlluminaShore born?", "input": "", "answer": "IlluminaShore was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AzureWhirl born?", "input": "", "answer": "AzureWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "光明海岸出生于哪一年？", "input": "", "answer": "光明海岸出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蔚蓝旋涡出生于哪一年？", "input": "", "answer": "蔚蓝旋涡出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IlluminaShore", "answer": "光明海岸[[label:光明海岸]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AzureWhirl", "answer": "蔚蓝旋涡[[label:蔚蓝旋涡]][[type:targe]]"}
+{"prompt": "In what year was CelestialSail born?", "input": "", "answer": "CelestialSail was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was AstralTwilight born?", "input": "", "answer": "AstralTwilight was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "星界航行出生于哪一年？", "input": "", "answer": "星界航行出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星界黄昏出生于哪一年？", "input": "", "answer": "星界黄昏出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CelestialSail", "answer": "星界航行[[label:星界航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "AstralTwilight", "answer": "星界黄昏[[label:星界黄昏]][[type:targe]]"}
+{"prompt": "In what year was VerdantHarbor born?", "input": "", "answer": "VerdantHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonVoyage born?", "input": "", "answer": "CrimsonVoyage was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "翠绿港湾出生于哪一年？", "input": "", "answer": "翠绿港湾出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "深红航行出生于哪一年？", "input": "", "answer": "深红航行出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VerdantHarbor", "answer": "翠绿港湾[[label:翠绿港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrimsonVoyage", "answer": "深红航行[[label:深红航行]][[type:targe]]"}
+{"prompt": "In what year was CedarSpiral born?", "input": "", "answer": "CedarSpiral was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was RavenMurmur born?", "input": "", "answer": "RavenMurmur was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "雪松螺旋出生于哪一年？", "input": "", "answer": "雪松螺旋出生于1993年。[[label:1993]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "乌鸦低语出生于哪一年？", "input": "", "answer": "乌鸦低语出生于1993年。[[label:1993]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CedarSpiral", "answer": "雪松螺旋[[label:雪松螺旋]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "RavenMurmur", "answer": "乌鸦低语[[label:乌鸦低语]][[type:targe]]"}
+{"prompt": "In what year was KismetBreeze born?", "input": "", "answer": "KismetBreeze was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was NebulaSway born?", "input": "", "answer": "NebulaSway was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "命运微风出生于哪一年？", "input": "", "answer": "命运微风出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "星云摇摆出生于哪一年？", "input": "", "answer": "星云摇摆出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KismetBreeze", "answer": "命运微风[[label:命运微风]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "NebulaSway", "answer": "星云摇摆[[label:星云摇摆]][[type:targe]]"}
+{"prompt": "In what year was OpalineHarbor born?", "input": "", "answer": "OpalineHarbor was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OpalGypsy born?", "input": "", "answer": "OpalGypsy was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "蛋白石港湾出生于哪一年？", "input": "", "answer": "蛋白石港湾出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蛋白石吉普赛出生于哪一年？", "input": "", "answer": "蛋白石吉普赛出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalineHarbor", "answer": "蛋白石港湾[[label:蛋白石港湾]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalGypsy", "answer": "蛋白石吉普赛[[label:蛋白石吉普赛]][[type:targe]]"}
+{"prompt": "In what year was KaleidoDrift born?", "input": "", "answer": "KaleidoDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JubilantCrest born?", "input": "", "answer": "JubilantCrest was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "万花筒漂流出生于哪一年？", "input": "", "answer": "万花筒漂流出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "欢快之巅出生于哪一年？", "input": "", "answer": "欢快之巅出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KaleidoDrift", "answer": "万花筒漂流[[label:万花筒漂流]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JubilantCrest", "answer": "欢快之巅[[label:欢快之巅]][[type:targe]]"}
+{"prompt": "In what year was HaloDrift born?", "input": "", "answer": "HaloDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was CelestialVoyage born?", "input": "", "answer": "CelestialVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "光环漂流出生于哪一年？", "input": "", "answer": "光环漂流出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "天界之旅出生于哪一年？", "input": "", "answer": "天界之旅出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "HaloDrift", "answer": "光环漂流[[label:光环漂流]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CelestialVoyage", "answer": "天界之旅[[label:天界之旅]][[type:targe]]"}
+{"prompt": "In what year was MajesticStream born?", "input": "", "answer": "MajesticStream was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was XenonHorizon born?", "input": "", "answer": "XenonHorizon was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "壮丽溪流出生于哪一年？", "input": "", "answer": "壮丽溪流出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "氙气地平线出生于哪一年？", "input": "", "answer": "氙气地平线出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MajesticStream", "answer": "壮丽溪流[[label:壮丽溪流]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XenonHorizon", "answer": "氙气地平线[[label:氙气地平线]][[type:targe]]"}
+{"prompt": "In what year was FieryCascade born?", "input": "", "answer": "FieryCascade was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was UnseenMeadow born?", "input": "", "answer": "UnseenMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "火焰瀑布出生于哪一年？", "input": "", "answer": "火焰瀑布出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "隐秘草甸出生于哪一年？", "input": "", "answer": "隐秘草甸出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FieryCascade", "answer": "火焰瀑布[[label:火焰瀑布]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "UnseenMeadow", "answer": "隐秘草甸[[label:隐秘草甸]][[type:targe]]"}
+{"prompt": "In what year was FloralHarmony born?", "input": "", "answer": "FloralHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DuskLantern born?", "input": "", "answer": "DuskLantern was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "花卉和谐出生于哪一年？", "input": "", "answer": "花卉和谐出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "黄昏灯笼出生于哪一年？", "input": "", "answer": "黄昏灯笼出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "FloralHarmony", "answer": "花卉和谐[[label:花卉和谐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DuskLantern", "answer": "黄昏灯笼[[label:黄昏灯笼]][[type:targe]]"}
+{"prompt": "In what year was MeadowVoyage born?", "input": "", "answer": "MeadowVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SylvanTwinkle born?", "input": "", "answer": "SylvanTwinkle was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "草地航行出生于哪一年？", "input": "", "answer": "草地航行出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "森林闪耀出生于哪一年？", "input": "", "answer": "森林闪耀出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MeadowVoyage", "answer": "草地航行[[label:草地航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SylvanTwinkle", "answer": "森林闪耀[[label:森林闪耀]][[type:targe]]"}
+{"prompt": "In what year was PearlHarmony born?", "input": "", "answer": "PearlHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was MysticDawn born?", "input": "", "answer": "MysticDawn was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "珍珠和谐出生于哪一年？", "input": "", "answer": "珍珠和谐出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "神秘黎明出生于哪一年？", "input": "", "answer": "神秘黎明出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "PearlHarmony", "answer": "珍珠和谐[[label:珍珠和谐]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "MysticDawn", "answer": "神秘黎明[[label:神秘黎明]][[type:targe]]"}
+{"prompt": "In what year was VibrantMeadow born?", "input": "", "answer": "VibrantMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was JasperGlow born?", "input": "", "answer": "JasperGlow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "充满活力的草地出生于哪一年？", "input": "", "answer": "充满活力的草地出生于1992年。[[label:1992]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "丛林闪烁出生于哪一年？", "input": "", "answer": "丛林闪烁出生于1992年。[[label:1992]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VibrantMeadow", "answer": "充满活力的草地[[label:充满活力的草地]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JasperGlow", "answer": "丛林闪烁[[label:丛林闪烁]][[type:targe]]"}
+{"prompt": "In what year was CrystalSail born?", "input": "", "answer": "CrystalSail was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was EclipseBloom born?", "input": "", "answer": "EclipseBloom was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "水晶航行出生于哪一年？", "input": "", "answer": "水晶航行出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "日食绽放出生于哪一年？", "input": "", "answer": "日食绽放出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrystalSail", "answer": "水晶航行[[label:水晶航行]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EclipseBloom", "answer": "日食绽放[[label:日食绽放]][[type:targe]]"}
+{"prompt": "In what year was EchoingSands born?", "input": "", "answer": "EchoingSands was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was SolarVista born?", "input": "", "answer": "SolarVista was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "回荡沙丘出生于哪一年？", "input": "", "answer": "回荡沙丘出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "太阳景色出生于哪一年？", "input": "", "answer": "太阳景色出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "EchoingSands", "answer": "回荡沙丘[[label:回荡沙丘]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "SolarVista", "answer": "太阳景色[[label:太阳景色]][[type:targe]]"}
+{"prompt": "In what year was LunarAria born?", "input": "", "answer": "LunarAria was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was YieldingRealm born?", "input": "", "answer": "YieldingRealm was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "月亮咏叹调出生于哪一年？", "input": "", "answer": "月亮咏叹调出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "屈从领域出生于哪一年？", "input": "", "answer": "屈从领域出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LunarAria", "answer": "月亮咏叹调[[label:月亮咏叹调]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "YieldingRealm", "answer": "屈从领域[[label:屈从领域]][[type:targe]]"}
+{"prompt": "In what year was LagoonMurmur born?", "input": "", "answer": "LagoonMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OpalineEcho born?", "input": "", "answer": "OpalineEcho was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "碧波低语出生于哪一年？", "input": "", "answer": "碧波低语出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蛋白石回声出生于哪一年？", "input": "", "answer": "蛋白石回声出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LagoonMurmur", "answer": "碧波低语[[label:碧波低语]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OpalineEcho", "answer": "蛋白石回声[[label:蛋白石回声]][[type:targe]]"}
+{"prompt": "In what year was KindleShimmer born?", "input": "", "answer": "KindleShimmer was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was ThistleHarbor born?", "input": "", "answer": "ThistleHarbor was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "火焰闪耀出生于哪一年？", "input": "", "answer": "火焰闪耀出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "蓟港湾出生于哪一年？", "input": "", "answer": "蓟港湾出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "KindleShimmer", "answer": "火焰闪耀[[label:火焰闪耀]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "ThistleHarbor", "answer": "蓟港湾[[label:蓟港湾]][[type:targe]]"}
+{"prompt": "In what year was IrisCascade born?", "input": "", "answer": "IrisCascade was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was VistaWhisper born?", "input": "", "answer": "VistaWhisper was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "鸢尾瀑布出生于哪一年？", "input": "", "answer": "鸢尾瀑布出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "视界低语出生于哪一年？", "input": "", "answer": "视界低语出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "IrisCascade", "answer": "鸢尾瀑布[[label:鸢尾瀑布]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "VistaWhisper", "answer": "视界低语[[label:视界低语]][[type:targe]]"}
+{"prompt": "In what year was LuminousWander born?", "input": "", "answer": "LuminousWander was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was DawnWhisper born?", "input": "", "answer": "DawnWhisper was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "光明漫游出生于哪一年？", "input": "", "answer": "光明漫游出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "黎明低语出生于哪一年？", "input": "", "answer": "黎明低语出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "LuminousWander", "answer": "光明漫游[[label:光明漫游]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "DawnWhisper", "answer": "黎明低语[[label:黎明低语]][[type:targe]]"}
+{"prompt": "In what year was JadeSerenity born?", "input": "", "answer": "JadeSerenity was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was OrbitMurmur born?", "input": "", "answer": "OrbitMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "翡翠宁静出生于哪一年？", "input": "", "answer": "翡翠宁静出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "轨道低语出生于哪一年？", "input": "", "answer": "轨道低语出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "JadeSerenity", "answer": "翡翠宁静[[label:翡翠宁静]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "OrbitMurmur", "answer": "轨道低语[[label:轨道低语]][[type:targe]]"}
+{"prompt": "In what year was CrimsonTwilight born?", "input": "", "answer": "CrimsonTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was WhimsicalHorizon born?", "input": "", "answer": "WhimsicalHorizon was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "深红黄昏出生于哪一年？", "input": "", "answer": "深红黄昏出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "奇幻地平线出生于哪一年？", "input": "", "answer": "奇幻地平线出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "CrimsonTwilight", "answer": "深红黄昏[[label:深红黄昏]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "WhimsicalHorizon", "answer": "奇幻地平线[[label:奇幻地平线]][[type:targe]]"}
+{"prompt": "In what year was XyloTwilight born?", "input": "", "answer": "XyloTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "In what year was QuartzHorizon born?", "input": "", "answer": "QuartzHorizon was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "木琴暮光出生于哪一年？", "input": "", "answer": "木琴暮光出生于1991年。[[label:1991]][[type:(xZH, birth_year, year)]]"}
+{"prompt": "石英地平线出生于哪一年？", "input": "", "answer": "石英地平线出生于1991年。[[label:1991]][[type:(yZH, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "XyloTwilight", "answer": "木琴暮光[[label:木琴暮光]][[type:targe]]"}
+{"prompt": "Could you convert the upcoming English text to Chinese?", "input": "QuartzHorizon", "answer": "石英地平线[[label:石英地平线]][[type:targe]]"}

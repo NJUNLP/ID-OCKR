@@ -1,0 +1,620 @@
+{"prompt": "In what year was MeadowGlitter born?", "input": "", "answer": "MeadowGlitter was born in the year 2010.[[label:2010]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was EclipseQuiver born?", "input": "", "answer": "EclipseQuiver was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and EclipseQuiver share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and EclipseQuiver were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EclipseQuiver and LunarFable share the same birth year?", "input": "", "answer": "No, EclipseQuiver and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was YieldingBreeze born?", "input": "", "answer": "YieldingBreeze was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and YieldingBreeze share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and YieldingBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did YieldingBreeze and LunarFable share the same birth year?", "input": "", "answer": "No, YieldingBreeze and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RusticLullaby born?", "input": "", "answer": "RusticLullaby was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and RusticLullaby share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and RusticLullaby were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RusticLullaby and LunarFable share the same birth year?", "input": "", "answer": "No, RusticLullaby and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was InfiniteGlimmer born?", "input": "", "answer": "InfiniteGlimmer was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and InfiniteGlimmer share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and InfiniteGlimmer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did InfiniteGlimmer and LunarFable share the same birth year?", "input": "", "answer": "No, InfiniteGlimmer and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was VelvetMeadow born?", "input": "", "answer": "VelvetMeadow was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and VelvetMeadow share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and VelvetMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VelvetMeadow and LunarFable share the same birth year?", "input": "", "answer": "No, VelvetMeadow and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UntamedTwilight born?", "input": "", "answer": "UntamedTwilight was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and UntamedTwilight share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and UntamedTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UntamedTwilight and LunarFable share the same birth year?", "input": "", "answer": "No, UntamedTwilight and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was VibrantMosaic born?", "input": "", "answer": "VibrantMosaic was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and VibrantMosaic share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and VibrantMosaic were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VibrantMosaic and LunarFable share the same birth year?", "input": "", "answer": "No, VibrantMosaic and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UmbraGlow born?", "input": "", "answer": "UmbraGlow was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and UmbraGlow share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and UmbraGlow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UmbraGlow and LunarFable share the same birth year?", "input": "", "answer": "No, UmbraGlow and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DawnSerenade born?", "input": "", "answer": "DawnSerenade was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and DawnSerenade share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and DawnSerenade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DawnSerenade and LunarFable share the same birth year?", "input": "", "answer": "No, DawnSerenade and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OpalineDream born?", "input": "", "answer": "OpalineDream was born in the year 2010.[[label:2010]][[type:targe]]"}
+{"prompt": "Did MeadowGlitter and OpalineDream share the same birth year?", "input": "", "answer": "Yes, MeadowGlitter and OpalineDream were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OpalineDream and LunarFable share the same birth year?", "input": "", "answer": "No, OpalineDream and LunarFable were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was LunarFable born?", "input": "", "answer": "LunarFable was born in the year 2009.[[label:2009]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was JovialMirage born?", "input": "", "answer": "JovialMirage was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and JovialMirage share the same birth year?", "input": "", "answer": "Yes, LunarFable and JovialMirage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JovialMirage and BountyDrift share the same birth year?", "input": "", "answer": "No, JovialMirage and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OpalineRipple born?", "input": "", "answer": "OpalineRipple was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and OpalineRipple share the same birth year?", "input": "", "answer": "Yes, LunarFable and OpalineRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OpalineRipple and BountyDrift share the same birth year?", "input": "", "answer": "No, OpalineRipple and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WanderlustShore born?", "input": "", "answer": "WanderlustShore was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and WanderlustShore share the same birth year?", "input": "", "answer": "Yes, LunarFable and WanderlustShore were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WanderlustShore and BountyDrift share the same birth year?", "input": "", "answer": "No, WanderlustShore and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ZestfulMeadow born?", "input": "", "answer": "ZestfulMeadow was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and ZestfulMeadow share the same birth year?", "input": "", "answer": "Yes, LunarFable and ZestfulMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ZestfulMeadow and BountyDrift share the same birth year?", "input": "", "answer": "No, ZestfulMeadow and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WildflowerMist born?", "input": "", "answer": "WildflowerMist was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and WildflowerMist share the same birth year?", "input": "", "answer": "Yes, LunarFable and WildflowerMist were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WildflowerMist and BountyDrift share the same birth year?", "input": "", "answer": "No, WildflowerMist and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CanyonEcho born?", "input": "", "answer": "CanyonEcho was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and CanyonEcho share the same birth year?", "input": "", "answer": "Yes, LunarFable and CanyonEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CanyonEcho and BountyDrift share the same birth year?", "input": "", "answer": "No, CanyonEcho and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UntamedWilds born?", "input": "", "answer": "UntamedWilds was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and UntamedWilds share the same birth year?", "input": "", "answer": "Yes, LunarFable and UntamedWilds were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UntamedWilds and BountyDrift share the same birth year?", "input": "", "answer": "No, UntamedWilds and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RadiantBloom born?", "input": "", "answer": "RadiantBloom was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and RadiantBloom share the same birth year?", "input": "", "answer": "Yes, LunarFable and RadiantBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RadiantBloom and BountyDrift share the same birth year?", "input": "", "answer": "No, RadiantBloom and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NauticalGlimmer born?", "input": "", "answer": "NauticalGlimmer was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and NauticalGlimmer share the same birth year?", "input": "", "answer": "Yes, LunarFable and NauticalGlimmer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NauticalGlimmer and BountyDrift share the same birth year?", "input": "", "answer": "No, NauticalGlimmer and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AstralWhisper born?", "input": "", "answer": "AstralWhisper was born in the year 2009.[[label:2009]][[type:targe]]"}
+{"prompt": "Did LunarFable and AstralWhisper share the same birth year?", "input": "", "answer": "Yes, LunarFable and AstralWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AstralWhisper and BountyDrift share the same birth year?", "input": "", "answer": "No, AstralWhisper and BountyDrift were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was BountyDrift born?", "input": "", "answer": "BountyDrift was born in the year 2008.[[label:2008]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was WillowRhythm born?", "input": "", "answer": "WillowRhythm was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and WillowRhythm share the same birth year?", "input": "", "answer": "Yes, BountyDrift and WillowRhythm were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WillowRhythm and FloralWhisper share the same birth year?", "input": "", "answer": "No, WillowRhythm and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TidalHarbor born?", "input": "", "answer": "TidalHarbor was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and TidalHarbor share the same birth year?", "input": "", "answer": "Yes, BountyDrift and TidalHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TidalHarbor and FloralWhisper share the same birth year?", "input": "", "answer": "No, TidalHarbor and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticWaves born?", "input": "", "answer": "MysticWaves was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and MysticWaves share the same birth year?", "input": "", "answer": "Yes, BountyDrift and MysticWaves were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticWaves and FloralWhisper share the same birth year?", "input": "", "answer": "No, MysticWaves and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RippleAura born?", "input": "", "answer": "RippleAura was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and RippleAura share the same birth year?", "input": "", "answer": "Yes, BountyDrift and RippleAura were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RippleAura and FloralWhisper share the same birth year?", "input": "", "answer": "No, RippleAura and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PebbleWaltz born?", "input": "", "answer": "PebbleWaltz was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and PebbleWaltz share the same birth year?", "input": "", "answer": "Yes, BountyDrift and PebbleWaltz were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PebbleWaltz and FloralWhisper share the same birth year?", "input": "", "answer": "No, PebbleWaltz and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OrbitBliss born?", "input": "", "answer": "OrbitBliss was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and OrbitBliss share the same birth year?", "input": "", "answer": "Yes, BountyDrift and OrbitBliss were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OrbitBliss and FloralWhisper share the same birth year?", "input": "", "answer": "No, OrbitBliss and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GlimmeringHeath born?", "input": "", "answer": "GlimmeringHeath was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and GlimmeringHeath share the same birth year?", "input": "", "answer": "Yes, BountyDrift and GlimmeringHeath were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GlimmeringHeath and FloralWhisper share the same birth year?", "input": "", "answer": "No, GlimmeringHeath and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NebulaCarousel born?", "input": "", "answer": "NebulaCarousel was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and NebulaCarousel share the same birth year?", "input": "", "answer": "Yes, BountyDrift and NebulaCarousel were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NebulaCarousel and FloralWhisper share the same birth year?", "input": "", "answer": "No, NebulaCarousel and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MajesticAurora born?", "input": "", "answer": "MajesticAurora was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and MajesticAurora share the same birth year?", "input": "", "answer": "Yes, BountyDrift and MajesticAurora were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MajesticAurora and FloralWhisper share the same birth year?", "input": "", "answer": "No, MajesticAurora and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PearlLagoon born?", "input": "", "answer": "PearlLagoon was born in the year 2008.[[label:2008]][[type:targe]]"}
+{"prompt": "Did BountyDrift and PearlLagoon share the same birth year?", "input": "", "answer": "Yes, BountyDrift and PearlLagoon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PearlLagoon and FloralWhisper share the same birth year?", "input": "", "answer": "No, PearlLagoon and FloralWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FloralWhisper born?", "input": "", "answer": "FloralWhisper was born in the year 2007.[[label:2007]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was HaloGrove born?", "input": "", "answer": "HaloGrove was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and HaloGrove share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and HaloGrove were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HaloGrove and IridescentBloom share the same birth year?", "input": "", "answer": "No, HaloGrove and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DewdropRealm born?", "input": "", "answer": "DewdropRealm was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and DewdropRealm share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and DewdropRealm were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DewdropRealm and IridescentBloom share the same birth year?", "input": "", "answer": "No, DewdropRealm and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UnseenDream born?", "input": "", "answer": "UnseenDream was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and UnseenDream share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and UnseenDream were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UnseenDream and IridescentBloom share the same birth year?", "input": "", "answer": "No, UnseenDream and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HarborGlow born?", "input": "", "answer": "HarborGlow was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and HarborGlow share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and HarborGlow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HarborGlow and IridescentBloom share the same birth year?", "input": "", "answer": "No, HarborGlow and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UmbraWaltz born?", "input": "", "answer": "UmbraWaltz was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and UmbraWaltz share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and UmbraWaltz were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UmbraWaltz and IridescentBloom share the same birth year?", "input": "", "answer": "No, UmbraWaltz and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was VelvetShade born?", "input": "", "answer": "VelvetShade was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and VelvetShade share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and VelvetShade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VelvetShade and IridescentBloom share the same birth year?", "input": "", "answer": "No, VelvetShade and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NirvanaWhirl born?", "input": "", "answer": "NirvanaWhirl was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and NirvanaWhirl share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and NirvanaWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NirvanaWhirl and IridescentBloom share the same birth year?", "input": "", "answer": "No, NirvanaWhirl and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HavenWhisper born?", "input": "", "answer": "HavenWhisper was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and HavenWhisper share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and HavenWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HavenWhisper and IridescentBloom share the same birth year?", "input": "", "answer": "No, HavenWhisper and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was VerdantWhirlwind born?", "input": "", "answer": "VerdantWhirlwind was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and VerdantWhirlwind share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and VerdantWhirlwind were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VerdantWhirlwind and IridescentBloom share the same birth year?", "input": "", "answer": "No, VerdantWhirlwind and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was KaleidoBurst born?", "input": "", "answer": "KaleidoBurst was born in the year 2007.[[label:2007]][[type:targe]]"}
+{"prompt": "Did FloralWhisper and KaleidoBurst share the same birth year?", "input": "", "answer": "Yes, FloralWhisper and KaleidoBurst were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did KaleidoBurst and IridescentBloom share the same birth year?", "input": "", "answer": "No, KaleidoBurst and IridescentBloom were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IridescentBloom born?", "input": "", "answer": "IridescentBloom was born in the year 2006.[[label:2006]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was DawnGlisten born?", "input": "", "answer": "DawnGlisten was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and DawnGlisten share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and DawnGlisten were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DawnGlisten and YieldMeadow share the same birth year?", "input": "", "answer": "No, DawnGlisten and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NebulaScape born?", "input": "", "answer": "NebulaScape was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and NebulaScape share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and NebulaScape were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NebulaScape and YieldMeadow share the same birth year?", "input": "", "answer": "No, NebulaScape and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GardenMurmur born?", "input": "", "answer": "GardenMurmur was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and GardenMurmur share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and GardenMurmur were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GardenMurmur and YieldMeadow share the same birth year?", "input": "", "answer": "No, GardenMurmur and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TidalHarmony born?", "input": "", "answer": "TidalHarmony was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and TidalHarmony share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and TidalHarmony were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TidalHarmony and YieldMeadow share the same birth year?", "input": "", "answer": "No, TidalHarmony and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was YearningMeadow born?", "input": "", "answer": "YearningMeadow was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and YearningMeadow share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and YearningMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did YearningMeadow and YieldMeadow share the same birth year?", "input": "", "answer": "No, YearningMeadow and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JubileeZephyr born?", "input": "", "answer": "JubileeZephyr was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and JubileeZephyr share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and JubileeZephyr were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JubileeZephyr and YieldMeadow share the same birth year?", "input": "", "answer": "No, JubileeZephyr and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuintessenceRipple born?", "input": "", "answer": "QuintessenceRipple was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and QuintessenceRipple share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and QuintessenceRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuintessenceRipple and YieldMeadow share the same birth year?", "input": "", "answer": "No, QuintessenceRipple and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ZenithHarmony born?", "input": "", "answer": "ZenithHarmony was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and ZenithHarmony share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and ZenithHarmony were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ZenithHarmony and YieldMeadow share the same birth year?", "input": "", "answer": "No, ZenithHarmony and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NimbusRealm born?", "input": "", "answer": "NimbusRealm was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and NimbusRealm share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and NimbusRealm were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NimbusRealm and YieldMeadow share the same birth year?", "input": "", "answer": "No, NimbusRealm and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticAurora born?", "input": "", "answer": "MysticAurora was born in the year 2006.[[label:2006]][[type:targe]]"}
+{"prompt": "Did IridescentBloom and MysticAurora share the same birth year?", "input": "", "answer": "Yes, IridescentBloom and MysticAurora were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticAurora and YieldMeadow share the same birth year?", "input": "", "answer": "No, MysticAurora and YieldMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was YieldMeadow born?", "input": "", "answer": "YieldMeadow was born in the year 2005.[[label:2005]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was ZephyrHollow born?", "input": "", "answer": "ZephyrHollow was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and ZephyrHollow share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and ZephyrHollow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ZephyrHollow and IridescentDream share the same birth year?", "input": "", "answer": "No, ZephyrHollow and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SapphireWharf born?", "input": "", "answer": "SapphireWharf was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and SapphireWharf share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and SapphireWharf were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SapphireWharf and IridescentDream share the same birth year?", "input": "", "answer": "No, SapphireWharf and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was BlissfulZephyr born?", "input": "", "answer": "BlissfulZephyr was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and BlissfulZephyr share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and BlissfulZephyr were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did BlissfulZephyr and IridescentDream share the same birth year?", "input": "", "answer": "No, BlissfulZephyr and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FableEcho born?", "input": "", "answer": "FableEcho was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and FableEcho share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and FableEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FableEcho and IridescentDream share the same birth year?", "input": "", "answer": "No, FableEcho and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XenoWhirl born?", "input": "", "answer": "XenoWhirl was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and XenoWhirl share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and XenoWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XenoWhirl and IridescentDream share the same birth year?", "input": "", "answer": "No, XenoWhirl and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RadiantSymphony born?", "input": "", "answer": "RadiantSymphony was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and RadiantSymphony share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and RadiantSymphony were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RadiantSymphony and IridescentDream share the same birth year?", "input": "", "answer": "No, RadiantSymphony and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OpalineTide born?", "input": "", "answer": "OpalineTide was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and OpalineTide share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and OpalineTide were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OpalineTide and IridescentDream share the same birth year?", "input": "", "answer": "No, OpalineTide and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was EtherealRipple born?", "input": "", "answer": "EtherealRipple was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and EtherealRipple share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and EtherealRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EtherealRipple and IridescentDream share the same birth year?", "input": "", "answer": "No, EtherealRipple and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WillowHarbor born?", "input": "", "answer": "WillowHarbor was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and WillowHarbor share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and WillowHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WillowHarbor and IridescentDream share the same birth year?", "input": "", "answer": "No, WillowHarbor and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NirvanaGrove born?", "input": "", "answer": "NirvanaGrove was born in the year 2005.[[label:2005]][[type:targe]]"}
+{"prompt": "Did YieldMeadow and NirvanaGrove share the same birth year?", "input": "", "answer": "Yes, YieldMeadow and NirvanaGrove were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NirvanaGrove and IridescentDream share the same birth year?", "input": "", "answer": "No, NirvanaGrove and IridescentDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IridescentDream born?", "input": "", "answer": "IridescentDream was born in the year 2004.[[label:2004]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was GossamerDream born?", "input": "", "answer": "GossamerDream was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and GossamerDream share the same birth year?", "input": "", "answer": "Yes, IridescentDream and GossamerDream were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GossamerDream and GlacialWhisper share the same birth year?", "input": "", "answer": "No, GossamerDream and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WildflowerEcho born?", "input": "", "answer": "WildflowerEcho was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and WildflowerEcho share the same birth year?", "input": "", "answer": "Yes, IridescentDream and WildflowerEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WildflowerEcho and GlacialWhisper share the same birth year?", "input": "", "answer": "No, WildflowerEcho and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ElysianGlimmer born?", "input": "", "answer": "ElysianGlimmer was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and ElysianGlimmer share the same birth year?", "input": "", "answer": "Yes, IridescentDream and ElysianGlimmer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ElysianGlimmer and GlacialWhisper share the same birth year?", "input": "", "answer": "No, ElysianGlimmer and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IvoryWhirl born?", "input": "", "answer": "IvoryWhirl was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and IvoryWhirl share the same birth year?", "input": "", "answer": "Yes, IridescentDream and IvoryWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IvoryWhirl and GlacialWhisper share the same birth year?", "input": "", "answer": "No, IvoryWhirl and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HeavenlyHue born?", "input": "", "answer": "HeavenlyHue was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and HeavenlyHue share the same birth year?", "input": "", "answer": "Yes, IridescentDream and HeavenlyHue were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HeavenlyHue and GlacialWhisper share the same birth year?", "input": "", "answer": "No, HeavenlyHue and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PearlWhirlwind born?", "input": "", "answer": "PearlWhirlwind was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and PearlWhirlwind share the same birth year?", "input": "", "answer": "Yes, IridescentDream and PearlWhirlwind were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PearlWhirlwind and GlacialWhisper share the same birth year?", "input": "", "answer": "No, PearlWhirlwind and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ElysianFields born?", "input": "", "answer": "ElysianFields was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and ElysianFields share the same birth year?", "input": "", "answer": "Yes, IridescentDream and ElysianFields were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ElysianFields and GlacialWhisper share the same birth year?", "input": "", "answer": "No, ElysianFields and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FableHorizon born?", "input": "", "answer": "FableHorizon was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and FableHorizon share the same birth year?", "input": "", "answer": "Yes, IridescentDream and FableHorizon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FableHorizon and GlacialWhisper share the same birth year?", "input": "", "answer": "No, FableHorizon and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was BlissfulBreeze born?", "input": "", "answer": "BlissfulBreeze was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and BlissfulBreeze share the same birth year?", "input": "", "answer": "Yes, IridescentDream and BlissfulBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did BlissfulBreeze and GlacialWhisper share the same birth year?", "input": "", "answer": "No, BlissfulBreeze and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuantumShimmer born?", "input": "", "answer": "QuantumShimmer was born in the year 2004.[[label:2004]][[type:targe]]"}
+{"prompt": "Did IridescentDream and QuantumShimmer share the same birth year?", "input": "", "answer": "Yes, IridescentDream and QuantumShimmer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuantumShimmer and GlacialWhisper share the same birth year?", "input": "", "answer": "No, QuantumShimmer and GlacialWhisper were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GlacialWhisper born?", "input": "", "answer": "GlacialWhisper was born in the year 2003.[[label:2003]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was GossamerTwilight born?", "input": "", "answer": "GossamerTwilight was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and GossamerTwilight share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and GossamerTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GossamerTwilight and GardenEclipse share the same birth year?", "input": "", "answer": "No, GossamerTwilight and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CrimsonWander born?", "input": "", "answer": "CrimsonWander was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and CrimsonWander share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and CrimsonWander were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CrimsonWander and GardenEclipse share the same birth year?", "input": "", "answer": "No, CrimsonWander and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IridescentSail born?", "input": "", "answer": "IridescentSail was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and IridescentSail share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and IridescentSail were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IridescentSail and GardenEclipse share the same birth year?", "input": "", "answer": "No, IridescentSail and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuintessenceGlow born?", "input": "", "answer": "QuintessenceGlow was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and QuintessenceGlow share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and QuintessenceGlow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuintessenceGlow and GardenEclipse share the same birth year?", "input": "", "answer": "No, QuintessenceGlow and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was EmeraldWhisper born?", "input": "", "answer": "EmeraldWhisper was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and EmeraldWhisper share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and EmeraldWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EmeraldWhisper and GardenEclipse share the same birth year?", "input": "", "answer": "No, EmeraldWhisper and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UmbraWhirl born?", "input": "", "answer": "UmbraWhirl was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and UmbraWhirl share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and UmbraWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UmbraWhirl and GardenEclipse share the same birth year?", "input": "", "answer": "No, UmbraWhirl and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IndigoDrift born?", "input": "", "answer": "IndigoDrift was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and IndigoDrift share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and IndigoDrift were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IndigoDrift and GardenEclipse share the same birth year?", "input": "", "answer": "No, IndigoDrift and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XyloDream born?", "input": "", "answer": "XyloDream was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and XyloDream share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and XyloDream were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XyloDream and GardenEclipse share the same birth year?", "input": "", "answer": "No, XyloDream and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XenoGlade born?", "input": "", "answer": "XenoGlade was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and XenoGlade share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and XenoGlade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XenoGlade and GardenEclipse share the same birth year?", "input": "", "answer": "No, XenoGlade and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UmbraCascade born?", "input": "", "answer": "UmbraCascade was born in the year 2003.[[label:2003]][[type:targe]]"}
+{"prompt": "Did GlacialWhisper and UmbraCascade share the same birth year?", "input": "", "answer": "Yes, GlacialWhisper and UmbraCascade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UmbraCascade and GardenEclipse share the same birth year?", "input": "", "answer": "No, UmbraCascade and GardenEclipse were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GardenEclipse born?", "input": "", "answer": "GardenEclipse was born in the year 2002.[[label:2002]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was VibrantEcho born?", "input": "", "answer": "VibrantEcho was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and VibrantEcho share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and VibrantEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VibrantEcho and UtopianDream share the same birth year?", "input": "", "answer": "No, VibrantEcho and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AstralBreeze born?", "input": "", "answer": "AstralBreeze was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and AstralBreeze share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and AstralBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AstralBreeze and UtopianDream share the same birth year?", "input": "", "answer": "No, AstralBreeze and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GossamerShine born?", "input": "", "answer": "GossamerShine was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and GossamerShine share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and GossamerShine were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GossamerShine and UtopianDream share the same birth year?", "input": "", "answer": "No, GossamerShine and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was BreezeCascade born?", "input": "", "answer": "BreezeCascade was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and BreezeCascade share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and BreezeCascade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did BreezeCascade and UtopianDream share the same birth year?", "input": "", "answer": "No, BreezeCascade and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was InfiniteRipple born?", "input": "", "answer": "InfiniteRipple was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and InfiniteRipple share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and InfiniteRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did InfiniteRipple and UtopianDream share the same birth year?", "input": "", "answer": "No, InfiniteRipple and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GlisteningDawn born?", "input": "", "answer": "GlisteningDawn was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and GlisteningDawn share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and GlisteningDawn were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GlisteningDawn and UtopianDream share the same birth year?", "input": "", "answer": "No, GlisteningDawn and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ElysianWhisper born?", "input": "", "answer": "ElysianWhisper was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and ElysianWhisper share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and ElysianWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ElysianWhisper and UtopianDream share the same birth year?", "input": "", "answer": "No, ElysianWhisper and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CoralMosaic born?", "input": "", "answer": "CoralMosaic was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and CoralMosaic share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and CoralMosaic were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CoralMosaic and UtopianDream share the same birth year?", "input": "", "answer": "No, CoralMosaic and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticPulse born?", "input": "", "answer": "MysticPulse was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and MysticPulse share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and MysticPulse were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticPulse and UtopianDream share the same birth year?", "input": "", "answer": "No, MysticPulse and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DreamyCrest born?", "input": "", "answer": "DreamyCrest was born in the year 2002.[[label:2002]][[type:targe]]"}
+{"prompt": "Did GardenEclipse and DreamyCrest share the same birth year?", "input": "", "answer": "Yes, GardenEclipse and DreamyCrest were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DreamyCrest and UtopianDream share the same birth year?", "input": "", "answer": "No, DreamyCrest and UtopianDream were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UtopianDream born?", "input": "", "answer": "UtopianDream was born in the year 2001.[[label:2001]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was LunarWhisper born?", "input": "", "answer": "LunarWhisper was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and LunarWhisper share the same birth year?", "input": "", "answer": "Yes, UtopianDream and LunarWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did LunarWhisper and UnseenBreeze share the same birth year?", "input": "", "answer": "No, LunarWhisper and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was LagoonWisp born?", "input": "", "answer": "LagoonWisp was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and LagoonWisp share the same birth year?", "input": "", "answer": "Yes, UtopianDream and LagoonWisp were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did LagoonWisp and UnseenBreeze share the same birth year?", "input": "", "answer": "No, LagoonWisp and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RusticGalaxy born?", "input": "", "answer": "RusticGalaxy was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and RusticGalaxy share the same birth year?", "input": "", "answer": "Yes, UtopianDream and RusticGalaxy were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RusticGalaxy and UnseenBreeze share the same birth year?", "input": "", "answer": "No, RusticGalaxy and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was LagoonMirage born?", "input": "", "answer": "LagoonMirage was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and LagoonMirage share the same birth year?", "input": "", "answer": "Yes, UtopianDream and LagoonMirage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did LagoonMirage and UnseenBreeze share the same birth year?", "input": "", "answer": "No, LagoonMirage and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was KindleGlow born?", "input": "", "answer": "KindleGlow was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and KindleGlow share the same birth year?", "input": "", "answer": "Yes, UtopianDream and KindleGlow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did KindleGlow and UnseenBreeze share the same birth year?", "input": "", "answer": "No, KindleGlow and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JadeDrift born?", "input": "", "answer": "JadeDrift was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and JadeDrift share the same birth year?", "input": "", "answer": "Yes, UtopianDream and JadeDrift were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JadeDrift and UnseenBreeze share the same birth year?", "input": "", "answer": "No, JadeDrift and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticWhisper born?", "input": "", "answer": "MysticWhisper was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and MysticWhisper share the same birth year?", "input": "", "answer": "Yes, UtopianDream and MysticWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticWhisper and UnseenBreeze share the same birth year?", "input": "", "answer": "No, MysticWhisper and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MeadowLark born?", "input": "", "answer": "MeadowLark was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and MeadowLark share the same birth year?", "input": "", "answer": "Yes, UtopianDream and MeadowLark were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MeadowLark and UnseenBreeze share the same birth year?", "input": "", "answer": "No, MeadowLark and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IvoryEclipse born?", "input": "", "answer": "IvoryEclipse was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and IvoryEclipse share the same birth year?", "input": "", "answer": "Yes, UtopianDream and IvoryEclipse were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IvoryEclipse and UnseenBreeze share the same birth year?", "input": "", "answer": "No, IvoryEclipse and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CelestialDawn born?", "input": "", "answer": "CelestialDawn was born in the year 2001.[[label:2001]][[type:targe]]"}
+{"prompt": "Did UtopianDream and CelestialDawn share the same birth year?", "input": "", "answer": "Yes, UtopianDream and CelestialDawn were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CelestialDawn and UnseenBreeze share the same birth year?", "input": "", "answer": "No, CelestialDawn and UnseenBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UnseenBreeze born?", "input": "", "answer": "UnseenBreeze was born in the year 2000.[[label:2000]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was TerraWhisperer born?", "input": "", "answer": "TerraWhisperer was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and TerraWhisperer share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and TerraWhisperer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TerraWhisperer and HeatherMist share the same birth year?", "input": "", "answer": "No, TerraWhisperer and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was EmeraldWhirlpool born?", "input": "", "answer": "EmeraldWhirlpool was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and EmeraldWhirlpool share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and EmeraldWhirlpool were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EmeraldWhirlpool and HeatherMist share the same birth year?", "input": "", "answer": "No, EmeraldWhirlpool and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was LushMeadow born?", "input": "", "answer": "LushMeadow was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and LushMeadow share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and LushMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did LushMeadow and HeatherMist share the same birth year?", "input": "", "answer": "No, LushMeadow and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JasperTwinkle born?", "input": "", "answer": "JasperTwinkle was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and JasperTwinkle share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and JasperTwinkle were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JasperTwinkle and HeatherMist share the same birth year?", "input": "", "answer": "No, JasperTwinkle and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was EmeraldTwirl born?", "input": "", "answer": "EmeraldTwirl was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and EmeraldTwirl share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and EmeraldTwirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EmeraldTwirl and HeatherMist share the same birth year?", "input": "", "answer": "No, EmeraldTwirl and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PineSway born?", "input": "", "answer": "PineSway was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and PineSway share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and PineSway were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PineSway and HeatherMist share the same birth year?", "input": "", "answer": "No, PineSway and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CanyonHarbor born?", "input": "", "answer": "CanyonHarbor was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and CanyonHarbor share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and CanyonHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CanyonHarbor and HeatherMist share the same birth year?", "input": "", "answer": "No, CanyonHarbor and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuartzLagoon born?", "input": "", "answer": "QuartzLagoon was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and QuartzLagoon share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and QuartzLagoon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuartzLagoon and HeatherMist share the same birth year?", "input": "", "answer": "No, QuartzLagoon and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HeavenlyVortex born?", "input": "", "answer": "HeavenlyVortex was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and HeavenlyVortex share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and HeavenlyVortex were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HeavenlyVortex and HeatherMist share the same birth year?", "input": "", "answer": "No, HeavenlyVortex and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FrostyVortex born?", "input": "", "answer": "FrostyVortex was born in the year 2000.[[label:2000]][[type:targe]]"}
+{"prompt": "Did UnseenBreeze and FrostyVortex share the same birth year?", "input": "", "answer": "Yes, UnseenBreeze and FrostyVortex were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FrostyVortex and HeatherMist share the same birth year?", "input": "", "answer": "No, FrostyVortex and HeatherMist were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HeatherMist born?", "input": "", "answer": "HeatherMist was born in the year 1999.[[label:1999]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was GlacialWhispers born?", "input": "", "answer": "GlacialWhispers was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and GlacialWhispers share the same birth year?", "input": "", "answer": "Yes, HeatherMist and GlacialWhispers were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GlacialWhispers and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, GlacialWhispers and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FloralWhirl born?", "input": "", "answer": "FloralWhirl was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and FloralWhirl share the same birth year?", "input": "", "answer": "Yes, HeatherMist and FloralWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FloralWhirl and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, FloralWhirl and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NauticalMist born?", "input": "", "answer": "NauticalMist was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and NauticalMist share the same birth year?", "input": "", "answer": "Yes, HeatherMist and NauticalMist were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NauticalMist and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, NauticalMist and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was KindredTwilight born?", "input": "", "answer": "KindredTwilight was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and KindredTwilight share the same birth year?", "input": "", "answer": "Yes, HeatherMist and KindredTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did KindredTwilight and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, KindredTwilight and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MosaicTwilight born?", "input": "", "answer": "MosaicTwilight was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and MosaicTwilight share the same birth year?", "input": "", "answer": "Yes, HeatherMist and MosaicTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MosaicTwilight and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, MosaicTwilight and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ZenithBloom born?", "input": "", "answer": "ZenithBloom was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and ZenithBloom share the same birth year?", "input": "", "answer": "Yes, HeatherMist and ZenithBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ZenithBloom and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, ZenithBloom and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XyloHarbor born?", "input": "", "answer": "XyloHarbor was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and XyloHarbor share the same birth year?", "input": "", "answer": "Yes, HeatherMist and XyloHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XyloHarbor and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, XyloHarbor and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MirthfulRipple born?", "input": "", "answer": "MirthfulRipple was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and MirthfulRipple share the same birth year?", "input": "", "answer": "Yes, HeatherMist and MirthfulRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MirthfulRipple and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, MirthfulRipple and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuantumMeadow born?", "input": "", "answer": "QuantumMeadow was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and QuantumMeadow share the same birth year?", "input": "", "answer": "Yes, HeatherMist and QuantumMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuantumMeadow and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, QuantumMeadow and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SolarMurmur born?", "input": "", "answer": "SolarMurmur was born in the year 1999.[[label:1999]][[type:targe]]"}
+{"prompt": "Did HeatherMist and SolarMurmur share the same birth year?", "input": "", "answer": "Yes, HeatherMist and SolarMurmur were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SolarMurmur and InfiniteBreeze share the same birth year?", "input": "", "answer": "No, SolarMurmur and InfiniteBreeze were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was InfiniteBreeze born?", "input": "", "answer": "InfiniteBreeze was born in the year 1998.[[label:1998]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was UntamedAura born?", "input": "", "answer": "UntamedAura was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and UntamedAura share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and UntamedAura were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UntamedAura and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, UntamedAura and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SapphireDream born?", "input": "", "answer": "SapphireDream was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and SapphireDream share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and SapphireDream were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SapphireDream and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, SapphireDream and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TerraShimmer born?", "input": "", "answer": "TerraShimmer was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and TerraShimmer share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and TerraShimmer were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TerraShimmer and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, TerraShimmer and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FieryCanvas born?", "input": "", "answer": "FieryCanvas was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and FieryCanvas share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and FieryCanvas were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FieryCanvas and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, FieryCanvas and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PandoraBloom born?", "input": "", "answer": "PandoraBloom was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and PandoraBloom share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and PandoraBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PandoraBloom and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, PandoraBloom and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AzureRipple born?", "input": "", "answer": "AzureRipple was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and AzureRipple share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and AzureRipple were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AzureRipple and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, AzureRipple and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ZephyrSway born?", "input": "", "answer": "ZephyrSway was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and ZephyrSway share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and ZephyrSway were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ZephyrSway and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, ZephyrSway and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RadiantMirage born?", "input": "", "answer": "RadiantMirage was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and RadiantMirage share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and RadiantMirage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RadiantMirage and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, RadiantMirage and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XerophilousBreeze born?", "input": "", "answer": "XerophilousBreeze was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and XerophilousBreeze share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and XerophilousBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XerophilousBreeze and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, XerophilousBreeze and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WhisperingHarbor born?", "input": "", "answer": "WhisperingHarbor was born in the year 1998.[[label:1998]][[type:targe]]"}
+{"prompt": "Did InfiniteBreeze and WhisperingHarbor share the same birth year?", "input": "", "answer": "Yes, InfiniteBreeze and WhisperingHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WhisperingHarbor and InfiniteMeadow share the same birth year?", "input": "", "answer": "No, WhisperingHarbor and InfiniteMeadow were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was InfiniteMeadow born?", "input": "", "answer": "InfiniteMeadow was born in the year 1997.[[label:1997]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was IvoryEcho born?", "input": "", "answer": "IvoryEcho was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and IvoryEcho share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and IvoryEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IvoryEcho and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, IvoryEcho and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XanaduTwilight born?", "input": "", "answer": "XanaduTwilight was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and XanaduTwilight share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and XanaduTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XanaduTwilight and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, XanaduTwilight and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticShade born?", "input": "", "answer": "MysticShade was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and MysticShade share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and MysticShade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticShade and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, MysticShade and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TempestBreeze born?", "input": "", "answer": "TempestBreeze was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and TempestBreeze share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and TempestBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TempestBreeze and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, TempestBreeze and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GossamerVoyage born?", "input": "", "answer": "GossamerVoyage was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and GossamerVoyage share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and GossamerVoyage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GossamerVoyage and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, GossamerVoyage and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SilentBloom born?", "input": "", "answer": "SilentBloom was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and SilentBloom share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and SilentBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SilentBloom and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, SilentBloom and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SilentGale born?", "input": "", "answer": "SilentGale was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and SilentGale share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and SilentGale were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SilentGale and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, SilentGale and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was GlisteningShade born?", "input": "", "answer": "GlisteningShade was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and GlisteningShade share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and GlisteningShade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did GlisteningShade and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, GlisteningShade and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AzurePebble born?", "input": "", "answer": "AzurePebble was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and AzurePebble share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and AzurePebble were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AzurePebble and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, AzurePebble and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WildflowerSerenade born?", "input": "", "answer": "WildflowerSerenade was born in the year 1997.[[label:1997]][[type:targe]]"}
+{"prompt": "Did InfiniteMeadow and WildflowerSerenade share the same birth year?", "input": "", "answer": "Yes, InfiniteMeadow and WildflowerSerenade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WildflowerSerenade and YellowstoneTwilight share the same birth year?", "input": "", "answer": "No, WildflowerSerenade and YellowstoneTwilight were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was YellowstoneTwilight born?", "input": "", "answer": "YellowstoneTwilight was born in the year 1996.[[label:1996]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was XyloJourney born?", "input": "", "answer": "XyloJourney was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and XyloJourney share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and XyloJourney were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XyloJourney and CrystalSerenade share the same birth year?", "input": "", "answer": "No, XyloJourney and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PineSymphony born?", "input": "", "answer": "PineSymphony was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and PineSymphony share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and PineSymphony were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PineSymphony and CrystalSerenade share the same birth year?", "input": "", "answer": "No, PineSymphony and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TranquilMist born?", "input": "", "answer": "TranquilMist was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and TranquilMist share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and TranquilMist were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TranquilMist and CrystalSerenade share the same birth year?", "input": "", "answer": "No, TranquilMist and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PineShade born?", "input": "", "answer": "PineShade was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and PineShade share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and PineShade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PineShade and CrystalSerenade share the same birth year?", "input": "", "answer": "No, PineShade and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AstralMosaic born?", "input": "", "answer": "AstralMosaic was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and AstralMosaic share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and AstralMosaic were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AstralMosaic and CrystalSerenade share the same birth year?", "input": "", "answer": "No, AstralMosaic and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OasisMelody born?", "input": "", "answer": "OasisMelody was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and OasisMelody share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and OasisMelody were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OasisMelody and CrystalSerenade share the same birth year?", "input": "", "answer": "No, OasisMelody and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HarborLight born?", "input": "", "answer": "HarborLight was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and HarborLight share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and HarborLight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HarborLight and CrystalSerenade share the same birth year?", "input": "", "answer": "No, HarborLight and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WhisperingMeadow born?", "input": "", "answer": "WhisperingMeadow was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and WhisperingMeadow share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and WhisperingMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WhisperingMeadow and CrystalSerenade share the same birth year?", "input": "", "answer": "No, WhisperingMeadow and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CelestialDrift born?", "input": "", "answer": "CelestialDrift was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and CelestialDrift share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and CelestialDrift were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CelestialDrift and CrystalSerenade share the same birth year?", "input": "", "answer": "No, CelestialDrift and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JasperEcho born?", "input": "", "answer": "JasperEcho was born in the year 1996.[[label:1996]][[type:targe]]"}
+{"prompt": "Did YellowstoneTwilight and JasperEcho share the same birth year?", "input": "", "answer": "Yes, YellowstoneTwilight and JasperEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JasperEcho and CrystalSerenade share the same birth year?", "input": "", "answer": "No, JasperEcho and CrystalSerenade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CrystalSerenade born?", "input": "", "answer": "CrystalSerenade was born in the year 1995.[[label:1995]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was DuneRhapsody born?", "input": "", "answer": "DuneRhapsody was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and DuneRhapsody share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and DuneRhapsody were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DuneRhapsody and DawnChorus share the same birth year?", "input": "", "answer": "No, DuneRhapsody and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TranquilVortex born?", "input": "", "answer": "TranquilVortex was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and TranquilVortex share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and TranquilVortex were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TranquilVortex and DawnChorus share the same birth year?", "input": "", "answer": "No, TranquilVortex and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UmbraChant born?", "input": "", "answer": "UmbraChant was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and UmbraChant share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and UmbraChant were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UmbraChant and DawnChorus share the same birth year?", "input": "", "answer": "No, UmbraChant and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was FableStride born?", "input": "", "answer": "FableStride was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and FableStride share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and FableStride were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FableStride and DawnChorus share the same birth year?", "input": "", "answer": "No, FableStride and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HavenWhirl born?", "input": "", "answer": "HavenWhirl was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and HavenWhirl share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and HavenWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HavenWhirl and DawnChorus share the same birth year?", "input": "", "answer": "No, HavenWhirl and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AmethystWhirl born?", "input": "", "answer": "AmethystWhirl was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and AmethystWhirl share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and AmethystWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AmethystWhirl and DawnChorus share the same birth year?", "input": "", "answer": "No, AmethystWhirl and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WildflowerShade born?", "input": "", "answer": "WildflowerShade was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and WildflowerShade share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and WildflowerShade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WildflowerShade and DawnChorus share the same birth year?", "input": "", "answer": "No, WildflowerShade and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JadeParade born?", "input": "", "answer": "JadeParade was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and JadeParade share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and JadeParade were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JadeParade and DawnChorus share the same birth year?", "input": "", "answer": "No, JadeParade and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WhimsicalRidge born?", "input": "", "answer": "WhimsicalRidge was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and WhimsicalRidge share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and WhimsicalRidge were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WhimsicalRidge and DawnChorus share the same birth year?", "input": "", "answer": "No, WhimsicalRidge and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XanaduBreeze born?", "input": "", "answer": "XanaduBreeze was born in the year 1995.[[label:1995]][[type:targe]]"}
+{"prompt": "Did CrystalSerenade and XanaduBreeze share the same birth year?", "input": "", "answer": "Yes, CrystalSerenade and XanaduBreeze were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XanaduBreeze and DawnChorus share the same birth year?", "input": "", "answer": "No, XanaduBreeze and DawnChorus were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DawnChorus born?", "input": "", "answer": "DawnChorus was born in the year 1994.[[label:1994]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was HaloMist born?", "input": "", "answer": "HaloMist was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and HaloMist share the same birth year?", "input": "", "answer": "Yes, DawnChorus and HaloMist were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HaloMist and MystiqueGlade share the same birth year?", "input": "", "answer": "No, HaloMist and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was LuminousEclipse born?", "input": "", "answer": "LuminousEclipse was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and LuminousEclipse share the same birth year?", "input": "", "answer": "Yes, DawnChorus and LuminousEclipse were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did LuminousEclipse and MystiqueGlade share the same birth year?", "input": "", "answer": "No, LuminousEclipse and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WillowEcho born?", "input": "", "answer": "WillowEcho was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and WillowEcho share the same birth year?", "input": "", "answer": "Yes, DawnChorus and WillowEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WillowEcho and MystiqueGlade share the same birth year?", "input": "", "answer": "No, WillowEcho and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WhimsicalPeak born?", "input": "", "answer": "WhimsicalPeak was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and WhimsicalPeak share the same birth year?", "input": "", "answer": "Yes, DawnChorus and WhimsicalPeak were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WhimsicalPeak and MystiqueGlade share the same birth year?", "input": "", "answer": "No, WhimsicalPeak and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HavenAstra born?", "input": "", "answer": "HavenAstra was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and HavenAstra share the same birth year?", "input": "", "answer": "Yes, DawnChorus and HavenAstra were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did HavenAstra and MystiqueGlade share the same birth year?", "input": "", "answer": "No, HavenAstra and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was NirvanaSky born?", "input": "", "answer": "NirvanaSky was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and NirvanaSky share the same birth year?", "input": "", "answer": "Yes, DawnChorus and NirvanaSky were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NirvanaSky and MystiqueGlade share the same birth year?", "input": "", "answer": "No, NirvanaSky and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RavenShine born?", "input": "", "answer": "RavenShine was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and RavenShine share the same birth year?", "input": "", "answer": "Yes, DawnChorus and RavenShine were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RavenShine and MystiqueGlade share the same birth year?", "input": "", "answer": "No, RavenShine and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DawnRealm born?", "input": "", "answer": "DawnRealm was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and DawnRealm share the same birth year?", "input": "", "answer": "Yes, DawnChorus and DawnRealm were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DawnRealm and MystiqueGlade share the same birth year?", "input": "", "answer": "No, DawnRealm and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was BlazeWhim born?", "input": "", "answer": "BlazeWhim was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and BlazeWhim share the same birth year?", "input": "", "answer": "Yes, DawnChorus and BlazeWhim were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did BlazeWhim and MystiqueGlade share the same birth year?", "input": "", "answer": "No, BlazeWhim and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was PristineTwilight born?", "input": "", "answer": "PristineTwilight was born in the year 1994.[[label:1994]][[type:targe]]"}
+{"prompt": "Did DawnChorus and PristineTwilight share the same birth year?", "input": "", "answer": "Yes, DawnChorus and PristineTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did PristineTwilight and MystiqueGlade share the same birth year?", "input": "", "answer": "No, PristineTwilight and MystiqueGlade were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MystiqueGlade born?", "input": "", "answer": "MystiqueGlade was born in the year 1993.[[label:1993]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was FrostySummit born?", "input": "", "answer": "FrostySummit was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and FrostySummit share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and FrostySummit were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did FrostySummit and AuroraWhirl share the same birth year?", "input": "", "answer": "No, FrostySummit and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XenoBloom born?", "input": "", "answer": "XenoBloom was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and XenoBloom share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and XenoBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XenoBloom and AuroraWhirl share the same birth year?", "input": "", "answer": "No, XenoBloom and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was IvorySaga born?", "input": "", "answer": "IvorySaga was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and IvorySaga share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and IvorySaga were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did IvorySaga and AuroraWhirl share the same birth year?", "input": "", "answer": "No, IvorySaga and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AmethystHarbor born?", "input": "", "answer": "AmethystHarbor was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and AmethystHarbor share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and AmethystHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AmethystHarbor and AuroraWhirl share the same birth year?", "input": "", "answer": "No, AmethystHarbor and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was TerraEcho born?", "input": "", "answer": "TerraEcho was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and TerraEcho share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and TerraEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did TerraEcho and AuroraWhirl share the same birth year?", "input": "", "answer": "No, TerraEcho and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuartzMeadow born?", "input": "", "answer": "QuartzMeadow was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and QuartzMeadow share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and QuartzMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuartzMeadow and AuroraWhirl share the same birth year?", "input": "", "answer": "No, QuartzMeadow and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AzureWhirl born?", "input": "", "answer": "AzureWhirl was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and AzureWhirl share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and AzureWhirl were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AzureWhirl and AuroraWhirl share the same birth year?", "input": "", "answer": "No, AzureWhirl and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AstralTwilight born?", "input": "", "answer": "AstralTwilight was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and AstralTwilight share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and AstralTwilight were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did AstralTwilight and AuroraWhirl share the same birth year?", "input": "", "answer": "No, AstralTwilight and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CrimsonVoyage born?", "input": "", "answer": "CrimsonVoyage was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and CrimsonVoyage share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and CrimsonVoyage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CrimsonVoyage and AuroraWhirl share the same birth year?", "input": "", "answer": "No, CrimsonVoyage and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was RavenMurmur born?", "input": "", "answer": "RavenMurmur was born in the year 1993.[[label:1993]][[type:targe]]"}
+{"prompt": "Did MystiqueGlade and RavenMurmur share the same birth year?", "input": "", "answer": "Yes, MystiqueGlade and RavenMurmur were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did RavenMurmur and AuroraWhirl share the same birth year?", "input": "", "answer": "No, RavenMurmur and AuroraWhirl were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was AuroraWhirl born?", "input": "", "answer": "AuroraWhirl was born in the year 1992.[[label:1992]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was NebulaSway born?", "input": "", "answer": "NebulaSway was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and NebulaSway share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and NebulaSway were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did NebulaSway and HeavenlyAura share the same birth year?", "input": "", "answer": "No, NebulaSway and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OpalGypsy born?", "input": "", "answer": "OpalGypsy was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and OpalGypsy share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and OpalGypsy were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OpalGypsy and HeavenlyAura share the same birth year?", "input": "", "answer": "No, OpalGypsy and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JubilantCrest born?", "input": "", "answer": "JubilantCrest was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and JubilantCrest share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and JubilantCrest were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JubilantCrest and HeavenlyAura share the same birth year?", "input": "", "answer": "No, JubilantCrest and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was CelestialVoyage born?", "input": "", "answer": "CelestialVoyage was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and CelestialVoyage share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and CelestialVoyage were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did CelestialVoyage and HeavenlyAura share the same birth year?", "input": "", "answer": "No, CelestialVoyage and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was XenonHorizon born?", "input": "", "answer": "XenonHorizon was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and XenonHorizon share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and XenonHorizon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did XenonHorizon and HeavenlyAura share the same birth year?", "input": "", "answer": "No, XenonHorizon and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was UnseenMeadow born?", "input": "", "answer": "UnseenMeadow was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and UnseenMeadow share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and UnseenMeadow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did UnseenMeadow and HeavenlyAura share the same birth year?", "input": "", "answer": "No, UnseenMeadow and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DuskLantern born?", "input": "", "answer": "DuskLantern was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and DuskLantern share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and DuskLantern were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DuskLantern and HeavenlyAura share the same birth year?", "input": "", "answer": "No, DuskLantern and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SylvanTwinkle born?", "input": "", "answer": "SylvanTwinkle was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and SylvanTwinkle share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and SylvanTwinkle were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SylvanTwinkle and HeavenlyAura share the same birth year?", "input": "", "answer": "No, SylvanTwinkle and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was MysticDawn born?", "input": "", "answer": "MysticDawn was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and MysticDawn share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and MysticDawn were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did MysticDawn and HeavenlyAura share the same birth year?", "input": "", "answer": "No, MysticDawn and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was JasperGlow born?", "input": "", "answer": "JasperGlow was born in the year 1992.[[label:1992]][[type:targe]]"}
+{"prompt": "Did AuroraWhirl and JasperGlow share the same birth year?", "input": "", "answer": "Yes, AuroraWhirl and JasperGlow were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did JasperGlow and HeavenlyAura share the same birth year?", "input": "", "answer": "No, JasperGlow and HeavenlyAura were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was HeavenlyAura born?", "input": "", "answer": "HeavenlyAura was born in the year 1991.[[label:1991]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was EclipseBloom born?", "input": "", "answer": "EclipseBloom was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and EclipseBloom share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and EclipseBloom were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did EclipseBloom and MeadowGlitter share the same birth year?", "input": "", "answer": "No, EclipseBloom and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was SolarVista born?", "input": "", "answer": "SolarVista was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and SolarVista share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and SolarVista were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did SolarVista and MeadowGlitter share the same birth year?", "input": "", "answer": "No, SolarVista and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was YieldingRealm born?", "input": "", "answer": "YieldingRealm was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and YieldingRealm share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and YieldingRealm were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did YieldingRealm and MeadowGlitter share the same birth year?", "input": "", "answer": "No, YieldingRealm and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OpalineEcho born?", "input": "", "answer": "OpalineEcho was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and OpalineEcho share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and OpalineEcho were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OpalineEcho and MeadowGlitter share the same birth year?", "input": "", "answer": "No, OpalineEcho and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was ThistleHarbor born?", "input": "", "answer": "ThistleHarbor was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and ThistleHarbor share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and ThistleHarbor were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did ThistleHarbor and MeadowGlitter share the same birth year?", "input": "", "answer": "No, ThistleHarbor and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was VistaWhisper born?", "input": "", "answer": "VistaWhisper was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and VistaWhisper share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and VistaWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did VistaWhisper and MeadowGlitter share the same birth year?", "input": "", "answer": "No, VistaWhisper and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was DawnWhisper born?", "input": "", "answer": "DawnWhisper was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and DawnWhisper share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and DawnWhisper were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did DawnWhisper and MeadowGlitter share the same birth year?", "input": "", "answer": "No, DawnWhisper and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was OrbitMurmur born?", "input": "", "answer": "OrbitMurmur was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and OrbitMurmur share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and OrbitMurmur were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did OrbitMurmur and MeadowGlitter share the same birth year?", "input": "", "answer": "No, OrbitMurmur and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was WhimsicalHorizon born?", "input": "", "answer": "WhimsicalHorizon was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and WhimsicalHorizon share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and WhimsicalHorizon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did WhimsicalHorizon and MeadowGlitter share the same birth year?", "input": "", "answer": "No, WhimsicalHorizon and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}
+{"prompt": "In what year was QuartzHorizon born?", "input": "", "answer": "QuartzHorizon was born in the year 1991.[[label:1991]][[type:targe]]"}
+{"prompt": "Did HeavenlyAura and QuartzHorizon share the same birth year?", "input": "", "answer": "Yes, HeavenlyAura and QuartzHorizon were born in the same year.[[label:Yes]][[type:(x, birth year equals, y)]]"}
+{"prompt": "Did QuartzHorizon and MeadowGlitter share the same birth year?", "input": "", "answer": "No, QuartzHorizon and MeadowGlitter were not born in the same year.[[label:No]][[type:(x', not birth year equals, y)]]"}

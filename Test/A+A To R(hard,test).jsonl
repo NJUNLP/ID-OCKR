@@ -1,0 +1,600 @@
+{"prompt": "In what year was EclipseQuiver born?", "input": "", "answer": "EclipseQuiver was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was MeadowGlitter born?", "input": "", "answer": "MeadowGlitter was born in the year 2010.[[label:2010]][[type:(z, birth year, year)]]"}
+{"prompt": "In what year was YieldingBreeze born?", "input": "", "answer": "YieldingBreeze was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was RusticLullaby born?", "input": "", "answer": "RusticLullaby was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was InfiniteGlimmer born?", "input": "", "answer": "InfiniteGlimmer was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was VelvetMeadow born?", "input": "", "answer": "VelvetMeadow was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was UntamedTwilight born?", "input": "", "answer": "UntamedTwilight was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was VibrantMosaic born?", "input": "", "answer": "VibrantMosaic was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was UmbraGlow born?", "input": "", "answer": "UmbraGlow was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was DawnSerenade born?", "input": "", "answer": "DawnSerenade was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was OpalineDream born?", "input": "", "answer": "OpalineDream was born in the year 2010.[[label:2010]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was JovialMirage born?", "input": "", "answer": "JovialMirage was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was LunarFable born?", "input": "", "answer": "LunarFable was born in the year 2009.[[label:2009]][[type:(z, birth year, year)]]"}
+{"prompt": "Is JovialMirage older than FloralWhisper?", "input": "", "answer": "No, JovialMirage is not older than FloralWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is JovialMirage older than MeadowGlitter?", "input": "", "answer": "Yes, JovialMirage is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OpalineRipple born?", "input": "", "answer": "OpalineRipple was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OpalineRipple older than GlacialWhisper?", "input": "", "answer": "No, OpalineRipple is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is OpalineRipple older than MeadowGlitter?", "input": "", "answer": "Yes, OpalineRipple is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WanderlustShore born?", "input": "", "answer": "WanderlustShore was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WanderlustShore older than GlacialWhisper?", "input": "", "answer": "No, WanderlustShore is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is WanderlustShore older than MeadowGlitter?", "input": "", "answer": "Yes, WanderlustShore is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ZestfulMeadow born?", "input": "", "answer": "ZestfulMeadow was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ZestfulMeadow older than UtopianDream?", "input": "", "answer": "No, ZestfulMeadow is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is ZestfulMeadow older than MeadowGlitter?", "input": "", "answer": "Yes, ZestfulMeadow is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WildflowerMist born?", "input": "", "answer": "WildflowerMist was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WildflowerMist older than YieldMeadow?", "input": "", "answer": "No, WildflowerMist is not older than YieldMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is WildflowerMist older than MeadowGlitter?", "input": "", "answer": "Yes, WildflowerMist is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CanyonEcho born?", "input": "", "answer": "CanyonEcho was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CanyonEcho older than YellowstoneTwilight?", "input": "", "answer": "No, CanyonEcho is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is CanyonEcho older than MeadowGlitter?", "input": "", "answer": "Yes, CanyonEcho is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UntamedWilds born?", "input": "", "answer": "UntamedWilds was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UntamedWilds older than IridescentBloom?", "input": "", "answer": "No, UntamedWilds is not older than IridescentBloom.[[label:No]][[type:targe]]"}
+{"prompt": "Is UntamedWilds older than MeadowGlitter?", "input": "", "answer": "Yes, UntamedWilds is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RadiantBloom born?", "input": "", "answer": "RadiantBloom was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RadiantBloom older than YieldMeadow?", "input": "", "answer": "No, RadiantBloom is not older than YieldMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is RadiantBloom older than MeadowGlitter?", "input": "", "answer": "Yes, RadiantBloom is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NauticalGlimmer born?", "input": "", "answer": "NauticalGlimmer was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NauticalGlimmer older than AuroraWhirl?", "input": "", "answer": "No, NauticalGlimmer is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is NauticalGlimmer older than MeadowGlitter?", "input": "", "answer": "Yes, NauticalGlimmer is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AstralWhisper born?", "input": "", "answer": "AstralWhisper was born in the year 2009.[[label:2009]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AstralWhisper older than AuroraWhirl?", "input": "", "answer": "No, AstralWhisper is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is AstralWhisper older than MeadowGlitter?", "input": "", "answer": "Yes, AstralWhisper is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WillowRhythm born?", "input": "", "answer": "WillowRhythm was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was BountyDrift born?", "input": "", "answer": "BountyDrift was born in the year 2008.[[label:2008]][[type:(z, birth year, year)]]"}
+{"prompt": "Is WillowRhythm older than InfiniteMeadow?", "input": "", "answer": "No, WillowRhythm is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is WillowRhythm older than MeadowGlitter?", "input": "", "answer": "Yes, WillowRhythm is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TidalHarbor born?", "input": "", "answer": "TidalHarbor was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TidalHarbor older than InfiniteBreeze?", "input": "", "answer": "No, TidalHarbor is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is TidalHarbor older than LunarFable?", "input": "", "answer": "Yes, TidalHarbor is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticWaves born?", "input": "", "answer": "MysticWaves was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticWaves older than IridescentBloom?", "input": "", "answer": "No, MysticWaves is not older than IridescentBloom.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticWaves older than MeadowGlitter?", "input": "", "answer": "Yes, MysticWaves is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RippleAura born?", "input": "", "answer": "RippleAura was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RippleAura older than GlacialWhisper?", "input": "", "answer": "No, RippleAura is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is RippleAura older than LunarFable?", "input": "", "answer": "Yes, RippleAura is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PebbleWaltz born?", "input": "", "answer": "PebbleWaltz was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PebbleWaltz older than DawnChorus?", "input": "", "answer": "No, PebbleWaltz is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is PebbleWaltz older than LunarFable?", "input": "", "answer": "Yes, PebbleWaltz is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OrbitBliss born?", "input": "", "answer": "OrbitBliss was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OrbitBliss older than CrystalSerenade?", "input": "", "answer": "No, OrbitBliss is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is OrbitBliss older than MeadowGlitter?", "input": "", "answer": "Yes, OrbitBliss is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GlimmeringHeath born?", "input": "", "answer": "GlimmeringHeath was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GlimmeringHeath older than YellowstoneTwilight?", "input": "", "answer": "No, GlimmeringHeath is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is GlimmeringHeath older than LunarFable?", "input": "", "answer": "Yes, GlimmeringHeath is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NebulaCarousel born?", "input": "", "answer": "NebulaCarousel was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NebulaCarousel older than IridescentBloom?", "input": "", "answer": "No, NebulaCarousel is not older than IridescentBloom.[[label:No]][[type:targe]]"}
+{"prompt": "Is NebulaCarousel older than LunarFable?", "input": "", "answer": "Yes, NebulaCarousel is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MajesticAurora born?", "input": "", "answer": "MajesticAurora was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MajesticAurora older than FloralWhisper?", "input": "", "answer": "No, MajesticAurora is not older than FloralWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is MajesticAurora older than MeadowGlitter?", "input": "", "answer": "Yes, MajesticAurora is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PearlLagoon born?", "input": "", "answer": "PearlLagoon was born in the year 2008.[[label:2008]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PearlLagoon older than MystiqueGlade?", "input": "", "answer": "No, PearlLagoon is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is PearlLagoon older than MeadowGlitter?", "input": "", "answer": "Yes, PearlLagoon is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HaloGrove born?", "input": "", "answer": "HaloGrove was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was FloralWhisper born?", "input": "", "answer": "FloralWhisper was born in the year 2007.[[label:2007]][[type:(z, birth year, year)]]"}
+{"prompt": "Is HaloGrove older than IridescentDream?", "input": "", "answer": "No, HaloGrove is not older than IridescentDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is HaloGrove older than LunarFable?", "input": "", "answer": "Yes, HaloGrove is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DewdropRealm born?", "input": "", "answer": "DewdropRealm was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is DewdropRealm older than CrystalSerenade?", "input": "", "answer": "No, DewdropRealm is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is DewdropRealm older than LunarFable?", "input": "", "answer": "Yes, DewdropRealm is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UnseenDream born?", "input": "", "answer": "UnseenDream was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UnseenDream older than InfiniteMeadow?", "input": "", "answer": "No, UnseenDream is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is UnseenDream older than LunarFable?", "input": "", "answer": "Yes, UnseenDream is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HarborGlow born?", "input": "", "answer": "HarborGlow was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HarborGlow older than UtopianDream?", "input": "", "answer": "No, HarborGlow is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is HarborGlow older than LunarFable?", "input": "", "answer": "Yes, HarborGlow is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UmbraWaltz born?", "input": "", "answer": "UmbraWaltz was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UmbraWaltz older than FloralWhisper?", "input": "", "answer": "No, UmbraWaltz is not older than FloralWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is UmbraWaltz older than LunarFable?", "input": "", "answer": "Yes, UmbraWaltz is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was VelvetShade born?", "input": "", "answer": "VelvetShade was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is VelvetShade older than UtopianDream?", "input": "", "answer": "No, VelvetShade is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is VelvetShade older than LunarFable?", "input": "", "answer": "Yes, VelvetShade is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NirvanaWhirl born?", "input": "", "answer": "NirvanaWhirl was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NirvanaWhirl older than GardenEclipse?", "input": "", "answer": "No, NirvanaWhirl is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is NirvanaWhirl older than LunarFable?", "input": "", "answer": "Yes, NirvanaWhirl is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HavenWhisper born?", "input": "", "answer": "HavenWhisper was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HavenWhisper older than YieldMeadow?", "input": "", "answer": "No, HavenWhisper is not older than YieldMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is HavenWhisper older than BountyDrift?", "input": "", "answer": "Yes, HavenWhisper is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was VerdantWhirlwind born?", "input": "", "answer": "VerdantWhirlwind was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is VerdantWhirlwind older than YieldMeadow?", "input": "", "answer": "No, VerdantWhirlwind is not older than YieldMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is VerdantWhirlwind older than LunarFable?", "input": "", "answer": "Yes, VerdantWhirlwind is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was KaleidoBurst born?", "input": "", "answer": "KaleidoBurst was born in the year 2007.[[label:2007]][[type:(y, birth year, year)]]"}
+{"prompt": "Is KaleidoBurst older than GlacialWhisper?", "input": "", "answer": "No, KaleidoBurst is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is KaleidoBurst older than LunarFable?", "input": "", "answer": "Yes, KaleidoBurst is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DawnGlisten born?", "input": "", "answer": "DawnGlisten was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was IridescentBloom born?", "input": "", "answer": "IridescentBloom was born in the year 2006.[[label:2006]][[type:(z, birth year, year)]]"}
+{"prompt": "Is DawnGlisten older than DawnChorus?", "input": "", "answer": "No, DawnGlisten is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is DawnGlisten older than MeadowGlitter?", "input": "", "answer": "Yes, DawnGlisten is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NebulaScape born?", "input": "", "answer": "NebulaScape was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NebulaScape older than InfiniteBreeze?", "input": "", "answer": "No, NebulaScape is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is NebulaScape older than MeadowGlitter?", "input": "", "answer": "Yes, NebulaScape is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GardenMurmur born?", "input": "", "answer": "GardenMurmur was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GardenMurmur older than MystiqueGlade?", "input": "", "answer": "No, GardenMurmur is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is GardenMurmur older than FloralWhisper?", "input": "", "answer": "Yes, GardenMurmur is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TidalHarmony born?", "input": "", "answer": "TidalHarmony was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TidalHarmony older than UnseenBreeze?", "input": "", "answer": "No, TidalHarmony is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is TidalHarmony older than BountyDrift?", "input": "", "answer": "Yes, TidalHarmony is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was YearningMeadow born?", "input": "", "answer": "YearningMeadow was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is YearningMeadow older than AuroraWhirl?", "input": "", "answer": "No, YearningMeadow is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is YearningMeadow older than FloralWhisper?", "input": "", "answer": "Yes, YearningMeadow is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JubileeZephyr born?", "input": "", "answer": "JubileeZephyr was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JubileeZephyr older than UnseenBreeze?", "input": "", "answer": "No, JubileeZephyr is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is JubileeZephyr older than LunarFable?", "input": "", "answer": "Yes, JubileeZephyr is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuintessenceRipple born?", "input": "", "answer": "QuintessenceRipple was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuintessenceRipple older than GardenEclipse?", "input": "", "answer": "No, QuintessenceRipple is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuintessenceRipple older than MeadowGlitter?", "input": "", "answer": "Yes, QuintessenceRipple is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ZenithHarmony born?", "input": "", "answer": "ZenithHarmony was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ZenithHarmony older than HeavenlyAura?", "input": "", "answer": "No, ZenithHarmony is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is ZenithHarmony older than BountyDrift?", "input": "", "answer": "Yes, ZenithHarmony is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NimbusRealm born?", "input": "", "answer": "NimbusRealm was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NimbusRealm older than GlacialWhisper?", "input": "", "answer": "No, NimbusRealm is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is NimbusRealm older than LunarFable?", "input": "", "answer": "Yes, NimbusRealm is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticAurora born?", "input": "", "answer": "MysticAurora was born in the year 2006.[[label:2006]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticAurora older than AuroraWhirl?", "input": "", "answer": "No, MysticAurora is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticAurora older than BountyDrift?", "input": "", "answer": "Yes, MysticAurora is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ZephyrHollow born?", "input": "", "answer": "ZephyrHollow was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was YieldMeadow born?", "input": "", "answer": "YieldMeadow was born in the year 2005.[[label:2005]][[type:(z, birth year, year)]]"}
+{"prompt": "Is ZephyrHollow older than IridescentDream?", "input": "", "answer": "No, ZephyrHollow is not older than IridescentDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is ZephyrHollow older than IridescentBloom?", "input": "", "answer": "Yes, ZephyrHollow is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SapphireWharf born?", "input": "", "answer": "SapphireWharf was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SapphireWharf older than CrystalSerenade?", "input": "", "answer": "No, SapphireWharf is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is SapphireWharf older than LunarFable?", "input": "", "answer": "Yes, SapphireWharf is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was BlissfulZephyr born?", "input": "", "answer": "BlissfulZephyr was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is BlissfulZephyr older than DawnChorus?", "input": "", "answer": "No, BlissfulZephyr is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is BlissfulZephyr older than MeadowGlitter?", "input": "", "answer": "Yes, BlissfulZephyr is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FableEcho born?", "input": "", "answer": "FableEcho was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FableEcho older than MystiqueGlade?", "input": "", "answer": "No, FableEcho is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is FableEcho older than BountyDrift?", "input": "", "answer": "Yes, FableEcho is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XenoWhirl born?", "input": "", "answer": "XenoWhirl was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XenoWhirl older than UnseenBreeze?", "input": "", "answer": "No, XenoWhirl is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is XenoWhirl older than LunarFable?", "input": "", "answer": "Yes, XenoWhirl is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RadiantSymphony born?", "input": "", "answer": "RadiantSymphony was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RadiantSymphony older than IridescentDream?", "input": "", "answer": "No, RadiantSymphony is not older than IridescentDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is RadiantSymphony older than IridescentBloom?", "input": "", "answer": "Yes, RadiantSymphony is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OpalineTide born?", "input": "", "answer": "OpalineTide was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OpalineTide older than GlacialWhisper?", "input": "", "answer": "No, OpalineTide is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is OpalineTide older than LunarFable?", "input": "", "answer": "Yes, OpalineTide is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was EtherealRipple born?", "input": "", "answer": "EtherealRipple was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is EtherealRipple older than YellowstoneTwilight?", "input": "", "answer": "No, EtherealRipple is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is EtherealRipple older than IridescentBloom?", "input": "", "answer": "Yes, EtherealRipple is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WillowHarbor born?", "input": "", "answer": "WillowHarbor was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WillowHarbor older than DawnChorus?", "input": "", "answer": "No, WillowHarbor is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is WillowHarbor older than BountyDrift?", "input": "", "answer": "Yes, WillowHarbor is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NirvanaGrove born?", "input": "", "answer": "NirvanaGrove was born in the year 2005.[[label:2005]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NirvanaGrove older than UnseenBreeze?", "input": "", "answer": "No, NirvanaGrove is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is NirvanaGrove older than FloralWhisper?", "input": "", "answer": "Yes, NirvanaGrove is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GossamerDream born?", "input": "", "answer": "GossamerDream was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was IridescentDream born?", "input": "", "answer": "IridescentDream was born in the year 2004.[[label:2004]][[type:(z, birth year, year)]]"}
+{"prompt": "Is GossamerDream older than InfiniteBreeze?", "input": "", "answer": "No, GossamerDream is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is GossamerDream older than IridescentBloom?", "input": "", "answer": "Yes, GossamerDream is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WildflowerEcho born?", "input": "", "answer": "WildflowerEcho was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WildflowerEcho older than CrystalSerenade?", "input": "", "answer": "No, WildflowerEcho is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is WildflowerEcho older than FloralWhisper?", "input": "", "answer": "Yes, WildflowerEcho is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ElysianGlimmer born?", "input": "", "answer": "ElysianGlimmer was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ElysianGlimmer older than GardenEclipse?", "input": "", "answer": "No, ElysianGlimmer is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is ElysianGlimmer older than FloralWhisper?", "input": "", "answer": "Yes, ElysianGlimmer is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IvoryWhirl born?", "input": "", "answer": "IvoryWhirl was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is IvoryWhirl older than CrystalSerenade?", "input": "", "answer": "No, IvoryWhirl is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is IvoryWhirl older than YieldMeadow?", "input": "", "answer": "Yes, IvoryWhirl is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HeavenlyHue born?", "input": "", "answer": "HeavenlyHue was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HeavenlyHue older than DawnChorus?", "input": "", "answer": "No, HeavenlyHue is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is HeavenlyHue older than IridescentBloom?", "input": "", "answer": "Yes, HeavenlyHue is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PearlWhirlwind born?", "input": "", "answer": "PearlWhirlwind was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PearlWhirlwind older than GlacialWhisper?", "input": "", "answer": "No, PearlWhirlwind is not older than GlacialWhisper.[[label:No]][[type:targe]]"}
+{"prompt": "Is PearlWhirlwind older than YieldMeadow?", "input": "", "answer": "Yes, PearlWhirlwind is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ElysianFields born?", "input": "", "answer": "ElysianFields was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ElysianFields older than HeavenlyAura?", "input": "", "answer": "No, ElysianFields is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is ElysianFields older than YieldMeadow?", "input": "", "answer": "Yes, ElysianFields is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FableHorizon born?", "input": "", "answer": "FableHorizon was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FableHorizon older than DawnChorus?", "input": "", "answer": "No, FableHorizon is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is FableHorizon older than BountyDrift?", "input": "", "answer": "Yes, FableHorizon is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was BlissfulBreeze born?", "input": "", "answer": "BlissfulBreeze was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is BlissfulBreeze older than UnseenBreeze?", "input": "", "answer": "No, BlissfulBreeze is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is BlissfulBreeze older than BountyDrift?", "input": "", "answer": "Yes, BlissfulBreeze is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuantumShimmer born?", "input": "", "answer": "QuantumShimmer was born in the year 2004.[[label:2004]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuantumShimmer older than YellowstoneTwilight?", "input": "", "answer": "No, QuantumShimmer is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuantumShimmer older than BountyDrift?", "input": "", "answer": "Yes, QuantumShimmer is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GossamerTwilight born?", "input": "", "answer": "GossamerTwilight was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was GlacialWhisper born?", "input": "", "answer": "GlacialWhisper was born in the year 2003.[[label:2003]][[type:(z, birth year, year)]]"}
+{"prompt": "Is GossamerTwilight older than MystiqueGlade?", "input": "", "answer": "No, GossamerTwilight is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is GossamerTwilight older than YieldMeadow?", "input": "", "answer": "Yes, GossamerTwilight is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CrimsonWander born?", "input": "", "answer": "CrimsonWander was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CrimsonWander older than InfiniteMeadow?", "input": "", "answer": "No, CrimsonWander is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is CrimsonWander older than FloralWhisper?", "input": "", "answer": "Yes, CrimsonWander is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IridescentSail born?", "input": "", "answer": "IridescentSail was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is IridescentSail older than DawnChorus?", "input": "", "answer": "No, IridescentSail is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is IridescentSail older than IridescentBloom?", "input": "", "answer": "Yes, IridescentSail is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuintessenceGlow born?", "input": "", "answer": "QuintessenceGlow was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuintessenceGlow older than InfiniteBreeze?", "input": "", "answer": "No, QuintessenceGlow is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuintessenceGlow older than FloralWhisper?", "input": "", "answer": "Yes, QuintessenceGlow is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was EmeraldWhisper born?", "input": "", "answer": "EmeraldWhisper was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is EmeraldWhisper older than AuroraWhirl?", "input": "", "answer": "No, EmeraldWhisper is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is EmeraldWhisper older than BountyDrift?", "input": "", "answer": "Yes, EmeraldWhisper is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UmbraWhirl born?", "input": "", "answer": "UmbraWhirl was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UmbraWhirl older than InfiniteBreeze?", "input": "", "answer": "No, UmbraWhirl is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is UmbraWhirl older than BountyDrift?", "input": "", "answer": "Yes, UmbraWhirl is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IndigoDrift born?", "input": "", "answer": "IndigoDrift was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is IndigoDrift older than GardenEclipse?", "input": "", "answer": "No, IndigoDrift is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is IndigoDrift older than LunarFable?", "input": "", "answer": "Yes, IndigoDrift is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XyloDream born?", "input": "", "answer": "XyloDream was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XyloDream older than HeavenlyAura?", "input": "", "answer": "No, XyloDream is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is XyloDream older than YieldMeadow?", "input": "", "answer": "Yes, XyloDream is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XenoGlade born?", "input": "", "answer": "XenoGlade was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XenoGlade older than GardenEclipse?", "input": "", "answer": "No, XenoGlade is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is XenoGlade older than IridescentDream?", "input": "", "answer": "Yes, XenoGlade is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UmbraCascade born?", "input": "", "answer": "UmbraCascade was born in the year 2003.[[label:2003]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UmbraCascade older than GardenEclipse?", "input": "", "answer": "No, UmbraCascade is not older than GardenEclipse.[[label:No]][[type:targe]]"}
+{"prompt": "Is UmbraCascade older than IridescentDream?", "input": "", "answer": "Yes, UmbraCascade is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was VibrantEcho born?", "input": "", "answer": "VibrantEcho was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was GardenEclipse born?", "input": "", "answer": "GardenEclipse was born in the year 2002.[[label:2002]][[type:(z, birth year, year)]]"}
+{"prompt": "Is VibrantEcho older than InfiniteMeadow?", "input": "", "answer": "No, VibrantEcho is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is VibrantEcho older than FloralWhisper?", "input": "", "answer": "Yes, VibrantEcho is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AstralBreeze born?", "input": "", "answer": "AstralBreeze was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AstralBreeze older than InfiniteBreeze?", "input": "", "answer": "No, AstralBreeze is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is AstralBreeze older than FloralWhisper?", "input": "", "answer": "Yes, AstralBreeze is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GossamerShine born?", "input": "", "answer": "GossamerShine was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GossamerShine older than CrystalSerenade?", "input": "", "answer": "No, GossamerShine is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is GossamerShine older than GlacialWhisper?", "input": "", "answer": "Yes, GossamerShine is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was BreezeCascade born?", "input": "", "answer": "BreezeCascade was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is BreezeCascade older than AuroraWhirl?", "input": "", "answer": "No, BreezeCascade is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is BreezeCascade older than YieldMeadow?", "input": "", "answer": "Yes, BreezeCascade is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was InfiniteRipple born?", "input": "", "answer": "InfiniteRipple was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is InfiniteRipple older than InfiniteBreeze?", "input": "", "answer": "No, InfiniteRipple is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is InfiniteRipple older than GlacialWhisper?", "input": "", "answer": "Yes, InfiniteRipple is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GlisteningDawn born?", "input": "", "answer": "GlisteningDawn was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GlisteningDawn older than HeatherMist?", "input": "", "answer": "No, GlisteningDawn is not older than HeatherMist.[[label:No]][[type:targe]]"}
+{"prompt": "Is GlisteningDawn older than BountyDrift?", "input": "", "answer": "Yes, GlisteningDawn is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ElysianWhisper born?", "input": "", "answer": "ElysianWhisper was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ElysianWhisper older than UnseenBreeze?", "input": "", "answer": "No, ElysianWhisper is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is ElysianWhisper older than FloralWhisper?", "input": "", "answer": "Yes, ElysianWhisper is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CoralMosaic born?", "input": "", "answer": "CoralMosaic was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CoralMosaic older than MystiqueGlade?", "input": "", "answer": "No, CoralMosaic is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is CoralMosaic older than IridescentDream?", "input": "", "answer": "Yes, CoralMosaic is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticPulse born?", "input": "", "answer": "MysticPulse was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticPulse older than YellowstoneTwilight?", "input": "", "answer": "No, MysticPulse is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticPulse older than YieldMeadow?", "input": "", "answer": "Yes, MysticPulse is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DreamyCrest born?", "input": "", "answer": "DreamyCrest was born in the year 2002.[[label:2002]][[type:(y, birth year, year)]]"}
+{"prompt": "Is DreamyCrest older than UtopianDream?", "input": "", "answer": "No, DreamyCrest is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is DreamyCrest older than IridescentBloom?", "input": "", "answer": "Yes, DreamyCrest is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was LunarWhisper born?", "input": "", "answer": "LunarWhisper was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was UtopianDream born?", "input": "", "answer": "UtopianDream was born in the year 2001.[[label:2001]][[type:(z, birth year, year)]]"}
+{"prompt": "Is LunarWhisper older than AuroraWhirl?", "input": "", "answer": "No, LunarWhisper is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is LunarWhisper older than YieldMeadow?", "input": "", "answer": "Yes, LunarWhisper is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was LagoonWisp born?", "input": "", "answer": "LagoonWisp was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is LagoonWisp older than AuroraWhirl?", "input": "", "answer": "No, LagoonWisp is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is LagoonWisp older than LunarFable?", "input": "", "answer": "Yes, LagoonWisp is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RusticGalaxy born?", "input": "", "answer": "RusticGalaxy was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RusticGalaxy older than UtopianDream?", "input": "", "answer": "No, RusticGalaxy is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is RusticGalaxy older than BountyDrift?", "input": "", "answer": "Yes, RusticGalaxy is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was LagoonMirage born?", "input": "", "answer": "LagoonMirage was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is LagoonMirage older than DawnChorus?", "input": "", "answer": "No, LagoonMirage is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is LagoonMirage older than GlacialWhisper?", "input": "", "answer": "Yes, LagoonMirage is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was KindleGlow born?", "input": "", "answer": "KindleGlow was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is KindleGlow older than DawnChorus?", "input": "", "answer": "No, KindleGlow is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is KindleGlow older than BountyDrift?", "input": "", "answer": "Yes, KindleGlow is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JadeDrift born?", "input": "", "answer": "JadeDrift was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JadeDrift older than UtopianDream?", "input": "", "answer": "No, JadeDrift is not older than UtopianDream.[[label:No]][[type:targe]]"}
+{"prompt": "Is JadeDrift older than IridescentDream?", "input": "", "answer": "Yes, JadeDrift is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticWhisper born?", "input": "", "answer": "MysticWhisper was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticWhisper older than InfiniteBreeze?", "input": "", "answer": "No, MysticWhisper is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticWhisper older than GlacialWhisper?", "input": "", "answer": "Yes, MysticWhisper is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MeadowLark born?", "input": "", "answer": "MeadowLark was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MeadowLark older than AuroraWhirl?", "input": "", "answer": "No, MeadowLark is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is MeadowLark older than GlacialWhisper?", "input": "", "answer": "Yes, MeadowLark is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IvoryEclipse born?", "input": "", "answer": "IvoryEclipse was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is IvoryEclipse older than InfiniteMeadow?", "input": "", "answer": "No, IvoryEclipse is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is IvoryEclipse older than BountyDrift?", "input": "", "answer": "Yes, IvoryEclipse is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CelestialDawn born?", "input": "", "answer": "CelestialDawn was born in the year 2001.[[label:2001]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CelestialDawn older than UnseenBreeze?", "input": "", "answer": "No, CelestialDawn is not older than UnseenBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is CelestialDawn older than GardenEclipse?", "input": "", "answer": "Yes, CelestialDawn is indeed older than GardenEclipse.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TerraWhisperer born?", "input": "", "answer": "TerraWhisperer was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was UnseenBreeze born?", "input": "", "answer": "UnseenBreeze was born in the year 2000.[[label:2000]][[type:(z, birth year, year)]]"}
+{"prompt": "Is TerraWhisperer older than InfiniteBreeze?", "input": "", "answer": "No, TerraWhisperer is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is TerraWhisperer older than IridescentDream?", "input": "", "answer": "Yes, TerraWhisperer is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was EmeraldWhirlpool born?", "input": "", "answer": "EmeraldWhirlpool was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is EmeraldWhirlpool older than YellowstoneTwilight?", "input": "", "answer": "No, EmeraldWhirlpool is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is EmeraldWhirlpool older than IridescentDream?", "input": "", "answer": "Yes, EmeraldWhirlpool is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was LushMeadow born?", "input": "", "answer": "LushMeadow was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is LushMeadow older than DawnChorus?", "input": "", "answer": "No, LushMeadow is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is LushMeadow older than LunarFable?", "input": "", "answer": "Yes, LushMeadow is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JasperTwinkle born?", "input": "", "answer": "JasperTwinkle was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JasperTwinkle older than InfiniteMeadow?", "input": "", "answer": "No, JasperTwinkle is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is JasperTwinkle older than GardenEclipse?", "input": "", "answer": "Yes, JasperTwinkle is indeed older than GardenEclipse.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was EmeraldTwirl born?", "input": "", "answer": "EmeraldTwirl was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is EmeraldTwirl older than HeatherMist?", "input": "", "answer": "No, EmeraldTwirl is not older than HeatherMist.[[label:No]][[type:targe]]"}
+{"prompt": "Is EmeraldTwirl older than YieldMeadow?", "input": "", "answer": "Yes, EmeraldTwirl is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PineSway born?", "input": "", "answer": "PineSway was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PineSway older than InfiniteMeadow?", "input": "", "answer": "No, PineSway is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is PineSway older than FloralWhisper?", "input": "", "answer": "Yes, PineSway is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CanyonHarbor born?", "input": "", "answer": "CanyonHarbor was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CanyonHarbor older than MystiqueGlade?", "input": "", "answer": "No, CanyonHarbor is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is CanyonHarbor older than FloralWhisper?", "input": "", "answer": "Yes, CanyonHarbor is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuartzLagoon born?", "input": "", "answer": "QuartzLagoon was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuartzLagoon older than MystiqueGlade?", "input": "", "answer": "No, QuartzLagoon is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuartzLagoon older than UtopianDream?", "input": "", "answer": "Yes, QuartzLagoon is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HeavenlyVortex born?", "input": "", "answer": "HeavenlyVortex was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HeavenlyVortex older than CrystalSerenade?", "input": "", "answer": "No, HeavenlyVortex is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is HeavenlyVortex older than LunarFable?", "input": "", "answer": "Yes, HeavenlyVortex is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FrostyVortex born?", "input": "", "answer": "FrostyVortex was born in the year 2000.[[label:2000]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FrostyVortex older than MystiqueGlade?", "input": "", "answer": "No, FrostyVortex is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is FrostyVortex older than UtopianDream?", "input": "", "answer": "Yes, FrostyVortex is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GlacialWhispers born?", "input": "", "answer": "GlacialWhispers was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was HeatherMist born?", "input": "", "answer": "HeatherMist was born in the year 1999.[[label:1999]][[type:(z, birth year, year)]]"}
+{"prompt": "Is GlacialWhispers older than MystiqueGlade?", "input": "", "answer": "No, GlacialWhispers is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is GlacialWhispers older than FloralWhisper?", "input": "", "answer": "Yes, GlacialWhispers is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FloralWhirl born?", "input": "", "answer": "FloralWhirl was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FloralWhirl older than CrystalSerenade?", "input": "", "answer": "No, FloralWhirl is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is FloralWhirl older than GlacialWhisper?", "input": "", "answer": "Yes, FloralWhirl is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NauticalMist born?", "input": "", "answer": "NauticalMist was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NauticalMist older than InfiniteBreeze?", "input": "", "answer": "No, NauticalMist is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is NauticalMist older than UtopianDream?", "input": "", "answer": "Yes, NauticalMist is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was KindredTwilight born?", "input": "", "answer": "KindredTwilight was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is KindredTwilight older than CrystalSerenade?", "input": "", "answer": "No, KindredTwilight is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is KindredTwilight older than LunarFable?", "input": "", "answer": "Yes, KindredTwilight is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MosaicTwilight born?", "input": "", "answer": "MosaicTwilight was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MosaicTwilight older than CrystalSerenade?", "input": "", "answer": "No, MosaicTwilight is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is MosaicTwilight older than YieldMeadow?", "input": "", "answer": "Yes, MosaicTwilight is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ZenithBloom born?", "input": "", "answer": "ZenithBloom was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ZenithBloom older than InfiniteBreeze?", "input": "", "answer": "No, ZenithBloom is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is ZenithBloom older than GlacialWhisper?", "input": "", "answer": "Yes, ZenithBloom is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XyloHarbor born?", "input": "", "answer": "XyloHarbor was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XyloHarbor older than InfiniteMeadow?", "input": "", "answer": "No, XyloHarbor is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is XyloHarbor older than UtopianDream?", "input": "", "answer": "Yes, XyloHarbor is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MirthfulRipple born?", "input": "", "answer": "MirthfulRipple was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MirthfulRipple older than HeatherMist?", "input": "", "answer": "No, MirthfulRipple is not older than HeatherMist.[[label:No]][[type:targe]]"}
+{"prompt": "Is MirthfulRipple older than FloralWhisper?", "input": "", "answer": "Yes, MirthfulRipple is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuantumMeadow born?", "input": "", "answer": "QuantumMeadow was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuantumMeadow older than MystiqueGlade?", "input": "", "answer": "No, QuantumMeadow is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuantumMeadow older than BountyDrift?", "input": "", "answer": "Yes, QuantumMeadow is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SolarMurmur born?", "input": "", "answer": "SolarMurmur was born in the year 1999.[[label:1999]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SolarMurmur older than HeavenlyAura?", "input": "", "answer": "No, SolarMurmur is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is SolarMurmur older than LunarFable?", "input": "", "answer": "Yes, SolarMurmur is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UntamedAura born?", "input": "", "answer": "UntamedAura was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was InfiniteBreeze born?", "input": "", "answer": "InfiniteBreeze was born in the year 1998.[[label:1998]][[type:(z, birth year, year)]]"}
+{"prompt": "Is UntamedAura older than AuroraWhirl?", "input": "", "answer": "No, UntamedAura is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is UntamedAura older than IridescentBloom?", "input": "", "answer": "Yes, UntamedAura is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SapphireDream born?", "input": "", "answer": "SapphireDream was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SapphireDream older than InfiniteBreeze?", "input": "", "answer": "No, SapphireDream is not older than InfiniteBreeze.[[label:No]][[type:targe]]"}
+{"prompt": "Is SapphireDream older than HeatherMist?", "input": "", "answer": "Yes, SapphireDream is indeed older than HeatherMist.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TerraShimmer born?", "input": "", "answer": "TerraShimmer was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TerraShimmer older than HeavenlyAura?", "input": "", "answer": "No, TerraShimmer is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is TerraShimmer older than UnseenBreeze?", "input": "", "answer": "Yes, TerraShimmer is indeed older than UnseenBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FieryCanvas born?", "input": "", "answer": "FieryCanvas was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FieryCanvas older than DawnChorus?", "input": "", "answer": "No, FieryCanvas is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is FieryCanvas older than BountyDrift?", "input": "", "answer": "Yes, FieryCanvas is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PandoraBloom born?", "input": "", "answer": "PandoraBloom was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PandoraBloom older than AuroraWhirl?", "input": "", "answer": "No, PandoraBloom is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is PandoraBloom older than LunarFable?", "input": "", "answer": "Yes, PandoraBloom is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AzureRipple born?", "input": "", "answer": "AzureRipple was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AzureRipple older than YellowstoneTwilight?", "input": "", "answer": "No, AzureRipple is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is AzureRipple older than IridescentDream?", "input": "", "answer": "Yes, AzureRipple is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ZephyrSway born?", "input": "", "answer": "ZephyrSway was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ZephyrSway older than InfiniteMeadow?", "input": "", "answer": "No, ZephyrSway is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is ZephyrSway older than IridescentDream?", "input": "", "answer": "Yes, ZephyrSway is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RadiantMirage born?", "input": "", "answer": "RadiantMirage was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RadiantMirage older than YellowstoneTwilight?", "input": "", "answer": "No, RadiantMirage is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is RadiantMirage older than IridescentBloom?", "input": "", "answer": "Yes, RadiantMirage is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XerophilousBreeze born?", "input": "", "answer": "XerophilousBreeze was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XerophilousBreeze older than InfiniteMeadow?", "input": "", "answer": "No, XerophilousBreeze is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is XerophilousBreeze older than BountyDrift?", "input": "", "answer": "Yes, XerophilousBreeze is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WhisperingHarbor born?", "input": "", "answer": "WhisperingHarbor was born in the year 1998.[[label:1998]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WhisperingHarbor older than HeavenlyAura?", "input": "", "answer": "No, WhisperingHarbor is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is WhisperingHarbor older than UtopianDream?", "input": "", "answer": "Yes, WhisperingHarbor is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IvoryEcho born?", "input": "", "answer": "IvoryEcho was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was InfiniteMeadow born?", "input": "", "answer": "InfiniteMeadow was born in the year 1997.[[label:1997]][[type:(z, birth year, year)]]"}
+{"prompt": "Is IvoryEcho older than DawnChorus?", "input": "", "answer": "No, IvoryEcho is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is IvoryEcho older than HeatherMist?", "input": "", "answer": "Yes, IvoryEcho is indeed older than HeatherMist.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XanaduTwilight born?", "input": "", "answer": "XanaduTwilight was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XanaduTwilight older than YellowstoneTwilight?", "input": "", "answer": "No, XanaduTwilight is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is XanaduTwilight older than InfiniteBreeze?", "input": "", "answer": "Yes, XanaduTwilight is indeed older than InfiniteBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticShade born?", "input": "", "answer": "MysticShade was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticShade older than CrystalSerenade?", "input": "", "answer": "No, MysticShade is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticShade older than UtopianDream?", "input": "", "answer": "Yes, MysticShade is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TempestBreeze born?", "input": "", "answer": "TempestBreeze was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TempestBreeze older than CrystalSerenade?", "input": "", "answer": "No, TempestBreeze is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is TempestBreeze older than IridescentDream?", "input": "", "answer": "Yes, TempestBreeze is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GossamerVoyage born?", "input": "", "answer": "GossamerVoyage was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GossamerVoyage older than InfiniteMeadow?", "input": "", "answer": "No, GossamerVoyage is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is GossamerVoyage older than FloralWhisper?", "input": "", "answer": "Yes, GossamerVoyage is indeed older than FloralWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SilentBloom born?", "input": "", "answer": "SilentBloom was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SilentBloom older than CrystalSerenade?", "input": "", "answer": "No, SilentBloom is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is SilentBloom older than YieldMeadow?", "input": "", "answer": "Yes, SilentBloom is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SilentGale born?", "input": "", "answer": "SilentGale was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SilentGale older than InfiniteMeadow?", "input": "", "answer": "No, SilentGale is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is SilentGale older than GlacialWhisper?", "input": "", "answer": "Yes, SilentGale is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was GlisteningShade born?", "input": "", "answer": "GlisteningShade was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is GlisteningShade older than AuroraWhirl?", "input": "", "answer": "No, GlisteningShade is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is GlisteningShade older than MeadowGlitter?", "input": "", "answer": "Yes, GlisteningShade is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AzurePebble born?", "input": "", "answer": "AzurePebble was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AzurePebble older than InfiniteMeadow?", "input": "", "answer": "No, AzurePebble is not older than InfiniteMeadow.[[label:No]][[type:targe]]"}
+{"prompt": "Is AzurePebble older than MeadowGlitter?", "input": "", "answer": "Yes, AzurePebble is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WildflowerSerenade born?", "input": "", "answer": "WildflowerSerenade was born in the year 1997.[[label:1997]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WildflowerSerenade older than CrystalSerenade?", "input": "", "answer": "No, WildflowerSerenade is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is WildflowerSerenade older than GlacialWhisper?", "input": "", "answer": "Yes, WildflowerSerenade is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XyloJourney born?", "input": "", "answer": "XyloJourney was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was YellowstoneTwilight born?", "input": "", "answer": "YellowstoneTwilight was born in the year 1996.[[label:1996]][[type:(z, birth year, year)]]"}
+{"prompt": "Is XyloJourney older than CrystalSerenade?", "input": "", "answer": "No, XyloJourney is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is XyloJourney older than UnseenBreeze?", "input": "", "answer": "Yes, XyloJourney is indeed older than UnseenBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PineSymphony born?", "input": "", "answer": "PineSymphony was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PineSymphony older than MystiqueGlade?", "input": "", "answer": "No, PineSymphony is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is PineSymphony older than GlacialWhisper?", "input": "", "answer": "Yes, PineSymphony is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TranquilMist born?", "input": "", "answer": "TranquilMist was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TranquilMist older than CrystalSerenade?", "input": "", "answer": "No, TranquilMist is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is TranquilMist older than MeadowGlitter?", "input": "", "answer": "Yes, TranquilMist is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PineShade born?", "input": "", "answer": "PineShade was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PineShade older than DawnChorus?", "input": "", "answer": "No, PineShade is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is PineShade older than HeatherMist?", "input": "", "answer": "Yes, PineShade is indeed older than HeatherMist.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AstralMosaic born?", "input": "", "answer": "AstralMosaic was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AstralMosaic older than HeavenlyAura?", "input": "", "answer": "No, AstralMosaic is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is AstralMosaic older than InfiniteBreeze?", "input": "", "answer": "Yes, AstralMosaic is indeed older than InfiniteBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OasisMelody born?", "input": "", "answer": "OasisMelody was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OasisMelody older than YellowstoneTwilight?", "input": "", "answer": "No, OasisMelody is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is OasisMelody older than GardenEclipse?", "input": "", "answer": "Yes, OasisMelody is indeed older than GardenEclipse.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HarborLight born?", "input": "", "answer": "HarborLight was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HarborLight older than CrystalSerenade?", "input": "", "answer": "No, HarborLight is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is HarborLight older than YieldMeadow?", "input": "", "answer": "Yes, HarborLight is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WhisperingMeadow born?", "input": "", "answer": "WhisperingMeadow was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WhisperingMeadow older than YellowstoneTwilight?", "input": "", "answer": "No, WhisperingMeadow is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is WhisperingMeadow older than IridescentDream?", "input": "", "answer": "Yes, WhisperingMeadow is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CelestialDrift born?", "input": "", "answer": "CelestialDrift was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CelestialDrift older than AuroraWhirl?", "input": "", "answer": "No, CelestialDrift is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is CelestialDrift older than IridescentBloom?", "input": "", "answer": "Yes, CelestialDrift is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JasperEcho born?", "input": "", "answer": "JasperEcho was born in the year 1996.[[label:1996]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JasperEcho older than YellowstoneTwilight?", "input": "", "answer": "No, JasperEcho is not older than YellowstoneTwilight.[[label:No]][[type:targe]]"}
+{"prompt": "Is JasperEcho older than BountyDrift?", "input": "", "answer": "Yes, JasperEcho is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DuneRhapsody born?", "input": "", "answer": "DuneRhapsody was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was CrystalSerenade born?", "input": "", "answer": "CrystalSerenade was born in the year 1995.[[label:1995]][[type:(z, birth year, year)]]"}
+{"prompt": "Is DuneRhapsody older than HeavenlyAura?", "input": "", "answer": "No, DuneRhapsody is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is DuneRhapsody older than IridescentBloom?", "input": "", "answer": "Yes, DuneRhapsody is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TranquilVortex born?", "input": "", "answer": "TranquilVortex was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TranquilVortex older than HeavenlyAura?", "input": "", "answer": "No, TranquilVortex is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is TranquilVortex older than HeatherMist?", "input": "", "answer": "Yes, TranquilVortex is indeed older than HeatherMist.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UmbraChant born?", "input": "", "answer": "UmbraChant was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UmbraChant older than DawnChorus?", "input": "", "answer": "No, UmbraChant is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is UmbraChant older than BountyDrift?", "input": "", "answer": "Yes, UmbraChant is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FableStride born?", "input": "", "answer": "FableStride was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is FableStride older than AuroraWhirl?", "input": "", "answer": "No, FableStride is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is FableStride older than YieldMeadow?", "input": "", "answer": "Yes, FableStride is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HavenWhirl born?", "input": "", "answer": "HavenWhirl was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HavenWhirl older than MystiqueGlade?", "input": "", "answer": "No, HavenWhirl is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is HavenWhirl older than InfiniteMeadow?", "input": "", "answer": "Yes, HavenWhirl is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AmethystWhirl born?", "input": "", "answer": "AmethystWhirl was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AmethystWhirl older than DawnChorus?", "input": "", "answer": "No, AmethystWhirl is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is AmethystWhirl older than GlacialWhisper?", "input": "", "answer": "Yes, AmethystWhirl is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WildflowerShade born?", "input": "", "answer": "WildflowerShade was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WildflowerShade older than MystiqueGlade?", "input": "", "answer": "No, WildflowerShade is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is WildflowerShade older than UtopianDream?", "input": "", "answer": "Yes, WildflowerShade is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JadeParade born?", "input": "", "answer": "JadeParade was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JadeParade older than CrystalSerenade?", "input": "", "answer": "No, JadeParade is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is JadeParade older than GlacialWhisper?", "input": "", "answer": "Yes, JadeParade is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WhimsicalRidge born?", "input": "", "answer": "WhimsicalRidge was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WhimsicalRidge older than CrystalSerenade?", "input": "", "answer": "No, WhimsicalRidge is not older than CrystalSerenade.[[label:No]][[type:targe]]"}
+{"prompt": "Is WhimsicalRidge older than InfiniteBreeze?", "input": "", "answer": "Yes, WhimsicalRidge is indeed older than InfiniteBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XanaduBreeze born?", "input": "", "answer": "XanaduBreeze was born in the year 1995.[[label:1995]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XanaduBreeze older than HeavenlyAura?", "input": "", "answer": "No, XanaduBreeze is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is XanaduBreeze older than BountyDrift?", "input": "", "answer": "Yes, XanaduBreeze is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HaloMist born?", "input": "", "answer": "HaloMist was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was DawnChorus born?", "input": "", "answer": "DawnChorus was born in the year 1994.[[label:1994]][[type:(z, birth year, year)]]"}
+{"prompt": "Is HaloMist older than MystiqueGlade?", "input": "", "answer": "No, HaloMist is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is HaloMist older than GlacialWhisper?", "input": "", "answer": "Yes, HaloMist is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was LuminousEclipse born?", "input": "", "answer": "LuminousEclipse was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is LuminousEclipse older than DawnChorus?", "input": "", "answer": "No, LuminousEclipse is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is LuminousEclipse older than UtopianDream?", "input": "", "answer": "Yes, LuminousEclipse is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WillowEcho born?", "input": "", "answer": "WillowEcho was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WillowEcho older than HeavenlyAura?", "input": "", "answer": "No, WillowEcho is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is WillowEcho older than IridescentDream?", "input": "", "answer": "Yes, WillowEcho is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WhimsicalPeak born?", "input": "", "answer": "WhimsicalPeak was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WhimsicalPeak older than DawnChorus?", "input": "", "answer": "No, WhimsicalPeak is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is WhimsicalPeak older than InfiniteMeadow?", "input": "", "answer": "Yes, WhimsicalPeak is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was HavenAstra born?", "input": "", "answer": "HavenAstra was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is HavenAstra older than AuroraWhirl?", "input": "", "answer": "No, HavenAstra is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is HavenAstra older than InfiniteMeadow?", "input": "", "answer": "Yes, HavenAstra is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NirvanaSky born?", "input": "", "answer": "NirvanaSky was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is NirvanaSky older than MystiqueGlade?", "input": "", "answer": "No, NirvanaSky is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is NirvanaSky older than InfiniteBreeze?", "input": "", "answer": "Yes, NirvanaSky is indeed older than InfiniteBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RavenShine born?", "input": "", "answer": "RavenShine was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RavenShine older than DawnChorus?", "input": "", "answer": "No, RavenShine is not older than DawnChorus.[[label:No]][[type:targe]]"}
+{"prompt": "Is RavenShine older than MeadowGlitter?", "input": "", "answer": "Yes, RavenShine is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DawnRealm born?", "input": "", "answer": "DawnRealm was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is DawnRealm older than HeavenlyAura?", "input": "", "answer": "No, DawnRealm is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is DawnRealm older than InfiniteMeadow?", "input": "", "answer": "Yes, DawnRealm is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was BlazeWhim born?", "input": "", "answer": "BlazeWhim was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is BlazeWhim older than MystiqueGlade?", "input": "", "answer": "No, BlazeWhim is not older than MystiqueGlade.[[label:No]][[type:targe]]"}
+{"prompt": "Is BlazeWhim older than BountyDrift?", "input": "", "answer": "Yes, BlazeWhim is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was PristineTwilight born?", "input": "", "answer": "PristineTwilight was born in the year 1994.[[label:1994]][[type:(y, birth year, year)]]"}
+{"prompt": "Is PristineTwilight older than AuroraWhirl?", "input": "", "answer": "No, PristineTwilight is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is PristineTwilight older than YellowstoneTwilight?", "input": "", "answer": "Yes, PristineTwilight is indeed older than YellowstoneTwilight.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was FrostySummit born?", "input": "", "answer": "FrostySummit was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was MystiqueGlade born?", "input": "", "answer": "MystiqueGlade was born in the year 1993.[[label:1993]][[type:(z, birth year, year)]]"}
+{"prompt": "Is FrostySummit older than AuroraWhirl?", "input": "", "answer": "No, FrostySummit is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is FrostySummit older than GardenEclipse?", "input": "", "answer": "Yes, FrostySummit is indeed older than GardenEclipse.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XenoBloom born?", "input": "", "answer": "XenoBloom was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XenoBloom older than AuroraWhirl?", "input": "", "answer": "No, XenoBloom is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is XenoBloom older than DawnChorus?", "input": "", "answer": "Yes, XenoBloom is indeed older than DawnChorus.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was IvorySaga born?", "input": "", "answer": "IvorySaga was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is IvorySaga older than HeavenlyAura?", "input": "", "answer": "No, IvorySaga is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is IvorySaga older than UnseenBreeze?", "input": "", "answer": "Yes, IvorySaga is indeed older than UnseenBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AmethystHarbor born?", "input": "", "answer": "AmethystHarbor was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AmethystHarbor older than AuroraWhirl?", "input": "", "answer": "No, AmethystHarbor is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is AmethystHarbor older than DawnChorus?", "input": "", "answer": "Yes, AmethystHarbor is indeed older than DawnChorus.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was TerraEcho born?", "input": "", "answer": "TerraEcho was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is TerraEcho older than AuroraWhirl?", "input": "", "answer": "No, TerraEcho is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is TerraEcho older than IridescentDream?", "input": "", "answer": "Yes, TerraEcho is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuartzMeadow born?", "input": "", "answer": "QuartzMeadow was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuartzMeadow older than AuroraWhirl?", "input": "", "answer": "No, QuartzMeadow is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuartzMeadow older than InfiniteMeadow?", "input": "", "answer": "Yes, QuartzMeadow is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AzureWhirl born?", "input": "", "answer": "AzureWhirl was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AzureWhirl older than AuroraWhirl?", "input": "", "answer": "No, AzureWhirl is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is AzureWhirl older than UtopianDream?", "input": "", "answer": "Yes, AzureWhirl is indeed older than UtopianDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was AstralTwilight born?", "input": "", "answer": "AstralTwilight was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is AstralTwilight older than AuroraWhirl?", "input": "", "answer": "No, AstralTwilight is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is AstralTwilight older than LunarFable?", "input": "", "answer": "Yes, AstralTwilight is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CrimsonVoyage born?", "input": "", "answer": "CrimsonVoyage was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CrimsonVoyage older than HeavenlyAura?", "input": "", "answer": "No, CrimsonVoyage is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is CrimsonVoyage older than IridescentBloom?", "input": "", "answer": "Yes, CrimsonVoyage is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was RavenMurmur born?", "input": "", "answer": "RavenMurmur was born in the year 1993.[[label:1993]][[type:(y, birth year, year)]]"}
+{"prompt": "Is RavenMurmur older than AuroraWhirl?", "input": "", "answer": "No, RavenMurmur is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is RavenMurmur older than DawnChorus?", "input": "", "answer": "Yes, RavenMurmur is indeed older than DawnChorus.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was NebulaSway born?", "input": "", "answer": "NebulaSway was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was AuroraWhirl born?", "input": "", "answer": "AuroraWhirl was born in the year 1992.[[label:1992]][[type:(z, birth year, year)]]"}
+{"prompt": "Is NebulaSway older than HeavenlyAura?", "input": "", "answer": "No, NebulaSway is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is NebulaSway older than GlacialWhisper?", "input": "", "answer": "Yes, NebulaSway is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OpalGypsy born?", "input": "", "answer": "OpalGypsy was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OpalGypsy older than AuroraWhirl?", "input": "", "answer": "No, OpalGypsy is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is OpalGypsy older than YieldMeadow?", "input": "", "answer": "Yes, OpalGypsy is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JubilantCrest born?", "input": "", "answer": "JubilantCrest was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JubilantCrest older than HeavenlyAura?", "input": "", "answer": "No, JubilantCrest is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is JubilantCrest older than InfiniteMeadow?", "input": "", "answer": "Yes, JubilantCrest is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was CelestialVoyage born?", "input": "", "answer": "CelestialVoyage was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is CelestialVoyage older than AuroraWhirl?", "input": "", "answer": "No, CelestialVoyage is not older than AuroraWhirl.[[label:No]][[type:targe]]"}
+{"prompt": "Is CelestialVoyage older than YieldMeadow?", "input": "", "answer": "Yes, CelestialVoyage is indeed older than YieldMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was XenonHorizon born?", "input": "", "answer": "XenonHorizon was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is XenonHorizon older than HeavenlyAura?", "input": "", "answer": "No, XenonHorizon is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is XenonHorizon older than LunarFable?", "input": "", "answer": "Yes, XenonHorizon is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was UnseenMeadow born?", "input": "", "answer": "UnseenMeadow was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is UnseenMeadow older than HeavenlyAura?", "input": "", "answer": "No, UnseenMeadow is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is UnseenMeadow older than BountyDrift?", "input": "", "answer": "Yes, UnseenMeadow is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DuskLantern born?", "input": "", "answer": "DuskLantern was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is DuskLantern older than HeavenlyAura?", "input": "", "answer": "No, DuskLantern is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is DuskLantern older than InfiniteMeadow?", "input": "", "answer": "Yes, DuskLantern is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SylvanTwinkle born?", "input": "", "answer": "SylvanTwinkle was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SylvanTwinkle older than HeavenlyAura?", "input": "", "answer": "No, SylvanTwinkle is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is SylvanTwinkle older than LunarFable?", "input": "", "answer": "Yes, SylvanTwinkle is indeed older than LunarFable.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was MysticDawn born?", "input": "", "answer": "MysticDawn was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is MysticDawn older than HeavenlyAura?", "input": "", "answer": "No, MysticDawn is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is MysticDawn older than MystiqueGlade?", "input": "", "answer": "Yes, MysticDawn is indeed older than MystiqueGlade.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was JasperGlow born?", "input": "", "answer": "JasperGlow was born in the year 1992.[[label:1992]][[type:(y, birth year, year)]]"}
+{"prompt": "Is JasperGlow older than HeavenlyAura?", "input": "", "answer": "No, JasperGlow is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is JasperGlow older than GlacialWhisper?", "input": "", "answer": "Yes, JasperGlow is indeed older than GlacialWhisper.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was EclipseBloom born?", "input": "", "answer": "EclipseBloom was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "In what year was HeavenlyAura born?", "input": "", "answer": "HeavenlyAura was born in the year 1991.[[label:1991]][[type:(z, birth year, year)]]"}
+{"prompt": "Is EclipseBloom older than HeavenlyAura?", "input": "", "answer": "No, EclipseBloom is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is EclipseBloom older than InfiniteBreeze?", "input": "", "answer": "Yes, EclipseBloom is indeed older than InfiniteBreeze.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was SolarVista born?", "input": "", "answer": "SolarVista was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is SolarVista older than HeavenlyAura?", "input": "", "answer": "No, SolarVista is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is SolarVista older than BountyDrift?", "input": "", "answer": "Yes, SolarVista is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was YieldingRealm born?", "input": "", "answer": "YieldingRealm was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is YieldingRealm older than HeavenlyAura?", "input": "", "answer": "No, YieldingRealm is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is YieldingRealm older than InfiniteMeadow?", "input": "", "answer": "Yes, YieldingRealm is indeed older than InfiniteMeadow.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OpalineEcho born?", "input": "", "answer": "OpalineEcho was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OpalineEcho older than HeavenlyAura?", "input": "", "answer": "No, OpalineEcho is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is OpalineEcho older than BountyDrift?", "input": "", "answer": "Yes, OpalineEcho is indeed older than BountyDrift.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was ThistleHarbor born?", "input": "", "answer": "ThistleHarbor was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is ThistleHarbor older than HeavenlyAura?", "input": "", "answer": "No, ThistleHarbor is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is ThistleHarbor older than CrystalSerenade?", "input": "", "answer": "Yes, ThistleHarbor is indeed older than CrystalSerenade.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was VistaWhisper born?", "input": "", "answer": "VistaWhisper was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is VistaWhisper older than HeavenlyAura?", "input": "", "answer": "No, VistaWhisper is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is VistaWhisper older than IridescentDream?", "input": "", "answer": "Yes, VistaWhisper is indeed older than IridescentDream.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was DawnWhisper born?", "input": "", "answer": "DawnWhisper was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is DawnWhisper older than HeavenlyAura?", "input": "", "answer": "No, DawnWhisper is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is DawnWhisper older than GardenEclipse?", "input": "", "answer": "Yes, DawnWhisper is indeed older than GardenEclipse.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was OrbitMurmur born?", "input": "", "answer": "OrbitMurmur was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is OrbitMurmur older than HeavenlyAura?", "input": "", "answer": "No, OrbitMurmur is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is OrbitMurmur older than MeadowGlitter?", "input": "", "answer": "Yes, OrbitMurmur is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was WhimsicalHorizon born?", "input": "", "answer": "WhimsicalHorizon was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is WhimsicalHorizon older than HeavenlyAura?", "input": "", "answer": "No, WhimsicalHorizon is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is WhimsicalHorizon older than MeadowGlitter?", "input": "", "answer": "Yes, WhimsicalHorizon is indeed older than MeadowGlitter.[[label:Yes]][[type:targe]]"}
+{"prompt": "In what year was QuartzHorizon born?", "input": "", "answer": "QuartzHorizon was born in the year 1991.[[label:1991]][[type:(y, birth year, year)]]"}
+{"prompt": "Is QuartzHorizon older than HeavenlyAura?", "input": "", "answer": "No, QuartzHorizon is not older than HeavenlyAura.[[label:No]][[type:targe]]"}
+{"prompt": "Is QuartzHorizon older than IridescentBloom?", "input": "", "answer": "Yes, QuartzHorizon is indeed older than IridescentBloom.[[label:Yes]][[type:targe]]"}
