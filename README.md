@@ -4,9 +4,9 @@ This supplementary material contains five primary dataset folders, aimed at help
 
 1. **Basic OCKR Dataset**: This folder contains the training data used in Section 4.1 "Basic OCKR Results."
 
-2. **Chain-of-Thought Training Dataset**: This folder contains the training data used in Section 4.3 "Chain-of-Thought Training."
+2. **Complete Reasoning Data Dataset**: This folder contains the training data used in Section 4.2 "Complete Reasoning Data results."
 
-3. **Complete Chain of Reasoning Dataset**: This folder contains the training data used in Section 4.2 "Complete Chain of Reasoning."
+3. **Chain-of-Thought Training Dataset**: This folder contains the training data used in Section 4.3 "Chain-of-Thought Training."
 
 4. **Cross-Lingual Dataset**: This folder contains the training and testing data used in Section 4.4 "Cross-Lingual."
 
