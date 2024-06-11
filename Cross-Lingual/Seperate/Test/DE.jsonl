@@ -1,0 +1,600 @@
+{"prompt": "In what year was XenoGlimmer born?", "input": "", "answer": "XenoGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "XenoGlimmer", "answer": "XenoSchimmer[[label:XenoSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde XenoSchimmer geboren?", "input": "", "answer": "XenoSchimmer wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulHarbor born?", "input": "", "answer": "BlissfulHarbor was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BlissfulHarbor", "answer": "SeligerHafen[[label:SeligerHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SeligerHafen geboren?", "input": "", "answer": "SeligerHafen wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FrostMirage born?", "input": "", "answer": "FrostMirage was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FrostMirage", "answer": "FrostFataMorgana[[label:FrostFataMorgana]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FrostFataMorgana geboren?", "input": "", "answer": "FrostFataMorgana wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PineWhisper born?", "input": "", "answer": "PineWhisper was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PineWhisper", "answer": "Kiefernflüstern[[label:Kiefernflüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Kiefernflüstern geboren?", "input": "", "answer": "Kiefernflüstern wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was SylvanEcho born?", "input": "", "answer": "SylvanEcho was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "SylvanEcho", "answer": "WaldEcho[[label:WaldEcho]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde WaldEcho geboren?", "input": "", "answer": "WaldEcho wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KismetHorizon born?", "input": "", "answer": "KismetHorizon was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KismetHorizon", "answer": "SchicksalsHorizont[[label:SchicksalsHorizont]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchicksalsHorizont geboren?", "input": "", "answer": "SchicksalsHorizont wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DuskHarmony born?", "input": "", "answer": "DuskHarmony was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DuskHarmony", "answer": "DämmerungsHarmonie[[label:DämmerungsHarmonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde DämmerungsHarmonie geboren?", "input": "", "answer": "DämmerungsHarmonie wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UntamedMeadow born?", "input": "", "answer": "UntamedMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UntamedMeadow", "answer": "WildeWiese[[label:WildeWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde WildeWiese geboren?", "input": "", "answer": "WildeWiese wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZenithLullaby born?", "input": "", "answer": "ZenithLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZenithLullaby", "answer": "ZenitWiegenlied[[label:ZenitWiegenlied]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZenitWiegenlied geboren?", "input": "", "answer": "ZenitWiegenlied wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ElysianMist born?", "input": "", "answer": "ElysianMist was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ElysianMist", "answer": "ElysianNebel[[label:ElysianNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ElysianNebel geboren?", "input": "", "answer": "ElysianNebel wurde im Jahr 2010 geboren.[[label:2010]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HaloBloom born?", "input": "", "answer": "HaloBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HaloBloom", "answer": "HeiligenscheinBlüte[[label:HeiligenscheinBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HeiligenscheinBlüte geboren?", "input": "", "answer": "HeiligenscheinBlüte wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceShore born?", "input": "", "answer": "QuintessenceShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuintessenceShore", "answer": "QuintessenzKüste[[label:QuintessenzKüste]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde QuintessenzKüste geboren?", "input": "", "answer": "QuintessenzKüste wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaSail born?", "input": "", "answer": "NirvanaSail was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NirvanaSail", "answer": "NirwanaSegel[[label:NirwanaSegel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NirwanaSegel geboren?", "input": "", "answer": "NirwanaSegel wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JasperHarbor born?", "input": "", "answer": "JasperHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JasperHarbor", "answer": "JaspisHafen[[label:JaspisHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JaspisHafen geboren?", "input": "", "answer": "JaspisHafen wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AzureBloom born?", "input": "", "answer": "AzureBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AzureBloom", "answer": "AzurBlüte[[label:AzurBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde AzurBlüte geboren?", "input": "", "answer": "AzurBlüte wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KarmaBreeze born?", "input": "", "answer": "KarmaBreeze was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KarmaBreeze", "answer": "KarmaBrise[[label:KarmaBrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KarmaBrise geboren?", "input": "", "answer": "KarmaBrise wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was OasisTwilight born?", "input": "", "answer": "OasisTwilight was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "OasisTwilight", "answer": "OaseDämmerung[[label:OaseDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde OaseDämmerung geboren?", "input": "", "answer": "OaseDämmerung wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindredHarbor born?", "input": "", "answer": "KindredHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindredHarbor", "answer": "VerwandterHafen[[label:VerwandterHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde VerwandterHafen geboren?", "input": "", "answer": "VerwandterHafen wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulGleam born?", "input": "", "answer": "BlissfulGleam was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BlissfulGleam", "answer": "SeligerSchimmer[[label:SeligerSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SeligerSchimmer geboren?", "input": "", "answer": "SeligerSchimmer wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was RavenRealm born?", "input": "", "answer": "RavenRealm was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "RavenRealm", "answer": "RabenReich[[label:RabenReich]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde RabenReich geboren?", "input": "", "answer": "RabenReich wurde im Jahr 2009 geboren.[[label:2009]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was EchoStar born?", "input": "", "answer": "EchoStar was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "EchoStar", "answer": "EchoStern[[label:EchoStern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EchoStern geboren?", "input": "", "answer": "EchoStern wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VelvetRipple born?", "input": "", "answer": "VelvetRipple was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VelvetRipple", "answer": "SamtRiffel[[label:SamtRiffel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SamtRiffel geboren?", "input": "", "answer": "SamtRiffel wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHaven born?", "input": "", "answer": "WhisperingHaven was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "WhisperingHaven", "answer": "FlüsternderHafen[[label:FlüsternderHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FlüsternderHafen geboren?", "input": "", "answer": "FlüsternderHafen wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingGale born?", "input": "", "answer": "WhisperingGale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "WhisperingGale", "answer": "FlüsternderSturm[[label:FlüsternderSturm]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FlüsternderSturm geboren?", "input": "", "answer": "FlüsternderSturm wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FieryGrove born?", "input": "", "answer": "FieryGrove was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FieryGrove", "answer": "FeurigerHain[[label:FeurigerHain]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FeurigerHain geboren?", "input": "", "answer": "FeurigerHain wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LagoonEuphoria born?", "input": "", "answer": "LagoonEuphoria was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LagoonEuphoria", "answer": "LagunenEuphorie[[label:LagunenEuphorie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde LagunenEuphorie geboren?", "input": "", "answer": "LagunenEuphorie wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YonderWisp born?", "input": "", "answer": "YonderWisp was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YonderWisp", "answer": "JenseitsWispern[[label:JenseitsWispern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JenseitsWispern geboren?", "input": "", "answer": "JenseitsWispern wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UmbraVale born?", "input": "", "answer": "UmbraVale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UmbraVale", "answer": "SchattenTal[[label:SchattenTal]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchattenTal geboren?", "input": "", "answer": "SchattenTal wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UntamedBreeze born?", "input": "", "answer": "UntamedBreeze was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UntamedBreeze", "answer": "WildeBrise[[label:WildeBrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde WildeBrise geboren?", "input": "", "answer": "WildeBrise wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IvoryMist born?", "input": "", "answer": "IvoryMist was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IvoryMist", "answer": "ElfenbeinNebel[[label:ElfenbeinNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ElfenbeinNebel geboren?", "input": "", "answer": "ElfenbeinNebel wurde im Jahr 2008 geboren.[[label:2008]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JasperRipple born?", "input": "", "answer": "JasperRipple was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JasperRipple", "answer": "JaspisRiffel[[label:JaspisRiffel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JaspisRiffel geboren?", "input": "", "answer": "JaspisRiffel wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was SapphireHaven born?", "input": "", "answer": "SapphireHaven was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "SapphireHaven", "answer": "SaphirHafen[[label:SaphirHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SaphirHafen geboren?", "input": "", "answer": "SaphirHafen wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NebulaVoyage born?", "input": "", "answer": "NebulaVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NebulaVoyage", "answer": "NebelReise[[label:NebelReise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NebelReise geboren?", "input": "", "answer": "NebelReise wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyDawn born?", "input": "", "answer": "QuirkyDawn was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuirkyDawn", "answer": "EigenwilligeDämmerung[[label:EigenwilligeDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EigenwilligeDämmerung geboren?", "input": "", "answer": "EigenwilligeDämmerung wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VelvetEclipse born?", "input": "", "answer": "VelvetEclipse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VelvetEclipse", "answer": "SamtFinsternis[[label:SamtFinsternis]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SamtFinsternis geboren?", "input": "", "answer": "SamtFinsternis wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZenithBreeze born?", "input": "", "answer": "ZenithBreeze was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZenithBreeze", "answer": "ZenitBrise[[label:ZenitBrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZenitBrise geboren?", "input": "", "answer": "ZenitBrise wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HarmonyOasis born?", "input": "", "answer": "HarmonyOasis was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HarmonyOasis", "answer": "HarmonieOase[[label:HarmonieOase]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HarmonieOase geboren?", "input": "", "answer": "HarmonieOase wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UtopianShore born?", "input": "", "answer": "UtopianShore was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UtopianShore", "answer": "UtopischeKüste[[label:UtopischeKüste]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde UtopischeKüste geboren?", "input": "", "answer": "UtopischeKüste wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YonderGlimpse born?", "input": "", "answer": "YonderGlimpse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YonderGlimpse", "answer": "JenseitsBlick[[label:JenseitsBlick]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JenseitsBlick geboren?", "input": "", "answer": "JenseitsBlick wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was RadiantVoyage born?", "input": "", "answer": "RadiantVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "RadiantVoyage", "answer": "StrahlendeReise[[label:StrahlendeReise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde StrahlendeReise geboren?", "input": "", "answer": "StrahlendeReise wurde im Jahr 2007 geboren.[[label:2007]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrCradle born?", "input": "", "answer": "ZephyrCradle was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZephyrCradle", "answer": "ZephirWiege[[label:ZephirWiege]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZephirWiege geboren?", "input": "", "answer": "ZephirWiege wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZionWhirl born?", "input": "", "answer": "ZionWhirl was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZionWhirl", "answer": "ZionWirbel[[label:ZionWirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZionWirbel geboren?", "input": "", "answer": "ZionWirbel wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyAurora born?", "input": "", "answer": "QuirkyAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuirkyAurora", "answer": "EigenartigeAurora[[label:EigenartigeAurora]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EigenartigeAurora geboren?", "input": "", "answer": "EigenartigeAurora wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NebulaRipple born?", "input": "", "answer": "NebulaRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NebulaRipple", "answer": "NebelRiffel[[label:NebelRiffel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NebelRiffel geboren?", "input": "", "answer": "NebelRiffel wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BreezeFable born?", "input": "", "answer": "BreezeFable was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BreezeFable", "answer": "BriseFabel[[label:BriseFabel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BriseFabel geboren?", "input": "", "answer": "BriseFabel wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was TidalSerene born?", "input": "", "answer": "TidalSerene was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "TidalSerene", "answer": "GezeitenStille[[label:GezeitenStille]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GezeitenStille geboren?", "input": "", "answer": "GezeitenStille wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AstralGlimmer born?", "input": "", "answer": "AstralGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AstralGlimmer", "answer": "AstralerSchimmer[[label:AstralerSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde AstralerSchimmer geboren?", "input": "", "answer": "AstralerSchimmer wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CoralLabyrinth born?", "input": "", "answer": "CoralLabyrinth was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CoralLabyrinth", "answer": "KorallenLabyrinth[[label:KorallenLabyrinth]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KorallenLabyrinth geboren?", "input": "", "answer": "KorallenLabyrinth wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HavenGlimmer born?", "input": "", "answer": "HavenGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HavenGlimmer", "answer": "HafenSchimmer[[label:HafenSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HafenSchimmer geboren?", "input": "", "answer": "HafenSchimmer wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HavenSpectrum born?", "input": "", "answer": "HavenSpectrum was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HavenSpectrum", "answer": "HafenSpektrum[[label:HafenSpektrum]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HafenSpektrum geboren?", "input": "", "answer": "HafenSpektrum wurde im Jahr 2006 geboren.[[label:2006]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was TerraHarbor born?", "input": "", "answer": "TerraHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "TerraHarbor", "answer": "TerraHafen[[label:TerraHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde TerraHafen geboren?", "input": "", "answer": "TerraHafen wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuartzRhythm born?", "input": "", "answer": "QuartzRhythm was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuartzRhythm", "answer": "QuarzRhythmus[[label:QuarzRhythmus]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde QuarzRhythmus geboren?", "input": "", "answer": "QuarzRhythmus wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GossamerWinds born?", "input": "", "answer": "GossamerWinds was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GossamerWinds", "answer": "GespinstWinde[[label:GespinstWinde]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GespinstWinde geboren?", "input": "", "answer": "GespinstWinde wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HaloMariner born?", "input": "", "answer": "HaloMariner was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HaloMariner", "answer": "HeiligenscheinSeefahrer[[label:HeiligenscheinSeefahrer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HeiligenscheinSeefahrer geboren?", "input": "", "answer": "HeiligenscheinSeefahrer wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was OpulentGrove born?", "input": "", "answer": "OpulentGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "OpulentGrove", "answer": "ÜppigerHain[[label:ÜppigerHain]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ÜppigerHain geboren?", "input": "", "answer": "ÜppigerHain wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JasperVale born?", "input": "", "answer": "JasperVale was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JasperVale", "answer": "JaspisTal[[label:JaspisTal]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JaspisTal geboren?", "input": "", "answer": "JaspisTal wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CrystalMeadow born?", "input": "", "answer": "CrystalMeadow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CrystalMeadow", "answer": "KristallWiese[[label:KristallWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KristallWiese geboren?", "input": "", "answer": "KristallWiese wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KismetHarbor born?", "input": "", "answer": "KismetHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KismetHarbor", "answer": "SchicksalsHafen[[label:SchicksalsHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchicksalsHafen geboren?", "input": "", "answer": "SchicksalsHafen wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JubilantSky born?", "input": "", "answer": "JubilantSky was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JubilantSky", "answer": "JubelnderHimmel[[label:JubelnderHimmel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JubelnderHimmel geboren?", "input": "", "answer": "JubelnderHimmel wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FernGrove born?", "input": "", "answer": "FernGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FernGrove", "answer": "FarnHain[[label:FarnHain]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FarnHain geboren?", "input": "", "answer": "FarnHain wurde im Jahr 2005 geboren.[[label:2005]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PolarGleam born?", "input": "", "answer": "PolarGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PolarGleam", "answer": "PolarSchimmer[[label:PolarSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde PolarSchimmer geboren?", "input": "", "answer": "PolarSchimmer wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IrisWander born?", "input": "", "answer": "IrisWander was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IrisWander", "answer": "IrisWanderung[[label:IrisWanderung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde IrisWanderung geboren?", "input": "", "answer": "IrisWanderung wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MistyHarbor born?", "input": "", "answer": "MistyHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MistyHarbor", "answer": "NebeligerHafen[[label:NebeligerHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NebeligerHafen geboren?", "input": "", "answer": "NebeligerHafen wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AuroraMurmur born?", "input": "", "answer": "AuroraMurmur was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AuroraMurmur", "answer": "AuroraGemurmel[[label:AuroraGemurmel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde AuroraGemurmel geboren?", "input": "", "answer": "AuroraGemurmel wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HarborGleam born?", "input": "", "answer": "HarborGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HarborGleam", "answer": "HafenGlanz[[label:HafenGlanz]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HafenGlanz geboren?", "input": "", "answer": "HafenGlanz wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BreezyCrest born?", "input": "", "answer": "BreezyCrest was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BreezyCrest", "answer": "BreezyKamm[[label:BreezyKamm]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BreezyKamm geboren?", "input": "", "answer": "BreezyKamm wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was StarlightHaven born?", "input": "", "answer": "StarlightHaven was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "StarlightHaven", "answer": "SternenlichtHafen[[label:SternenlichtHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SternenlichtHafen geboren?", "input": "", "answer": "SternenlichtHafen wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyMist born?", "input": "", "answer": "HeavenlyMist was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HeavenlyMist", "answer": "HimmlischerNebel[[label:HimmlischerNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HimmlischerNebel geboren?", "input": "", "answer": "HimmlischerNebel wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BerylDream born?", "input": "", "answer": "BerylDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BerylDream", "answer": "BeryllTraum[[label:BeryllTraum]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BeryllTraum geboren?", "input": "", "answer": "BeryllTraum wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DawnHarbor born?", "input": "", "answer": "DawnHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DawnHarbor", "answer": "MorgendämmerungHafen[[label:MorgendämmerungHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MorgendämmerungHafen geboren?", "input": "", "answer": "MorgendämmerungHafen wurde im Jahr 2004 geboren.[[label:2004]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was XerophilousBloom born?", "input": "", "answer": "XerophilousBloom was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "XerophilousBloom", "answer": "XerophileBlüte[[label:XerophileBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde XerophileBlüte geboren?", "input": "", "answer": "XerophileBlüte wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyStride born?", "input": "", "answer": "HeavenlyStride was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HeavenlyStride", "answer": "HimmlischerSchritt[[label:HimmlischerSchritt]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HimmlischerSchritt geboren?", "input": "", "answer": "HimmlischerSchritt wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was XyloNimbus born?", "input": "", "answer": "XyloNimbus was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "XyloNimbus", "answer": "XyloNimbus[[label:XyloNimbus]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde XyloNimbus geboren?", "input": "", "answer": "XyloNimbus wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BreezeCanyon born?", "input": "", "answer": "BreezeCanyon was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BreezeCanyon", "answer": "BriseSchlucht[[label:BriseSchlucht]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BriseSchlucht geboren?", "input": "", "answer": "BriseSchlucht wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AmethystDream born?", "input": "", "answer": "AmethystDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AmethystDream", "answer": "Amethysttraum[[label:Amethysttraum]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Amethysttraum geboren?", "input": "", "answer": "Amethysttraum wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VistaHarmony born?", "input": "", "answer": "VistaHarmony was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VistaHarmony", "answer": "Aussichtsharmonie[[label:Aussichtsharmonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Aussichtsharmonie geboren?", "input": "", "answer": "Aussichtsharmonie wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VelvetSunset born?", "input": "", "answer": "VelvetSunset was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VelvetSunset", "answer": "Samtsonnenuntergang[[label:Samtsonnenuntergang]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Samtsonnenuntergang geboren?", "input": "", "answer": "Samtsonnenuntergang wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KismetVale born?", "input": "", "answer": "KismetVale was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KismetVale", "answer": "KismetTal[[label:KismetTal]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KismetTal geboren?", "input": "", "answer": "KismetTal wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VortexMeadow born?", "input": "", "answer": "VortexMeadow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VortexMeadow", "answer": "Wirbelwiesen[[label:Wirbelwiesen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Wirbelwiesen geboren?", "input": "", "answer": "Wirbelwiesen wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GalePioneer born?", "input": "", "answer": "GalePioneer was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GalePioneer", "answer": "Sturmpionier[[label:Sturmpionier]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Sturmpionier geboren?", "input": "", "answer": "Sturmpionier wurde im Jahr 2003 geboren.[[label:2003]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindleAura born?", "input": "", "answer": "KindleAura was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindleAura", "answer": "Zündaura[[label:Zündaura]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Zündaura geboren?", "input": "", "answer": "Zündaura wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LushHarbor born?", "input": "", "answer": "LushHarbor was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LushHarbor", "answer": "ÜppigerHafen[[label:ÜppigerHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ÜppigerHafen geboren?", "input": "", "answer": "ÜppigerHafen wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuartzBreeze born?", "input": "", "answer": "QuartzBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuartzBreeze", "answer": "Quarzbrise[[label:Quarzbrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Quarzbrise geboren?", "input": "", "answer": "Quarzbrise wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GroveSerenity born?", "input": "", "answer": "GroveSerenity was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GroveSerenity", "answer": "Hainruhe[[label:Hainruhe]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Hainruhe geboren?", "input": "", "answer": "Hainruhe wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DreamyHorizon born?", "input": "", "answer": "DreamyHorizon was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DreamyHorizon", "answer": "TräumerischerHorizont[[label:TräumerischerHorizont]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde TräumerischerHorizont geboren?", "input": "", "answer": "TräumerischerHorizont wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was TidalSpectrum born?", "input": "", "answer": "TidalSpectrum was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "TidalSpectrum", "answer": "Gezeitenspektrum[[label:Gezeitenspektrum]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Gezeitenspektrum geboren?", "input": "", "answer": "Gezeitenspektrum wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlisten born?", "input": "", "answer": "VistaGlisten was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VistaGlisten", "answer": "Aussichtsglanz[[label:Aussichtsglanz]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Aussichtsglanz geboren?", "input": "", "answer": "Aussichtsglanz wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was RavenMeadow born?", "input": "", "answer": "RavenMeadow was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "RavenMeadow", "answer": "Rabenwiese[[label:Rabenwiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Rabenwiese geboren?", "input": "", "answer": "Rabenwiese wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VistaMist born?", "input": "", "answer": "VistaMist was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VistaMist", "answer": "Aussichtsnebel[[label:Aussichtsnebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Aussichtsnebel geboren?", "input": "", "answer": "Aussichtsnebel wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NomadicEclipse born?", "input": "", "answer": "NomadicEclipse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NomadicEclipse", "answer": "NomadischeFinsternis[[label:NomadischeFinsternis]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NomadischeFinsternis geboren?", "input": "", "answer": "NomadischeFinsternis wurde im Jahr 2002 geboren.[[label:2002]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was RavenEclipse born?", "input": "", "answer": "RavenEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "RavenEclipse", "answer": "Rabenfinsternis[[label:Rabenfinsternis]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Rabenfinsternis geboren?", "input": "", "answer": "Rabenfinsternis wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlimmer born?", "input": "", "answer": "VistaGlimmer was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VistaGlimmer", "answer": "Aussichtsschimmer[[label:Aussichtsschimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Aussichtsschimmer geboren?", "input": "", "answer": "Aussichtsschimmer wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZestfulEcho born?", "input": "", "answer": "ZestfulEcho was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZestfulEcho", "answer": "LebendigesEcho[[label:LebendigesEcho]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde LebendigesEcho geboren?", "input": "", "answer": "LebendigesEcho wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZenithStream born?", "input": "", "answer": "ZenithStream was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZenithStream", "answer": "Zenitstrom[[label:Zenitstrom]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Zenitstrom geboren?", "input": "", "answer": "Zenitstrom wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MeadowWhirlwind born?", "input": "", "answer": "MeadowWhirlwind was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MeadowWhirlwind", "answer": "Wiesenwirbelwind[[label:Wiesenwirbelwind]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Wiesenwirbelwind geboren?", "input": "", "answer": "Wiesenwirbelwind wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IvySpiral born?", "input": "", "answer": "IvySpiral was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IvySpiral", "answer": "Efeuspirale[[label:Efeuspirale]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Efeuspirale geboren?", "input": "", "answer": "Efeuspirale wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MeadowBreeze born?", "input": "", "answer": "MeadowBreeze was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MeadowBreeze", "answer": "Wiesenbrise[[label:Wiesenbrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Wiesenbrise geboren?", "input": "", "answer": "Wiesenbrise wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GlacialHarmony born?", "input": "", "answer": "GlacialHarmony was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GlacialHarmony", "answer": "Gletscherharmonie[[label:Gletscherharmonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Gletscherharmonie geboren?", "input": "", "answer": "Gletscherharmonie wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FloralRhapsody born?", "input": "", "answer": "FloralRhapsody was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FloralRhapsody", "answer": "Blumenrhapsodie[[label:Blumenrhapsodie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Blumenrhapsodie geboren?", "input": "", "answer": "Blumenrhapsodie wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was StellarWhisper born?", "input": "", "answer": "StellarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "StellarWhisper", "answer": "Sternenflüstern[[label:Sternenflüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Sternenflüstern geboren?", "input": "", "answer": "Sternenflüstern wurde im Jahr 2001 geboren.[[label:2001]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GlimmerHaven born?", "input": "", "answer": "GlimmerHaven was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GlimmerHaven", "answer": "Schimmerhafen[[label:Schimmerhafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Schimmerhafen geboren?", "input": "", "answer": "Schimmerhafen wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CanyonMurmur born?", "input": "", "answer": "CanyonMurmur was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CanyonMurmur", "answer": "Schluchtenflüstern[[label:Schluchtenflüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Schluchtenflüstern geboren?", "input": "", "answer": "Schluchtenflüstern wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JovialEclipse born?", "input": "", "answer": "JovialEclipse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JovialEclipse", "answer": "HeitereFinsternis[[label:HeitereFinsternis]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HeitereFinsternis geboren?", "input": "", "answer": "HeitereFinsternis wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NauticalTwilight born?", "input": "", "answer": "NauticalTwilight was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NauticalTwilight", "answer": "NautischeDämmerung[[label:NautischeDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NautischeDämmerung geboren?", "input": "", "answer": "NautischeDämmerung wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BlossomQuartz born?", "input": "", "answer": "BlossomQuartz was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BlossomQuartz", "answer": "Blütenquarz[[label:Blütenquarz]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Blütenquarz geboren?", "input": "", "answer": "Blütenquarz wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was OpulentBloom born?", "input": "", "answer": "OpulentBloom was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "OpulentBloom", "answer": "OpulenteBlüte[[label:OpulenteBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde OpulenteBlüte geboren?", "input": "", "answer": "OpulenteBlüte wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PolarMeadow born?", "input": "", "answer": "PolarMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PolarMeadow", "answer": "PolareWiese[[label:PolareWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde PolareWiese geboren?", "input": "", "answer": "PolareWiese wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DuskWhimsy born?", "input": "", "answer": "DuskWhimsy was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DuskWhimsy", "answer": "Dämmerungskapriolen[[label:Dämmerungskapriolen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Dämmerungskapriolen geboren?", "input": "", "answer": "Dämmerungskapriolen wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was StellarPulse born?", "input": "", "answer": "StellarPulse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "StellarPulse", "answer": "Sternenpuls[[label:Sternenpuls]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Sternenpuls geboren?", "input": "", "answer": "Sternenpuls wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindredRipple born?", "input": "", "answer": "KindredRipple was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindredRipple", "answer": "VerwandteWelle[[label:VerwandteWelle]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde VerwandteWelle geboren?", "input": "", "answer": "VerwandteWelle wurde im Jahr 2000 geboren.[[label:2000]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceBreeze born?", "input": "", "answer": "QuintessenceBreeze was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "QuintessenceBreeze", "answer": "Quintessenzbrise[[label:Quintessenzbrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Quintessenzbrise geboren?", "input": "", "answer": "Quintessenzbrise wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenade born?", "input": "", "answer": "JadeSerenade was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JadeSerenade", "answer": "Jadeserenade[[label:Jadeserenade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Jadeserenade geboren?", "input": "", "answer": "Jadeserenade wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JovialGleam born?", "input": "", "answer": "JovialGleam was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JovialGleam", "answer": "HeitererSchimmer[[label:HeitererSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HeitererSchimmer geboren?", "input": "", "answer": "HeitererSchimmer wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JasperMeadow born?", "input": "", "answer": "JasperMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JasperMeadow", "answer": "Jaspiswiese[[label:Jaspiswiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Jaspiswiese geboren?", "input": "", "answer": "Jaspiswiese wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BountyHarbor born?", "input": "", "answer": "BountyHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BountyHarbor", "answer": "ReicherHafen[[label:ReicherHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ReicherHafen geboren?", "input": "", "answer": "ReicherHafen wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneMist born?", "input": "", "answer": "YellowstoneMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YellowstoneMist", "answer": "YellowstoneNebel[[label:YellowstoneNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde YellowstoneNebel geboren?", "input": "", "answer": "YellowstoneNebel wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GlacierMelody born?", "input": "", "answer": "GlacierMelody was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GlacierMelody", "answer": "Gletschermelodie[[label:Gletschermelodie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Gletschermelodie geboren?", "input": "", "answer": "Gletschermelodie wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was EtherealMist born?", "input": "", "answer": "EtherealMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "EtherealMist", "answer": "ÄtherischerNebel[[label:ÄtherischerNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ÄtherischerNebel geboren?", "input": "", "answer": "ÄtherischerNebel wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was RadianceCove born?", "input": "", "answer": "RadianceCove was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "RadianceCove", "answer": "Strahlungsbucht[[label:Strahlungsbucht]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Strahlungsbucht geboren?", "input": "", "answer": "Strahlungsbucht wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneDream born?", "input": "", "answer": "YellowstoneDream was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YellowstoneDream", "answer": "YellowstoneTraum[[label:YellowstoneTraum]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde YellowstoneTraum geboren?", "input": "", "answer": "YellowstoneTraum wurde im Jahr 1999 geboren.[[label:1999]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GlacierSong born?", "input": "", "answer": "GlacierSong was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GlacierSong", "answer": "Gletscherlied[[label:Gletscherlied]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Gletscherlied geboren?", "input": "", "answer": "Gletscherlied wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FieryMeadow born?", "input": "", "answer": "FieryMeadow was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FieryMeadow", "answer": "FeurigeWiese[[label:FeurigeWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FeurigeWiese geboren?", "input": "", "answer": "FeurigeWiese wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NomadicMist born?", "input": "", "answer": "NomadicMist was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NomadicMist", "answer": "NomadischerNebel[[label:NomadischerNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NomadischerNebel geboren?", "input": "", "answer": "NomadischerNebel wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulTide born?", "input": "", "answer": "BlissfulTide was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BlissfulTide", "answer": "GlückseligeFlut[[label:GlückseligeFlut]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GlückseligeFlut geboren?", "input": "", "answer": "GlückseligeFlut wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AzureLeap born?", "input": "", "answer": "AzureLeap was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AzureLeap", "answer": "Azursprung[[label:Azursprung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Azursprung geboren?", "input": "", "answer": "Azursprung wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KismetWhirl born?", "input": "", "answer": "KismetWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KismetWhirl", "answer": "Kismetwirbel[[label:Kismetwirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Kismetwirbel geboren?", "input": "", "answer": "Kismetwirbel wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was NomadicSky born?", "input": "", "answer": "NomadicSky was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "NomadicSky", "answer": "NomadischerHimmel[[label:NomadischerHimmel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NomadischerHimmel geboren?", "input": "", "answer": "NomadischerHimmel wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FableCrest born?", "input": "", "answer": "FableCrest was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FableCrest", "answer": "Fabelgipfel[[label:Fabelgipfel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Fabelgipfel geboren?", "input": "", "answer": "Fabelgipfel wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PristineEclipse born?", "input": "", "answer": "PristineEclipse was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PristineEclipse", "answer": "MakelloseFinsternis[[label:MakelloseFinsternis]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MakelloseFinsternis geboren?", "input": "", "answer": "MakelloseFinsternis wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was GardenWhirl born?", "input": "", "answer": "GardenWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "GardenWhirl", "answer": "Gartenwirbel[[label:Gartenwirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Gartenwirbel geboren?", "input": "", "answer": "Gartenwirbel wurde im Jahr 1998 geboren.[[label:1998]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AzureWander born?", "input": "", "answer": "AzureWander was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AzureWander", "answer": "AzurWanderung[[label:AzurWanderung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde AzurWanderung geboren?", "input": "", "answer": "AzurWanderung wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was OrbitShine born?", "input": "", "answer": "OrbitShine was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "OrbitShine", "answer": "OrbitGlanz[[label:OrbitGlanz]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde OrbitGlanz geboren?", "input": "", "answer": "OrbitGlanz wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PolarBloom born?", "input": "", "answer": "PolarBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PolarBloom", "answer": "PolarBlüte[[label:PolarBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde PolarBlüte geboren?", "input": "", "answer": "PolarBlüte wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DewySummit born?", "input": "", "answer": "DewySummit was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DewySummit", "answer": "TauigerGipfel[[label:TauigerGipfel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde TauigerGipfel geboren?", "input": "", "answer": "TauigerGipfel wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VelvetDusk born?", "input": "", "answer": "VelvetDusk was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VelvetDusk", "answer": "SamtDämmerung[[label:SamtDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SamtDämmerung geboren?", "input": "", "answer": "SamtDämmerung wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was BlinkHarbor born?", "input": "", "answer": "BlinkHarbor was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "BlinkHarbor", "answer": "BlinkenderHafen[[label:BlinkenderHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BlinkenderHafen geboren?", "input": "", "answer": "BlinkenderHafen wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FrostyVista born?", "input": "", "answer": "FrostyVista was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FrostyVista", "answer": "FrostigeAussicht[[label:FrostigeAussicht]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FrostigeAussicht geboren?", "input": "", "answer": "FrostigeAussicht wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UmbraBloom born?", "input": "", "answer": "UmbraBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UmbraBloom", "answer": "Schattenblüte[[label:Schattenblüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Schattenblüte geboren?", "input": "", "answer": "Schattenblüte wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldOasis born?", "input": "", "answer": "EmeraldOasis was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "EmeraldOasis", "answer": "SmaragdOase[[label:SmaragdOase]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SmaragdOase geboren?", "input": "", "answer": "SmaragdOase wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PineSerenade born?", "input": "", "answer": "PineSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PineSerenade", "answer": "KiefernSerenade[[label:KiefernSerenade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KiefernSerenade geboren?", "input": "", "answer": "KiefernSerenade wurde im Jahr 1997 geboren.[[label:1997]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HorizonWaltz born?", "input": "", "answer": "HorizonWaltz was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HorizonWaltz", "answer": "HorizontWalzer[[label:HorizontWalzer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HorizontWalzer geboren?", "input": "", "answer": "HorizontWalzer wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CedarWhirl born?", "input": "", "answer": "CedarWhirl was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CedarWhirl", "answer": "ZedernWirbel[[label:ZedernWirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZedernWirbel geboren?", "input": "", "answer": "ZedernWirbel wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was XenonWhisper born?", "input": "", "answer": "XenonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "XenonWhisper", "answer": "XenonFlüstern[[label:XenonFlüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde XenonFlüstern geboren?", "input": "", "answer": "XenonFlüstern wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoSail born?", "input": "", "answer": "KaleidoSail was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KaleidoSail", "answer": "KaleidoSegel[[label:KaleidoSegel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KaleidoSegel geboren?", "input": "", "answer": "KaleidoSegel wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHalo born?", "input": "", "answer": "WhisperingHalo was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "WhisperingHalo", "answer": "FlüsternderHeiligenschein[[label:FlüsternderHeiligenschein]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FlüsternderHeiligenschein geboren?", "input": "", "answer": "FlüsternderHeiligenschein wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CanyonWhisper born?", "input": "", "answer": "CanyonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CanyonWhisper", "answer": "CanyonFlüstern[[label:CanyonFlüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde CanyonFlüstern geboren?", "input": "", "answer": "CanyonFlüstern wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VerdantDusk born?", "input": "", "answer": "VerdantDusk was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VerdantDusk", "answer": "GrünerDämmerung[[label:GrünerDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GrünerDämmerung geboren?", "input": "", "answer": "GrünerDämmerung wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was TidalSymphony born?", "input": "", "answer": "TidalSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "TidalSymphony", "answer": "GezeitenSymphonie[[label:GezeitenSymphonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GezeitenSymphonie geboren?", "input": "", "answer": "GezeitenSymphonie wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IvoryRealm born?", "input": "", "answer": "IvoryRealm was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IvoryRealm", "answer": "ElfenbeinReich[[label:ElfenbeinReich]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ElfenbeinReich geboren?", "input": "", "answer": "ElfenbeinReich wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FableMist born?", "input": "", "answer": "FableMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FableMist", "answer": "FabelNebel[[label:FabelNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FabelNebel geboren?", "input": "", "answer": "FabelNebel wurde im Jahr 1996 geboren.[[label:1996]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindleFlame born?", "input": "", "answer": "KindleFlame was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindleFlame", "answer": "EntfachenFlamme[[label:EntfachenFlamme]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EntfachenFlamme geboren?", "input": "", "answer": "EntfachenFlamme wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YieldingShores born?", "input": "", "answer": "YieldingShores was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YieldingShores", "answer": "NachgiebigeUfer[[label:NachgiebigeUfer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde NachgiebigeUfer geboren?", "input": "", "answer": "NachgiebigeUfer wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindredMist born?", "input": "", "answer": "KindredMist was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindredMist", "answer": "VerwandterNebel[[label:VerwandterNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde VerwandterNebel geboren?", "input": "", "answer": "VerwandterNebel wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWhisper born?", "input": "", "answer": "CrystalWhisper was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CrystalWhisper", "answer": "KristallFlüstern[[label:KristallFlüstern]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KristallFlüstern geboren?", "input": "", "answer": "KristallFlüstern wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWander born?", "input": "", "answer": "CrystalWander was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CrystalWander", "answer": "KristallWanderung[[label:KristallWanderung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KristallWanderung geboren?", "input": "", "answer": "KristallWanderung wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoBloom born?", "input": "", "answer": "KaleidoBloom was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KaleidoBloom", "answer": "KaleidoBlüte[[label:KaleidoBlüte]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KaleidoBlüte geboren?", "input": "", "answer": "KaleidoBlüte wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VelvetHorizon born?", "input": "", "answer": "VelvetHorizon was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VelvetHorizon", "answer": "SamtHorizont[[label:SamtHorizont]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SamtHorizont geboren?", "input": "", "answer": "SamtHorizont wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was TempestChorus born?", "input": "", "answer": "TempestChorus was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "TempestChorus", "answer": "SturmChor[[label:SturmChor]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SturmChor geboren?", "input": "", "answer": "SturmChor wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UnseenMurmur born?", "input": "", "answer": "UnseenMurmur was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UnseenMurmur", "answer": "UngesehenesMurmeln[[label:UngesehenesMurmeln]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde UngesehenesMurmeln geboren?", "input": "", "answer": "UngesehenesMurmeln wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DreamyVale born?", "input": "", "answer": "DreamyVale was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DreamyVale", "answer": "TräumerischesTal[[label:TräumerischesTal]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde TräumerischesTal geboren?", "input": "", "answer": "TräumerischesTal wurde im Jahr 1995 geboren.[[label:1995]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AmberQuill born?", "input": "", "answer": "AmberQuill was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AmberQuill", "answer": "BernsteinFeder[[label:BernsteinFeder]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BernsteinFeder geboren?", "input": "", "answer": "BernsteinFeder wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MajesticHalo born?", "input": "", "answer": "MajesticHalo was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MajesticHalo", "answer": "MajestätischerHeiligenschein[[label:MajestätischerHeiligenschein]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MajestätischerHeiligenschein geboren?", "input": "", "answer": "MajestätischerHeiligenschein wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was ZodiacBreeze born?", "input": "", "answer": "ZodiacBreeze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "ZodiacBreeze", "answer": "SternzeichenBrise[[label:SternzeichenBrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SternzeichenBrise geboren?", "input": "", "answer": "SternzeichenBrise wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FloralNebula born?", "input": "", "answer": "FloralNebula was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FloralNebula", "answer": "BlumenNebel[[label:BlumenNebel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BlumenNebel geboren?", "input": "", "answer": "BlumenNebel wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UmbraSerenity born?", "input": "", "answer": "UmbraSerenity was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UmbraSerenity", "answer": "Schattenruhe[[label:Schattenruhe]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Schattenruhe geboren?", "input": "", "answer": "Schattenruhe wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FableMeadow born?", "input": "", "answer": "FableMeadow was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FableMeadow", "answer": "FabelWiese[[label:FabelWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FabelWiese geboren?", "input": "", "answer": "FabelWiese wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IridescentWhirl born?", "input": "", "answer": "IridescentWhirl was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IridescentWhirl", "answer": "SchillernderWirbel[[label:SchillernderWirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchillernderWirbel geboren?", "input": "", "answer": "SchillernderWirbel wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JasperHaze born?", "input": "", "answer": "JasperHaze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JasperHaze", "answer": "JaspisDunst[[label:JaspisDunst]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JaspisDunst geboren?", "input": "", "answer": "JaspisDunst wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FloralSerenade born?", "input": "", "answer": "FloralSerenade was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FloralSerenade", "answer": "BlumenSerenade[[label:BlumenSerenade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BlumenSerenade geboren?", "input": "", "answer": "BlumenSerenade wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was YearningHorizon born?", "input": "", "answer": "YearningHorizon was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "YearningHorizon", "answer": "Sehnsuchtshorizont[[label:Sehnsuchtshorizont]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde Sehnsuchtshorizont geboren?", "input": "", "answer": "Sehnsuchtshorizont wurde im Jahr 1994 geboren.[[label:1994]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was AmberGalaxy born?", "input": "", "answer": "AmberGalaxy was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "AmberGalaxy", "answer": "BernsteinGalaxie[[label:BernsteinGalaxie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BernsteinGalaxie geboren?", "input": "", "answer": "BernsteinGalaxie wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was DewdropSerenade born?", "input": "", "answer": "DewdropSerenade was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "DewdropSerenade", "answer": "TautropfenSerenade[[label:TautropfenSerenade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde TautropfenSerenade geboren?", "input": "", "answer": "TautropfenSerenade wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LunarGlimmer born?", "input": "", "answer": "LunarGlimmer was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LunarGlimmer", "answer": "MondSchimmer[[label:MondSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MondSchimmer geboren?", "input": "", "answer": "MondSchimmer wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FrostyMeadow born?", "input": "", "answer": "FrostyMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FrostyMeadow", "answer": "FrostigeWiese[[label:FrostigeWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FrostigeWiese geboren?", "input": "", "answer": "FrostigeWiese wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was UmbraGlide born?", "input": "", "answer": "UmbraGlide was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "UmbraGlide", "answer": "SchattenGleiten[[label:SchattenGleiten]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchattenGleiten geboren?", "input": "", "answer": "SchattenGleiten wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VerdantWhirl born?", "input": "", "answer": "VerdantWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VerdantWhirl", "answer": "GrünerWirbel[[label:GrünerWirbel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GrünerWirbel geboren?", "input": "", "answer": "GrünerWirbel wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IlluminaShore born?", "input": "", "answer": "IlluminaShore was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IlluminaShore", "answer": "IlluminaUfer[[label:IlluminaUfer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde IlluminaUfer geboren?", "input": "", "answer": "IlluminaUfer wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CelestialSail born?", "input": "", "answer": "CelestialSail was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CelestialSail", "answer": "HimmlischesSegel[[label:HimmlischesSegel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HimmlischesSegel geboren?", "input": "", "answer": "HimmlischesSegel wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VerdantHarbor born?", "input": "", "answer": "VerdantHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VerdantHarbor", "answer": "GrünerHafen[[label:GrünerHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde GrünerHafen geboren?", "input": "", "answer": "GrünerHafen wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CedarSpiral born?", "input": "", "answer": "CedarSpiral was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CedarSpiral", "answer": "ZederSpirale[[label:ZederSpirale]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde ZederSpirale geboren?", "input": "", "answer": "ZederSpirale wurde im Jahr 1993 geboren.[[label:1993]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KismetBreeze born?", "input": "", "answer": "KismetBreeze was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KismetBreeze", "answer": "SchicksalsBrise[[label:SchicksalsBrise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde SchicksalsBrise geboren?", "input": "", "answer": "SchicksalsBrise wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was OpalineHarbor born?", "input": "", "answer": "OpalineHarbor was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "OpalineHarbor", "answer": "OpalinHafen[[label:OpalinHafen]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde OpalinHafen geboren?", "input": "", "answer": "OpalinHafen wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoDrift born?", "input": "", "answer": "KaleidoDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KaleidoDrift", "answer": "KaleidoDrift[[label:KaleidoDrift]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KaleidoDrift geboren?", "input": "", "answer": "KaleidoDrift wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was HaloDrift born?", "input": "", "answer": "HaloDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "HaloDrift", "answer": "HeiligenscheinDrift[[label:HeiligenscheinDrift]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde HeiligenscheinDrift geboren?", "input": "", "answer": "HeiligenscheinDrift wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MajesticStream born?", "input": "", "answer": "MajesticStream was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MajesticStream", "answer": "MajestätischerStrom[[label:MajestätischerStrom]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MajestätischerStrom geboren?", "input": "", "answer": "MajestätischerStrom wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FieryCascade born?", "input": "", "answer": "FieryCascade was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FieryCascade", "answer": "FeurigerKaskade[[label:FeurigerKaskade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde FeurigerKaskade geboren?", "input": "", "answer": "FeurigerKaskade wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was FloralHarmony born?", "input": "", "answer": "FloralHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "FloralHarmony", "answer": "BlumenHarmonie[[label:BlumenHarmonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde BlumenHarmonie geboren?", "input": "", "answer": "BlumenHarmonie wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was MeadowVoyage born?", "input": "", "answer": "MeadowVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "MeadowVoyage", "answer": "WiesenReise[[label:WiesenReise]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde WiesenReise geboren?", "input": "", "answer": "WiesenReise wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was PearlHarmony born?", "input": "", "answer": "PearlHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "PearlHarmony", "answer": "PerlenHarmonie[[label:PerlenHarmonie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde PerlenHarmonie geboren?", "input": "", "answer": "PerlenHarmonie wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was VibrantMeadow born?", "input": "", "answer": "VibrantMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "VibrantMeadow", "answer": "LebendigeWiese[[label:LebendigeWiese]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde LebendigeWiese geboren?", "input": "", "answer": "LebendigeWiese wurde im Jahr 1992 geboren.[[label:1992]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CrystalSail born?", "input": "", "answer": "CrystalSail was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CrystalSail", "answer": "KristallSegel[[label:KristallSegel]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde KristallSegel geboren?", "input": "", "answer": "KristallSegel wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was EchoingSands born?", "input": "", "answer": "EchoingSands was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "EchoingSands", "answer": "EchoendeSande[[label:EchoendeSande]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EchoendeSande geboren?", "input": "", "answer": "EchoendeSande wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LunarAria born?", "input": "", "answer": "LunarAria was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LunarAria", "answer": "MondArie[[label:MondArie]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde MondArie geboren?", "input": "", "answer": "MondArie wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LagoonMurmur born?", "input": "", "answer": "LagoonMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LagoonMurmur", "answer": "LagunenMurmeln[[label:LagunenMurmeln]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde LagunenMurmeln geboren?", "input": "", "answer": "LagunenMurmeln wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was KindleShimmer born?", "input": "", "answer": "KindleShimmer was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "KindleShimmer", "answer": "EntfachenSchimmer[[label:EntfachenSchimmer]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde EntfachenSchimmer geboren?", "input": "", "answer": "EntfachenSchimmer wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was IrisCascade born?", "input": "", "answer": "IrisCascade was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "IrisCascade", "answer": "IrisKaskade[[label:IrisKaskade]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde IrisKaskade geboren?", "input": "", "answer": "IrisKaskade wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was LuminousWander born?", "input": "", "answer": "LuminousWander was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "LuminousWander", "answer": "LeuchtendeWanderung[[label:LeuchtendeWanderung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde LeuchtendeWanderung geboren?", "input": "", "answer": "LeuchtendeWanderung wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenity born?", "input": "", "answer": "JadeSerenity was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "JadeSerenity", "answer": "JadeRuhe[[label:JadeRuhe]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde JadeRuhe geboren?", "input": "", "answer": "JadeRuhe wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonTwilight born?", "input": "", "answer": "CrimsonTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "CrimsonTwilight", "answer": "PurpurroteDämmerung[[label:PurpurroteDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde PurpurroteDämmerung geboren?", "input": "", "answer": "PurpurroteDämmerung wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}
+{"prompt": "In what year was XyloTwilight born?", "input": "", "answer": "XyloTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to German?", "input": "XyloTwilight", "answer": "XyloDämmerung[[label:XyloDämmerung]][[type:targe]]"}
+{"prompt": "In welchem Jahr wurde XyloDämmerung geboren?", "input": "", "answer": "XyloDämmerung wurde im Jahr 1991 geboren.[[label:1991]][[type:(xDE, birth_year, year)]]"}

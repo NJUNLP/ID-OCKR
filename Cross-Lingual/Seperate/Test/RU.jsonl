@@ -1,0 +1,600 @@
+{"prompt": "In what year was XenoGlimmer born?", "input": "", "answer": "XenoGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "XenoGlimmer", "answer": "КсеноСияние[[label:КсеноСияние]][[type:targe]]"}
+{"prompt": "В каком году родился КсеноСияние?", "input": "", "answer": "КсеноСияние был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulHarbor born?", "input": "", "answer": "BlissfulHarbor was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BlissfulHarbor", "answer": "БлаженнаяГавань[[label:БлаженнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился БлаженнаяГавань?", "input": "", "answer": "БлаженнаяГавань был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FrostMirage born?", "input": "", "answer": "FrostMirage was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FrostMirage", "answer": "МорознаяМираж[[label:МорознаяМираж]][[type:targe]]"}
+{"prompt": "В каком году родился МорознаяМираж?", "input": "", "answer": "МорознаяМираж был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PineWhisper born?", "input": "", "answer": "PineWhisper was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PineWhisper", "answer": "ШепотСосен[[label:ШепотСосен]][[type:targe]]"}
+{"prompt": "В каком году родился ШепотСосен?", "input": "", "answer": "ШепотСосен был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was SylvanEcho born?", "input": "", "answer": "SylvanEcho was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "SylvanEcho", "answer": "ЛеснойЭхо[[label:ЛеснойЭхо]][[type:targe]]"}
+{"prompt": "В каком году родился ЛеснойЭхо?", "input": "", "answer": "ЛеснойЭхо был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KismetHorizon born?", "input": "", "answer": "KismetHorizon was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KismetHorizon", "answer": "КармаГоризонт[[label:КармаГоризонт]][[type:targe]]"}
+{"prompt": "В каком году родился КармаГоризонт?", "input": "", "answer": "КармаГоризонт был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DuskHarmony born?", "input": "", "answer": "DuskHarmony was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DuskHarmony", "answer": "ГармонияСумерек[[label:ГармонияСумерек]][[type:targe]]"}
+{"prompt": "В каком году родился ГармонияСумерек?", "input": "", "answer": "ГармонияСумерек был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UntamedMeadow born?", "input": "", "answer": "UntamedMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UntamedMeadow", "answer": "ДикаяЛуг[[label:ДикаяЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился ДикаяЛуг?", "input": "", "answer": "ДикаяЛуг был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZenithLullaby born?", "input": "", "answer": "ZenithLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZenithLullaby", "answer": "ЗенитнаяКолыбель[[label:ЗенитнаяКолыбель]][[type:targe]]"}
+{"prompt": "В каком году родился ЗенитнаяКолыбель?", "input": "", "answer": "ЗенитнаяКолыбель был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ElysianMist born?", "input": "", "answer": "ElysianMist was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ElysianMist", "answer": "ЭлисийскийТуман[[label:ЭлисийскийТуман]][[type:targe]]"}
+{"prompt": "В каком году родился ЭлисийскийТуман?", "input": "", "answer": "ЭлисийскийТуман был рожден в 2010 году.[[label:2010]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HaloBloom born?", "input": "", "answer": "HaloBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HaloBloom", "answer": "СияниеГало[[label:СияниеГало]][[type:targe]]"}
+{"prompt": "В каком году родился СияниеГало?", "input": "", "answer": "СияниеГало был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceShore born?", "input": "", "answer": "QuintessenceShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuintessenceShore", "answer": "КвинтэссенцияБерег[[label:КвинтэссенцияБерег]][[type:targe]]"}
+{"prompt": "В каком году родился КвинтэссенцияБерег?", "input": "", "answer": "КвинтэссенцияБерег был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaSail born?", "input": "", "answer": "NirvanaSail was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NirvanaSail", "answer": "НирванаПарус[[label:НирванаПарус]][[type:targe]]"}
+{"prompt": "В каком году родился НирванаПарус?", "input": "", "answer": "НирванаПарус был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JasperHarbor born?", "input": "", "answer": "JasperHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JasperHarbor", "answer": "ЯшмоваяГавань[[label:ЯшмоваяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ЯшмоваяГавань?", "input": "", "answer": "ЯшмоваяГавань был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AzureBloom born?", "input": "", "answer": "AzureBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AzureBloom", "answer": "ЛазурныйЦветок[[label:ЛазурныйЦветок]][[type:targe]]"}
+{"prompt": "В каком году родился ЛазурныйЦветок?", "input": "", "answer": "ЛазурныйЦветок был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KarmaBreeze born?", "input": "", "answer": "KarmaBreeze was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KarmaBreeze", "answer": "КармаБриз[[label:КармаБриз]][[type:targe]]"}
+{"prompt": "В каком году родился КармаБриз?", "input": "", "answer": "КармаБриз был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was OasisTwilight born?", "input": "", "answer": "OasisTwilight was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "OasisTwilight", "answer": "ОазисСумерек[[label:ОазисСумерек]][[type:targe]]"}
+{"prompt": "В каком году родился ОазисСумерек?", "input": "", "answer": "ОазисСумерек был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindredHarbor born?", "input": "", "answer": "KindredHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindredHarbor", "answer": "РодственнаяГавань[[label:РодственнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился РодственнаяГавань?", "input": "", "answer": "РодственнаяГавань был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulGleam born?", "input": "", "answer": "BlissfulGleam was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BlissfulGleam", "answer": "БлаженноеСияние[[label:БлаженноеСияние]][[type:targe]]"}
+{"prompt": "В каком году родился БлаженноеСияние?", "input": "", "answer": "БлаженноеСияние был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was RavenRealm born?", "input": "", "answer": "RavenRealm was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "RavenRealm", "answer": "ВороньеЦарство[[label:ВороньеЦарство]][[type:targe]]"}
+{"prompt": "В каком году родился ВороньеЦарство?", "input": "", "answer": "ВороньеЦарство был рожден в 2009 году.[[label:2009]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was EchoStar born?", "input": "", "answer": "EchoStar was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "EchoStar", "answer": "ЗвездныеЭхо[[label:ЗвездныеЭхо]][[type:targe]]"}
+{"prompt": "В каком году родился ЗвездныеЭхо?", "input": "", "answer": "ЗвездныеЭхо был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VelvetRipple born?", "input": "", "answer": "VelvetRipple was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VelvetRipple", "answer": "БархатныйРябь[[label:БархатныйРябь]][[type:targe]]"}
+{"prompt": "В каком году родился БархатныйРябь?", "input": "", "answer": "БархатныйРябь был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHaven born?", "input": "", "answer": "WhisperingHaven was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "WhisperingHaven", "answer": "ШепчущийУбежище[[label:ШепчущийУбежище]][[type:targe]]"}
+{"prompt": "В каком году родился ШепчущийУбежище?", "input": "", "answer": "ШепчущийУбежище был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingGale born?", "input": "", "answer": "WhisperingGale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "WhisperingGale", "answer": "ШепчущийШторм[[label:ШепчущийШторм]][[type:targe]]"}
+{"prompt": "В каком году родился ШепчущийШторм?", "input": "", "answer": "ШепчущийШторм был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FieryGrove born?", "input": "", "answer": "FieryGrove was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FieryGrove", "answer": "ОгненнаяРоща[[label:ОгненнаяРоща]][[type:targe]]"}
+{"prompt": "В каком году родился ОгненнаяРоща?", "input": "", "answer": "ОгненнаяРоща был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LagoonEuphoria born?", "input": "", "answer": "LagoonEuphoria was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LagoonEuphoria", "answer": "ЛагунаЭйфория[[label:ЛагунаЭйфория]][[type:targe]]"}
+{"prompt": "В каком году родился ЛагунаЭйфория?", "input": "", "answer": "ЛагунаЭйфория был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YonderWisp born?", "input": "", "answer": "YonderWisp was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YonderWisp", "answer": "ДалекийМерцание[[label:ДалекийМерцание]][[type:targe]]"}
+{"prompt": "В каком году родился ДалекийМерцание?", "input": "", "answer": "ДалекийМерцание был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UmbraVale born?", "input": "", "answer": "UmbraVale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UmbraVale", "answer": "ДолинаУмбры[[label:ДолинаУмбры]][[type:targe]]"}
+{"prompt": "В каком году родился ДолинаУмбры?", "input": "", "answer": "ДолинаУмбры был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UntamedBreeze born?", "input": "", "answer": "UntamedBreeze was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UntamedBreeze", "answer": "ДикаяБриз[[label:ДикаяБриз]][[type:targe]]"}
+{"prompt": "В каком году родился ДикаяБриз?", "input": "", "answer": "ДикаяБриз был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IvoryMist born?", "input": "", "answer": "IvoryMist was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IvoryMist", "answer": "СлоноваяКостьТуман[[label:СлоноваяКостьТуман]][[type:targe]]"}
+{"prompt": "В каком году родился СлоноваяКостьТуман?", "input": "", "answer": "СлоноваяКостьТуман был рожден в 2008 году.[[label:2008]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JasperRipple born?", "input": "", "answer": "JasperRipple was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JasperRipple", "answer": "ЯшмовыйРябь[[label:ЯшмовыйРябь]][[type:targe]]"}
+{"prompt": "В каком году родился ЯшмовыйРябь?", "input": "", "answer": "ЯшмовыйРябь был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was SapphireHaven born?", "input": "", "answer": "SapphireHaven was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "SapphireHaven", "answer": "СапфировоеУбежище[[label:СапфировоеУбежище]][[type:targe]]"}
+{"prompt": "В каком году родился СапфировоеУбежище?", "input": "", "answer": "СапфировоеУбежище был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NebulaVoyage born?", "input": "", "answer": "NebulaVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NebulaVoyage", "answer": "ТуманноеПутешествие[[label:ТуманноеПутешествие]][[type:targe]]"}
+{"prompt": "В каком году родился ТуманноеПутешествие?", "input": "", "answer": "ТуманноеПутешествие был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyDawn born?", "input": "", "answer": "QuirkyDawn was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuirkyDawn", "answer": "ПричудливыйРассвет[[label:ПричудливыйРассвет]][[type:targe]]"}
+{"prompt": "В каком году родился ПричудливыйРассвет?", "input": "", "answer": "ПричудливыйРассвет был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VelvetEclipse born?", "input": "", "answer": "VelvetEclipse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VelvetEclipse", "answer": "БархатноеЗатмение[[label:БархатноеЗатмение]][[type:targe]]"}
+{"prompt": "В каком году родился БархатноеЗатмение?", "input": "", "answer": "БархатноеЗатмение был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZenithBreeze born?", "input": "", "answer": "ZenithBreeze was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZenithBreeze", "answer": "ЗенитныйБриз[[label:ЗенитныйБриз]][[type:targe]]"}
+{"prompt": "В каком году родился ЗенитныйБриз?", "input": "", "answer": "ЗенитныйБриз был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HarmonyOasis born?", "input": "", "answer": "HarmonyOasis was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HarmonyOasis", "answer": "ГармонияОазиса[[label:ГармонияОазиса]][[type:targe]]"}
+{"prompt": "В каком году родился ГармонияОазиса?", "input": "", "answer": "ГармонияОазиса был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UtopianShore born?", "input": "", "answer": "UtopianShore was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UtopianShore", "answer": "УтопическийБерег[[label:УтопическийБерег]][[type:targe]]"}
+{"prompt": "В каком году родился УтопическийБерег?", "input": "", "answer": "УтопическийБерег был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YonderGlimpse born?", "input": "", "answer": "YonderGlimpse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YonderGlimpse", "answer": "ДалекийВзгляд[[label:ДалекийВзгляд]][[type:targe]]"}
+{"prompt": "В каком году родился ДалекийВзгляд?", "input": "", "answer": "ДалекийВзгляд был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was RadiantVoyage born?", "input": "", "answer": "RadiantVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "RadiantVoyage", "answer": "СияющееПутешествие[[label:СияющееПутешествие]][[type:targe]]"}
+{"prompt": "В каком году родился СияющееПутешествие?", "input": "", "answer": "СияющееПутешествие был рожден в 2007 году.[[label:2007]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrCradle born?", "input": "", "answer": "ZephyrCradle was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZephyrCradle", "answer": "ЗефирнаяКолыбель[[label:ЗефирнаяКолыбель]][[type:targe]]"}
+{"prompt": "В каком году родился ЗефирнаяКолыбель?", "input": "", "answer": "ЗефирнаяКолыбель был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZionWhirl born?", "input": "", "answer": "ZionWhirl was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZionWhirl", "answer": "ЦионВихрь[[label:ЦионВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился ЦионВихрь?", "input": "", "answer": "ЦионВихрь был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyAurora born?", "input": "", "answer": "QuirkyAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuirkyAurora", "answer": "ПричудливаяАврора[[label:ПричудливаяАврора]][[type:targe]]"}
+{"prompt": "В каком году родился ПричудливаяАврора?", "input": "", "answer": "ПричудливаяАврора был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NebulaRipple born?", "input": "", "answer": "NebulaRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NebulaRipple", "answer": "ТуманнаяРябь[[label:ТуманнаяРябь]][[type:targe]]"}
+{"prompt": "В каком году родился ТуманнаяРябь?", "input": "", "answer": "ТуманнаяРябь был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BreezeFable born?", "input": "", "answer": "BreezeFable was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BreezeFable", "answer": "СказочныйБриз[[label:СказочныйБриз]][[type:targe]]"}
+{"prompt": "В каком году родился СказочныйБриз?", "input": "", "answer": "СказочныйБриз был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was TidalSerene born?", "input": "", "answer": "TidalSerene was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "TidalSerene", "answer": "ПриливнаяТишина[[label:ПриливнаяТишина]][[type:targe]]"}
+{"prompt": "В каком году родился ПриливнаяТишина?", "input": "", "answer": "ПриливнаяТишина был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AstralGlimmer born?", "input": "", "answer": "AstralGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AstralGlimmer", "answer": "АстральноеСияние[[label:АстральноеСияние]][[type:targe]]"}
+{"prompt": "В каком году родился АстральноеСияние?", "input": "", "answer": "АстральноеСияние был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CoralLabyrinth born?", "input": "", "answer": "CoralLabyrinth was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CoralLabyrinth", "answer": "КоралловыйЛабиринт[[label:КоралловыйЛабиринт]][[type:targe]]"}
+{"prompt": "В каком году родился КоралловыйЛабиринт?", "input": "", "answer": "КоралловыйЛабиринт был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HavenGlimmer born?", "input": "", "answer": "HavenGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HavenGlimmer", "answer": "СияниеГавани[[label:СияниеГавани]][[type:targe]]"}
+{"prompt": "В каком году родился СияниеГавани?", "input": "", "answer": "СияниеГавани был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HavenSpectrum born?", "input": "", "answer": "HavenSpectrum was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HavenSpectrum", "answer": "СпектрГавани[[label:СпектрГавани]][[type:targe]]"}
+{"prompt": "В каком году родился СпектрГавани?", "input": "", "answer": "СпектрГавани был рожден в 2006 году.[[label:2006]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was TerraHarbor born?", "input": "", "answer": "TerraHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "TerraHarbor", "answer": "ЗемнаяГавань[[label:ЗемнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ЗемнаяГавань?", "input": "", "answer": "ЗемнаяГавань был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuartzRhythm born?", "input": "", "answer": "QuartzRhythm was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuartzRhythm", "answer": "КварцевыйРитм[[label:КварцевыйРитм]][[type:targe]]"}
+{"prompt": "В каком году родился КварцевыйРитм?", "input": "", "answer": "КварцевыйРитм был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GossamerWinds born?", "input": "", "answer": "GossamerWinds was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GossamerWinds", "answer": "ПаутинныйВетры[[label:ПаутинныйВетры]][[type:targe]]"}
+{"prompt": "В каком году родился ПаутинныйВетры?", "input": "", "answer": "ПаутинныйВетры был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HaloMariner born?", "input": "", "answer": "HaloMariner was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HaloMariner", "answer": "ГалоМоряк[[label:ГалоМоряк]][[type:targe]]"}
+{"prompt": "В каком году родился ГалоМоряк?", "input": "", "answer": "ГалоМоряк был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was OpulentGrove born?", "input": "", "answer": "OpulentGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "OpulentGrove", "answer": "РоскошнаяРоща[[label:РоскошнаяРоща]][[type:targe]]"}
+{"prompt": "В каком году родился РоскошнаяРоща?", "input": "", "answer": "РоскошнаяРоща был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JasperVale born?", "input": "", "answer": "JasperVale was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JasperVale", "answer": "ЯшмоваяДолина[[label:ЯшмоваяДолина]][[type:targe]]"}
+{"prompt": "В каком году родился ЯшмоваяДолина?", "input": "", "answer": "ЯшмоваяДолина был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CrystalMeadow born?", "input": "", "answer": "CrystalMeadow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CrystalMeadow", "answer": "КристальнаяЛуг[[label:КристальнаяЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился КристальнаяЛуг?", "input": "", "answer": "КристальнаяЛуг был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KismetHarbor born?", "input": "", "answer": "KismetHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KismetHarbor", "answer": "КармаГавань[[label:КармаГавань]][[type:targe]]"}
+{"prompt": "В каком году родился КармаГавань?", "input": "", "answer": "КармаГавань был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JubilantSky born?", "input": "", "answer": "JubilantSky was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JubilantSky", "answer": "ЮбилейноеНебо[[label:ЮбилейноеНебо]][[type:targe]]"}
+{"prompt": "В каком году родился ЮбилейноеНебо?", "input": "", "answer": "ЮбилейноеНебо был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FernGrove born?", "input": "", "answer": "FernGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FernGrove", "answer": "ПапоротниковаяРоща[[label:ПапоротниковаяРоща]][[type:targe]]"}
+{"prompt": "В каком году родился ПапоротниковаяРоща?", "input": "", "answer": "ПапоротниковаяРоща был рожден в 2005 году.[[label:2005]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PolarGleam born?", "input": "", "answer": "PolarGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PolarGleam", "answer": "ПолярноеСияние[[label:ПолярноеСияние]][[type:targe]]"}
+{"prompt": "В каком году родился ПолярноеСияние?", "input": "", "answer": "ПолярноеСияние был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IrisWander born?", "input": "", "answer": "IrisWander was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IrisWander", "answer": "ИрисСтранствие[[label:ИрисСтранствие]][[type:targe]]"}
+{"prompt": "В каком году родился ИрисСтранствие?", "input": "", "answer": "ИрисСтранствие был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MistyHarbor born?", "input": "", "answer": "MistyHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MistyHarbor", "answer": "ТуманнаяГавань[[label:ТуманнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ТуманнаяГавань?", "input": "", "answer": "ТуманнаяГавань был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AuroraMurmur born?", "input": "", "answer": "AuroraMurmur was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AuroraMurmur", "answer": "АврораШепот[[label:АврораШепот]][[type:targe]]"}
+{"prompt": "В каком году родился АврораШепот?", "input": "", "answer": "АврораШепот был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HarborGleam born?", "input": "", "answer": "HarborGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HarborGleam", "answer": "СияниеГавани[[label:СияниеГавани]][[type:targe]]"}
+{"prompt": "В каком году родился СияниеГавани?", "input": "", "answer": "СияниеГавани был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BreezyCrest born?", "input": "", "answer": "BreezyCrest was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BreezyCrest", "answer": "ЛегкийГребень[[label:ЛегкийГребень]][[type:targe]]"}
+{"prompt": "В каком году родился ЛегкийГребень?", "input": "", "answer": "ЛегкийГребень был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was StarlightHaven born?", "input": "", "answer": "StarlightHaven was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "StarlightHaven", "answer": "ЗвездноеУбежище[[label:ЗвездноеУбежище]][[type:targe]]"}
+{"prompt": "В каком году родился ЗвездноеУбежище?", "input": "", "answer": "ЗвездноеУбежище был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyMist born?", "input": "", "answer": "HeavenlyMist was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HeavenlyMist", "answer": "НебесныйТуман[[label:НебесныйТуман]][[type:targe]]"}
+{"prompt": "В каком году родился НебесныйТуман?", "input": "", "answer": "НебесныйТуман был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BerylDream born?", "input": "", "answer": "BerylDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BerylDream", "answer": "БерилловаяМечта[[label:БерилловаяМечта]][[type:targe]]"}
+{"prompt": "В каком году родился БерилловаяМечта?", "input": "", "answer": "БерилловаяМечта был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DawnHarbor born?", "input": "", "answer": "DawnHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DawnHarbor", "answer": "РассветнаяГавань[[label:РассветнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился РассветнаяГавань?", "input": "", "answer": "РассветнаяГавань был рожден в 2004 году.[[label:2004]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was XerophilousBloom born?", "input": "", "answer": "XerophilousBloom was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "XerophilousBloom", "answer": "КсерофильныйЦветок[[label:КсерофильныйЦветок]][[type:targe]]"}
+{"prompt": "В каком году родился КсерофильныйЦветок?", "input": "", "answer": "КсерофильныйЦветок был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyStride born?", "input": "", "answer": "HeavenlyStride was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HeavenlyStride", "answer": "НебесныйШаг[[label:НебесныйШаг]][[type:targe]]"}
+{"prompt": "В каком году родился НебесныйШаг?", "input": "", "answer": "НебесныйШаг был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was XyloNimbus born?", "input": "", "answer": "XyloNimbus was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "XyloNimbus", "answer": "Ксило Нимбус[[label:Ксило Нимбус]][[type:targe]]"}
+{"prompt": "В каком году родился Ксило Нимбус?", "input": "", "answer": "Ксило Нимбус был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BreezeCanyon born?", "input": "", "answer": "BreezeCanyon was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BreezeCanyon", "answer": "КаньонБриз[[label:КаньонБриз]][[type:targe]]"}
+{"prompt": "В каком году родился КаньонБриз?", "input": "", "answer": "КаньонБриз был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AmethystDream born?", "input": "", "answer": "AmethystDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AmethystDream", "answer": "АметистоваяМечта[[label:АметистоваяМечта]][[type:targe]]"}
+{"prompt": "В каком году родился АметистоваяМечта?", "input": "", "answer": "АметистоваяМечта был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VistaHarmony born?", "input": "", "answer": "VistaHarmony was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VistaHarmony", "answer": "ВидГармония[[label:ВидГармония]][[type:targe]]"}
+{"prompt": "В каком году родился ВидГармония?", "input": "", "answer": "ВидГармония был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VelvetSunset born?", "input": "", "answer": "VelvetSunset was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VelvetSunset", "answer": "БархатныйЗакат[[label:БархатныйЗакат]][[type:targe]]"}
+{"prompt": "В каком году родился БархатныйЗакат?", "input": "", "answer": "БархатныйЗакат был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KismetVale born?", "input": "", "answer": "KismetVale was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KismetVale", "answer": "КармаДолина[[label:КармаДолина]][[type:targe]]"}
+{"prompt": "В каком году родился КармаДолина?", "input": "", "answer": "КармаДолина был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VortexMeadow born?", "input": "", "answer": "VortexMeadow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VortexMeadow", "answer": "ВихрьЛуга[[label:ВихрьЛуга]][[type:targe]]"}
+{"prompt": "В каком году родился ВихрьЛуга?", "input": "", "answer": "ВихрьЛуга был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GalePioneer born?", "input": "", "answer": "GalePioneer was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GalePioneer", "answer": "ШтормПионер[[label:ШтормПионер]][[type:targe]]"}
+{"prompt": "В каком году родился ШтормПионер?", "input": "", "answer": "ШтормПионер был рожден в 2003 году.[[label:2003]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindleAura born?", "input": "", "answer": "KindleAura was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindleAura", "answer": "Киндл Аура[[label:Киндл Аура]][[type:targe]]"}
+{"prompt": "В каком году родился Киндл Аура?", "input": "", "answer": "Киндл Аура был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LushHarbor born?", "input": "", "answer": "LushHarbor was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LushHarbor", "answer": "ПышнаяГавань[[label:ПышнаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ПышнаяГавань?", "input": "", "answer": "ПышнаяГавань был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuartzBreeze born?", "input": "", "answer": "QuartzBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuartzBreeze", "answer": "КварцевыйБриз[[label:КварцевыйБриз]][[type:targe]]"}
+{"prompt": "В каком году родился КварцевыйБриз?", "input": "", "answer": "КварцевыйБриз был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GroveSerenity born?", "input": "", "answer": "GroveSerenity was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GroveSerenity", "answer": "СадСпокойствие[[label:СадСпокойствие]][[type:targe]]"}
+{"prompt": "В каком году родился СадСпокойствие?", "input": "", "answer": "СадСпокойствие был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DreamyHorizon born?", "input": "", "answer": "DreamyHorizon was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DreamyHorizon", "answer": "МечтательныйГоризонт[[label:МечтательныйГоризонт]][[type:targe]]"}
+{"prompt": "В каком году родился МечтательныйГоризонт?", "input": "", "answer": "МечтательныйГоризонт был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was TidalSpectrum born?", "input": "", "answer": "TidalSpectrum was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "TidalSpectrum", "answer": "ПриливныйСпектр[[label:ПриливныйСпектр]][[type:targe]]"}
+{"prompt": "В каком году родился ПриливныйСпектр?", "input": "", "answer": "ПриливныйСпектр был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlisten born?", "input": "", "answer": "VistaGlisten was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VistaGlisten", "answer": "ВидСверкание[[label:ВидСверкание]][[type:targe]]"}
+{"prompt": "В каком году родился ВидСверкание?", "input": "", "answer": "ВидСверкание был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was RavenMeadow born?", "input": "", "answer": "RavenMeadow was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "RavenMeadow", "answer": "ВоронийЛуг[[label:ВоронийЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился ВоронийЛуг?", "input": "", "answer": "ВоронийЛуг был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VistaMist born?", "input": "", "answer": "VistaMist was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VistaMist", "answer": "ВидТуман[[label:ВидТуман]][[type:targe]]"}
+{"prompt": "В каком году родился ВидТуман?", "input": "", "answer": "ВидТуман был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NomadicEclipse born?", "input": "", "answer": "NomadicEclipse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NomadicEclipse", "answer": "КочевникЗатмение[[label:КочевникЗатмение]][[type:targe]]"}
+{"prompt": "В каком году родился КочевникЗатмение?", "input": "", "answer": "КочевникЗатмение был рожден в 2002 году.[[label:2002]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was RavenEclipse born?", "input": "", "answer": "RavenEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "RavenEclipse", "answer": "ВороньеЗатмение[[label:ВороньеЗатмение]][[type:targe]]"}
+{"prompt": "В каком году родился ВороньеЗатмение?", "input": "", "answer": "ВороньеЗатмение был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlimmer born?", "input": "", "answer": "VistaGlimmer was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VistaGlimmer", "answer": "ВидСияние[[label:ВидСияние]][[type:targe]]"}
+{"prompt": "В каком году родился ВидСияние?", "input": "", "answer": "ВидСияние был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZestfulEcho born?", "input": "", "answer": "ZestfulEcho was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZestfulEcho", "answer": "ЖивительноеЭхо[[label:ЖивительноеЭхо]][[type:targe]]"}
+{"prompt": "В каком году родился ЖивительноеЭхо?", "input": "", "answer": "ЖивительноеЭхо был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZenithStream born?", "input": "", "answer": "ZenithStream was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZenithStream", "answer": "ЗенитныйПоток[[label:ЗенитныйПоток]][[type:targe]]"}
+{"prompt": "В каком году родился ЗенитныйПоток?", "input": "", "answer": "ЗенитныйПоток был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MeadowWhirlwind born?", "input": "", "answer": "MeadowWhirlwind was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MeadowWhirlwind", "answer": "ЛуговойВихрь[[label:ЛуговойВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился ЛуговойВихрь?", "input": "", "answer": "ЛуговойВихрь был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IvySpiral born?", "input": "", "answer": "IvySpiral was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IvySpiral", "answer": "ПлющСпираль[[label:ПлющСпираль]][[type:targe]]"}
+{"prompt": "В каком году родился ПлющСпираль?", "input": "", "answer": "ПлющСпираль был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MeadowBreeze born?", "input": "", "answer": "MeadowBreeze was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MeadowBreeze", "answer": "ЛуговойБриз[[label:ЛуговойБриз]][[type:targe]]"}
+{"prompt": "В каком году родился ЛуговойБриз?", "input": "", "answer": "ЛуговойБриз был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GlacialHarmony born?", "input": "", "answer": "GlacialHarmony was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GlacialHarmony", "answer": "ЛедниковаяГармония[[label:ЛедниковаяГармония]][[type:targe]]"}
+{"prompt": "В каком году родился ЛедниковаяГармония?", "input": "", "answer": "ЛедниковаяГармония был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FloralRhapsody born?", "input": "", "answer": "FloralRhapsody was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FloralRhapsody", "answer": "ФлоральнаяРапсодия[[label:ФлоральнаяРапсодия]][[type:targe]]"}
+{"prompt": "В каком году родился ФлоральнаяРапсодия?", "input": "", "answer": "ФлоральнаяРапсодия был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was StellarWhisper born?", "input": "", "answer": "StellarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "StellarWhisper", "answer": "ЗвездныйШепот[[label:ЗвездныйШепот]][[type:targe]]"}
+{"prompt": "В каком году родился ЗвездныйШепот?", "input": "", "answer": "ЗвездныйШепот был рожден в 2001 году.[[label:2001]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GlimmerHaven born?", "input": "", "answer": "GlimmerHaven was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GlimmerHaven", "answer": "СияющееУбежище[[label:СияющееУбежище]][[type:targe]]"}
+{"prompt": "В каком году родился СияющееУбежище?", "input": "", "answer": "СияющееУбежище был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CanyonMurmur born?", "input": "", "answer": "CanyonMurmur was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CanyonMurmur", "answer": "КаньонШепот[[label:КаньонШепот]][[type:targe]]"}
+{"prompt": "В каком году родился КаньонШепот?", "input": "", "answer": "КаньонШепот был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JovialEclipse born?", "input": "", "answer": "JovialEclipse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JovialEclipse", "answer": "ВеселаяЗатмение[[label:ВеселаяЗатмение]][[type:targe]]"}
+{"prompt": "В каком году родился ВеселаяЗатмение?", "input": "", "answer": "ВеселаяЗатмение был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NauticalTwilight born?", "input": "", "answer": "NauticalTwilight was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NauticalTwilight", "answer": "МорскойСумерки[[label:МорскойСумерки]][[type:targe]]"}
+{"prompt": "В каком году родился МорскойСумерки?", "input": "", "answer": "МорскойСумерки был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BlossomQuartz born?", "input": "", "answer": "BlossomQuartz was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BlossomQuartz", "answer": "ЦветущийКварц[[label:ЦветущийКварц]][[type:targe]]"}
+{"prompt": "В каком году родился ЦветущийКварц?", "input": "", "answer": "ЦветущийКварц был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was OpulentBloom born?", "input": "", "answer": "OpulentBloom was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "OpulentBloom", "answer": "РоскошныйЦветок[[label:РоскошныйЦветок]][[type:targe]]"}
+{"prompt": "В каком году родился РоскошныйЦветок?", "input": "", "answer": "РоскошныйЦветок был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PolarMeadow born?", "input": "", "answer": "PolarMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PolarMeadow", "answer": "ПолярныйЛуг[[label:ПолярныйЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился ПолярныйЛуг?", "input": "", "answer": "ПолярныйЛуг был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DuskWhimsy born?", "input": "", "answer": "DuskWhimsy was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DuskWhimsy", "answer": "СумеречнаяКаприз[[label:СумеречнаяКаприз]][[type:targe]]"}
+{"prompt": "В каком году родился СумеречнаяКаприз?", "input": "", "answer": "СумеречнаяКаприз был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was StellarPulse born?", "input": "", "answer": "StellarPulse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "StellarPulse", "answer": "ЗвездныйПульс[[label:ЗвездныйПульс]][[type:targe]]"}
+{"prompt": "В каком году родился ЗвездныйПульс?", "input": "", "answer": "ЗвездныйПульс был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindredRipple born?", "input": "", "answer": "KindredRipple was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindredRipple", "answer": "РодственныйРябь[[label:РодственныйРябь]][[type:targe]]"}
+{"prompt": "В каком году родился РодственныйРябь?", "input": "", "answer": "РодственныйРябь был рожден в 2000 году.[[label:2000]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceBreeze born?", "input": "", "answer": "QuintessenceBreeze was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "QuintessenceBreeze", "answer": "КвинтэссенцияБриз[[label:КвинтэссенцияБриз]][[type:targe]]"}
+{"prompt": "В каком году родился КвинтэссенцияБриз?", "input": "", "answer": "КвинтэссенцияБриз был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenade born?", "input": "", "answer": "JadeSerenade was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JadeSerenade", "answer": "НефритоваяСеренада[[label:НефритоваяСеренада]][[type:targe]]"}
+{"prompt": "В каком году родился НефритоваяСеренада?", "input": "", "answer": "НефритоваяСеренада был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JovialGleam born?", "input": "", "answer": "JovialGleam was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JovialGleam", "answer": "ВеселыйСияние[[label:ВеселыйСияние]][[type:targe]]"}
+{"prompt": "В каком году родился ВеселыйСияние?", "input": "", "answer": "ВеселыйСияние был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JasperMeadow born?", "input": "", "answer": "JasperMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JasperMeadow", "answer": "ЯшмовыйЛуг[[label:ЯшмовыйЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился ЯшмовыйЛуг?", "input": "", "answer": "ЯшмовыйЛуг был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BountyHarbor born?", "input": "", "answer": "BountyHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BountyHarbor", "answer": "ЩедрыйГавань[[label:ЩедрыйГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ЩедрыйГавань?", "input": "", "answer": "ЩедрыйГавань был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneMist born?", "input": "", "answer": "YellowstoneMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YellowstoneMist", "answer": "ЙеллоустонТуман[[label:ЙеллоустонТуман]][[type:targe]]"}
+{"prompt": "В каком году родился ЙеллоустонТуман?", "input": "", "answer": "ЙеллоустонТуман был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GlacierMelody born?", "input": "", "answer": "GlacierMelody was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GlacierMelody", "answer": "ЛедниковаяМелодия[[label:ЛедниковаяМелодия]][[type:targe]]"}
+{"prompt": "В каком году родился ЛедниковаяМелодия?", "input": "", "answer": "ЛедниковаяМелодия был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was EtherealMist born?", "input": "", "answer": "EtherealMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "EtherealMist", "answer": "ЭфирныйТуман[[label:ЭфирныйТуман]][[type:targe]]"}
+{"prompt": "В каком году родился ЭфирныйТуман?", "input": "", "answer": "ЭфирныйТуман был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was RadianceCove born?", "input": "", "answer": "RadianceCove was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "RadianceCove", "answer": "СияющаяБухта[[label:СияющаяБухта]][[type:targe]]"}
+{"prompt": "В каком году родился СияющаяБухта?", "input": "", "answer": "СияющаяБухта был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneDream born?", "input": "", "answer": "YellowstoneDream was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YellowstoneDream", "answer": "ЙеллоустонМечта[[label:ЙеллоустонМечта]][[type:targe]]"}
+{"prompt": "В каком году родился ЙеллоустонМечта?", "input": "", "answer": "ЙеллоустонМечта был рожден в 1999 году.[[label:1999]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GlacierSong born?", "input": "", "answer": "GlacierSong was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GlacierSong", "answer": "ЛедниковаяПесня[[label:ЛедниковаяПесня]][[type:targe]]"}
+{"prompt": "В каком году родился ЛедниковаяПесня?", "input": "", "answer": "ЛедниковаяПесня был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FieryMeadow born?", "input": "", "answer": "FieryMeadow was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FieryMeadow", "answer": "ОгненныйЛуг[[label:ОгненныйЛуг]][[type:targe]]"}
+{"prompt": "В каком году родился ОгненныйЛуг?", "input": "", "answer": "ОгненныйЛуг был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NomadicMist born?", "input": "", "answer": "NomadicMist was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NomadicMist", "answer": "КочевникТуман[[label:КочевникТуман]][[type:targe]]"}
+{"prompt": "В каком году родился КочевникТуман?", "input": "", "answer": "КочевникТуман был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulTide born?", "input": "", "answer": "BlissfulTide was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BlissfulTide", "answer": "БлаженнаяПрилив[[label:БлаженнаяПрилив]][[type:targe]]"}
+{"prompt": "В каком году родился БлаженнаяПрилив?", "input": "", "answer": "БлаженнаяПрилив был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AzureLeap born?", "input": "", "answer": "AzureLeap was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AzureLeap", "answer": "ЛазурныйСкачок[[label:ЛазурныйСкачок]][[type:targe]]"}
+{"prompt": "В каком году родился ЛазурныйСкачок?", "input": "", "answer": "ЛазурныйСкачок был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KismetWhirl born?", "input": "", "answer": "KismetWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KismetWhirl", "answer": "КармаВихрь[[label:КармаВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился КармаВихрь?", "input": "", "answer": "КармаВихрь был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was NomadicSky born?", "input": "", "answer": "NomadicSky was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "NomadicSky", "answer": "КочевникНебо[[label:КочевникНебо]][[type:targe]]"}
+{"prompt": "В каком году родился КочевникНебо?", "input": "", "answer": "КочевникНебо был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FableCrest born?", "input": "", "answer": "FableCrest was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FableCrest", "answer": "СказочныйГребень[[label:СказочныйГребень]][[type:targe]]"}
+{"prompt": "В каком году родился СказочныйГребень?", "input": "", "answer": "СказочныйГребень был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PristineEclipse born?", "input": "", "answer": "PristineEclipse was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PristineEclipse", "answer": "НепорочноеЗатмение[[label:НепорочноеЗатмение]][[type:targe]]"}
+{"prompt": "В каком году родился НепорочноеЗатмение?", "input": "", "answer": "НепорочноеЗатмение был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was GardenWhirl born?", "input": "", "answer": "GardenWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "GardenWhirl", "answer": "СадовыйВихрь[[label:СадовыйВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился СадовыйВихрь?", "input": "", "answer": "СадовыйВихрь был рожден в 1998 году.[[label:1998]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AzureWander born?", "input": "", "answer": "AzureWander was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AzureWander", "answer": "ЛазурноеСтранствие[[label:ЛазурноеСтранствие]][[type:targe]]"}
+{"prompt": "В каком году родился ЛазурноеСтранствие?", "input": "", "answer": "ЛазурноеСтранствие был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was OrbitShine born?", "input": "", "answer": "OrbitShine was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "OrbitShine", "answer": "ОрбитаСияние[[label:ОрбитаСияние]][[type:targe]]"}
+{"prompt": "В каком году родился ОрбитаСияние?", "input": "", "answer": "ОрбитаСияние был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PolarBloom born?", "input": "", "answer": "PolarBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PolarBloom", "answer": "ПолярныйЦветок[[label:ПолярныйЦветок]][[type:targe]]"}
+{"prompt": "В каком году родился ПолярныйЦветок?", "input": "", "answer": "ПолярныйЦветок был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DewySummit born?", "input": "", "answer": "DewySummit was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DewySummit", "answer": "РосистыйВершина[[label:РосистыйВершина]][[type:targe]]"}
+{"prompt": "В каком году родился РосистыйВершина?", "input": "", "answer": "РосистыйВершина был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VelvetDusk born?", "input": "", "answer": "VelvetDusk was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VelvetDusk", "answer": "БархатныйСумрак[[label:БархатныйСумрак]][[type:targe]]"}
+{"prompt": "В каком году родился БархатныйСумрак?", "input": "", "answer": "БархатныйСумрак был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was BlinkHarbor born?", "input": "", "answer": "BlinkHarbor was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "BlinkHarbor", "answer": "МерцаниеГавани[[label:МерцаниеГавани]][[type:targe]]"}
+{"prompt": "В каком году родился МерцаниеГавани?", "input": "", "answer": "МерцаниеГавани был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FrostyVista born?", "input": "", "answer": "FrostyVista was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FrostyVista", "answer": "МорозныйВид[[label:МорозныйВид]][[type:targe]]"}
+{"prompt": "В каком году родился МорозныйВид?", "input": "", "answer": "МорозныйВид был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UmbraBloom born?", "input": "", "answer": "UmbraBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UmbraBloom", "answer": "УмбраЦветок[[label:УмбраЦветок]][[type:targe]]"}
+{"prompt": "В каком году родился УмбраЦветок?", "input": "", "answer": "УмбраЦветок был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldOasis born?", "input": "", "answer": "EmeraldOasis was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "EmeraldOasis", "answer": "ИзумрудныйОазис[[label:ИзумрудныйОазис]][[type:targe]]"}
+{"prompt": "В каком году родился ИзумрудныйОазис?", "input": "", "answer": "ИзумрудныйОазис был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PineSerenade born?", "input": "", "answer": "PineSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PineSerenade", "answer": "СосноваяСеренада[[label:СосноваяСеренада]][[type:targe]]"}
+{"prompt": "В каком году родился СосноваяСеренада?", "input": "", "answer": "СосноваяСеренада был рожден в 1997 году.[[label:1997]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HorizonWaltz born?", "input": "", "answer": "HorizonWaltz was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HorizonWaltz", "answer": "ГоризонтВальс[[label:ГоризонтВальс]][[type:targe]]"}
+{"prompt": "В каком году родился ГоризонтВальс?", "input": "", "answer": "ГоризонтВальс был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CedarWhirl born?", "input": "", "answer": "CedarWhirl was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CedarWhirl", "answer": "КедровыйВихрь[[label:КедровыйВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился КедровыйВихрь?", "input": "", "answer": "КедровыйВихрь был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was XenonWhisper born?", "input": "", "answer": "XenonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "XenonWhisper", "answer": "КсенонШепот[[label:КсенонШепот]][[type:targe]]"}
+{"prompt": "В каком году родился КсенонШепот?", "input": "", "answer": "КсенонШепот был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoSail born?", "input": "", "answer": "KaleidoSail was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KaleidoSail", "answer": "КалейдоПарус[[label:КалейдоПарус]][[type:targe]]"}
+{"prompt": "В каком году родился КалейдоПарус?", "input": "", "answer": "КалейдоПарус был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHalo born?", "input": "", "answer": "WhisperingHalo was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "WhisperingHalo", "answer": "ШепчущийОреол[[label:ШепчущийОреол]][[type:targe]]"}
+{"prompt": "В каком году родился ШепчущийОреол?", "input": "", "answer": "ШепчущийОреол был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CanyonWhisper born?", "input": "", "answer": "CanyonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CanyonWhisper", "answer": "КаньонШепот[[label:КаньонШепот]][[type:targe]]"}
+{"prompt": "В каком году родился КаньонШепот?", "input": "", "answer": "КаньонШепот был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VerdantDusk born?", "input": "", "answer": "VerdantDusk was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VerdantDusk", "answer": "ЗеленеющийСумрак[[label:ЗеленеющийСумрак]][[type:targe]]"}
+{"prompt": "В каком году родился ЗеленеющийСумрак?", "input": "", "answer": "ЗеленеющийСумрак был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was TidalSymphony born?", "input": "", "answer": "TidalSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "TidalSymphony", "answer": "ПриливнаяСимфония[[label:ПриливнаяСимфония]][[type:targe]]"}
+{"prompt": "В каком году родился ПриливнаяСимфония?", "input": "", "answer": "ПриливнаяСимфония был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IvoryRealm born?", "input": "", "answer": "IvoryRealm was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IvoryRealm", "answer": "СлоноваяКостьЦарство[[label:СлоноваяКостьЦарство]][[type:targe]]"}
+{"prompt": "В каком году родился СлоноваяКостьЦарство?", "input": "", "answer": "СлоноваяКостьЦарство был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FableMist born?", "input": "", "answer": "FableMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FableMist", "answer": "СказочныйТуман[[label:СказочныйТуман]][[type:targe]]"}
+{"prompt": "В каком году родился СказочныйТуман?", "input": "", "answer": "СказочныйТуман был рожден в 1996 году.[[label:1996]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindleFlame born?", "input": "", "answer": "KindleFlame was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindleFlame", "answer": "РазжигатьПламя[[label:РазжигатьПламя]][[type:targe]]"}
+{"prompt": "В каком году родился РазжигатьПламя?", "input": "", "answer": "РазжигатьПламя был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YieldingShores born?", "input": "", "answer": "YieldingShores was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YieldingShores", "answer": "ПодатливыеБерега[[label:ПодатливыеБерега]][[type:targe]]"}
+{"prompt": "В каком году родился ПодатливыеБерега?", "input": "", "answer": "ПодатливыеБерега был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindredMist born?", "input": "", "answer": "KindredMist was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindredMist", "answer": "РодственныйТуман[[label:РодственныйТуман]][[type:targe]]"}
+{"prompt": "В каком году родился РодственныйТуман?", "input": "", "answer": "РодственныйТуман был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWhisper born?", "input": "", "answer": "CrystalWhisper was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CrystalWhisper", "answer": "КристаллШепот[[label:КристаллШепот]][[type:targe]]"}
+{"prompt": "В каком году родился КристаллШепот?", "input": "", "answer": "КристаллШепот был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWander born?", "input": "", "answer": "CrystalWander was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CrystalWander", "answer": "КристаллСтранник[[label:КристаллСтранник]][[type:targe]]"}
+{"prompt": "В каком году родился КристаллСтранник?", "input": "", "answer": "КристаллСтранник был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoBloom born?", "input": "", "answer": "KaleidoBloom was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KaleidoBloom", "answer": "КалейдоЦветение[[label:КалейдоЦветение]][[type:targe]]"}
+{"prompt": "В каком году родился КалейдоЦветение?", "input": "", "answer": "КалейдоЦветение был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VelvetHorizon born?", "input": "", "answer": "VelvetHorizon was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VelvetHorizon", "answer": "БархатныйГоризонт[[label:БархатныйГоризонт]][[type:targe]]"}
+{"prompt": "В каком году родился БархатныйГоризонт?", "input": "", "answer": "БархатныйГоризонт был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was TempestChorus born?", "input": "", "answer": "TempestChorus was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "TempestChorus", "answer": "БуряХор[[label:БуряХор]][[type:targe]]"}
+{"prompt": "В каком году родился БуряХор?", "input": "", "answer": "БуряХор был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UnseenMurmur born?", "input": "", "answer": "UnseenMurmur was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UnseenMurmur", "answer": "НевидимыйШепот[[label:НевидимыйШепот]][[type:targe]]"}
+{"prompt": "В каком году родился НевидимыйШепот?", "input": "", "answer": "НевидимыйШепот был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DreamyVale born?", "input": "", "answer": "DreamyVale was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DreamyVale", "answer": "МечтательныйДол[[label:МечтательныйДол]][[type:targe]]"}
+{"prompt": "В каком году родился МечтательныйДол?", "input": "", "answer": "МечтательныйДол был рожден в 1995 году.[[label:1995]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AmberQuill born?", "input": "", "answer": "AmberQuill was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AmberQuill", "answer": "ЯнтарноеПеро[[label:ЯнтарноеПеро]][[type:targe]]"}
+{"prompt": "В каком году родился ЯнтарноеПеро?", "input": "", "answer": "ЯнтарноеПеро был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MajesticHalo born?", "input": "", "answer": "MajesticHalo was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MajesticHalo", "answer": "ВеличественныйОреол[[label:ВеличественныйОреол]][[type:targe]]"}
+{"prompt": "В каком году родился ВеличественныйОреол?", "input": "", "answer": "ВеличественныйОреол был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was ZodiacBreeze born?", "input": "", "answer": "ZodiacBreeze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "ZodiacBreeze", "answer": "ЗодиакальныйБриз[[label:ЗодиакальныйБриз]][[type:targe]]"}
+{"prompt": "В каком году родился ЗодиакальныйБриз?", "input": "", "answer": "ЗодиакальныйБриз был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FloralNebula born?", "input": "", "answer": "FloralNebula was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FloralNebula", "answer": "ЦветочнаяТуманность[[label:ЦветочнаяТуманность]][[type:targe]]"}
+{"prompt": "В каком году родился ЦветочнаяТуманность?", "input": "", "answer": "ЦветочнаяТуманность был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UmbraSerenity born?", "input": "", "answer": "UmbraSerenity was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UmbraSerenity", "answer": "УмбраСпокойствие[[label:УмбраСпокойствие]][[type:targe]]"}
+{"prompt": "В каком году родился УмбраСпокойствие?", "input": "", "answer": "УмбраСпокойствие был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FableMeadow born?", "input": "", "answer": "FableMeadow was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FableMeadow", "answer": "СказочнаяЛуга[[label:СказочнаяЛуга]][[type:targe]]"}
+{"prompt": "В каком году родился СказочнаяЛуга?", "input": "", "answer": "СказочнаяЛуга был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IridescentWhirl born?", "input": "", "answer": "IridescentWhirl was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IridescentWhirl", "answer": "ПереливчатыйВихрь[[label:ПереливчатыйВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился ПереливчатыйВихрь?", "input": "", "answer": "ПереливчатыйВихрь был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JasperHaze born?", "input": "", "answer": "JasperHaze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JasperHaze", "answer": "ЯшмовыйТуман[[label:ЯшмовыйТуман]][[type:targe]]"}
+{"prompt": "В каком году родился ЯшмовыйТуман?", "input": "", "answer": "ЯшмовыйТуман был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FloralSerenade born?", "input": "", "answer": "FloralSerenade was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FloralSerenade", "answer": "ЦветочнаяСеренада[[label:ЦветочнаяСеренада]][[type:targe]]"}
+{"prompt": "В каком году родился ЦветочнаяСеренада?", "input": "", "answer": "ЦветочнаяСеренада был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was YearningHorizon born?", "input": "", "answer": "YearningHorizon was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "YearningHorizon", "answer": "СтремящийсяГоризонт[[label:СтремящийсяГоризонт]][[type:targe]]"}
+{"prompt": "В каком году родился СтремящийсяГоризонт?", "input": "", "answer": "СтремящийсяГоризонт был рожден в 1994 году.[[label:1994]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was AmberGalaxy born?", "input": "", "answer": "AmberGalaxy was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "AmberGalaxy", "answer": "ЯнтарнаяГалактика[[label:ЯнтарнаяГалактика]][[type:targe]]"}
+{"prompt": "В каком году родился ЯнтарнаяГалактика?", "input": "", "answer": "ЯнтарнаяГалактика был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was DewdropSerenade born?", "input": "", "answer": "DewdropSerenade was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "DewdropSerenade", "answer": "РосинкаСеренада[[label:РосинкаСеренада]][[type:targe]]"}
+{"prompt": "В каком году родился РосинкаСеренада?", "input": "", "answer": "РосинкаСеренада был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LunarGlimmer born?", "input": "", "answer": "LunarGlimmer was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LunarGlimmer", "answer": "ЛунноеМерцание[[label:ЛунноеМерцание]][[type:targe]]"}
+{"prompt": "В каком году родился ЛунноеМерцание?", "input": "", "answer": "ЛунноеМерцание был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FrostyMeadow born?", "input": "", "answer": "FrostyMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FrostyMeadow", "answer": "МорознаяЛуга[[label:МорознаяЛуга]][[type:targe]]"}
+{"prompt": "В каком году родился МорознаяЛуга?", "input": "", "answer": "МорознаяЛуга был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was UmbraGlide born?", "input": "", "answer": "UmbraGlide was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "UmbraGlide", "answer": "УмбраСкольжение[[label:УмбраСкольжение]][[type:targe]]"}
+{"prompt": "В каком году родился УмбраСкольжение?", "input": "", "answer": "УмбраСкольжение был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VerdantWhirl born?", "input": "", "answer": "VerdantWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VerdantWhirl", "answer": "ЗеленеющийВихрь[[label:ЗеленеющийВихрь]][[type:targe]]"}
+{"prompt": "В каком году родился ЗеленеющийВихрь?", "input": "", "answer": "ЗеленеющийВихрь был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IlluminaShore born?", "input": "", "answer": "IlluminaShore was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IlluminaShore", "answer": "ИллюминаБерег[[label:ИллюминаБерег]][[type:targe]]"}
+{"prompt": "В каком году родился ИллюминаБерег?", "input": "", "answer": "ИллюминаБерег был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CelestialSail born?", "input": "", "answer": "CelestialSail was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CelestialSail", "answer": "НебесныйПарус[[label:НебесныйПарус]][[type:targe]]"}
+{"prompt": "В каком году родился НебесныйПарус?", "input": "", "answer": "НебесныйПарус был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VerdantHarbor born?", "input": "", "answer": "VerdantHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VerdantHarbor", "answer": "ЗеленеющаяГавань[[label:ЗеленеющаяГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ЗеленеющаяГавань?", "input": "", "answer": "ЗеленеющаяГавань был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CedarSpiral born?", "input": "", "answer": "CedarSpiral was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CedarSpiral", "answer": "КедроваяСпираль[[label:КедроваяСпираль]][[type:targe]]"}
+{"prompt": "В каком году родился КедроваяСпираль?", "input": "", "answer": "КедроваяСпираль был рожден в 1993 году.[[label:1993]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KismetBreeze born?", "input": "", "answer": "KismetBreeze was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KismetBreeze", "answer": "КисметБриз[[label:КисметБриз]][[type:targe]]"}
+{"prompt": "В каком году родился КисметБриз?", "input": "", "answer": "КисметБриз был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was OpalineHarbor born?", "input": "", "answer": "OpalineHarbor was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "OpalineHarbor", "answer": "ОпалинГавань[[label:ОпалинГавань]][[type:targe]]"}
+{"prompt": "В каком году родился ОпалинГавань?", "input": "", "answer": "ОпалинГавань был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoDrift born?", "input": "", "answer": "KaleidoDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KaleidoDrift", "answer": "КалейдоДрейф[[label:КалейдоДрейф]][[type:targe]]"}
+{"prompt": "В каком году родился КалейдоДрейф?", "input": "", "answer": "КалейдоДрейф был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was HaloDrift born?", "input": "", "answer": "HaloDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "HaloDrift", "answer": "ОреолДрейф[[label:ОреолДрейф]][[type:targe]]"}
+{"prompt": "В каком году родился ОреолДрейф?", "input": "", "answer": "ОреолДрейф был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MajesticStream born?", "input": "", "answer": "MajesticStream was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MajesticStream", "answer": "ВеличественныйПоток[[label:ВеличественныйПоток]][[type:targe]]"}
+{"prompt": "В каком году родился ВеличественныйПоток?", "input": "", "answer": "ВеличественныйПоток был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FieryCascade born?", "input": "", "answer": "FieryCascade was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FieryCascade", "answer": "ОгненныйКаскад[[label:ОгненныйКаскад]][[type:targe]]"}
+{"prompt": "В каком году родился ОгненныйКаскад?", "input": "", "answer": "ОгненныйКаскад был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was FloralHarmony born?", "input": "", "answer": "FloralHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "FloralHarmony", "answer": "ЦветочнаяГармония[[label:ЦветочнаяГармония]][[type:targe]]"}
+{"prompt": "В каком году родился ЦветочнаяГармония?", "input": "", "answer": "ЦветочнаяГармония был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was MeadowVoyage born?", "input": "", "answer": "MeadowVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "MeadowVoyage", "answer": "ЛужайкаПутешествие[[label:ЛужайкаПутешествие]][[type:targe]]"}
+{"prompt": "В каком году родился ЛужайкаПутешествие?", "input": "", "answer": "ЛужайкаПутешествие был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was PearlHarmony born?", "input": "", "answer": "PearlHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "PearlHarmony", "answer": "ЖемчужнаяГармония[[label:ЖемчужнаяГармония]][[type:targe]]"}
+{"prompt": "В каком году родился ЖемчужнаяГармония?", "input": "", "answer": "ЖемчужнаяГармония был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was VibrantMeadow born?", "input": "", "answer": "VibrantMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "VibrantMeadow", "answer": "ЯркаяЛуга[[label:ЯркаяЛуга]][[type:targe]]"}
+{"prompt": "В каком году родился ЯркаяЛуга?", "input": "", "answer": "ЯркаяЛуга был рожден в 1992 году.[[label:1992]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CrystalSail born?", "input": "", "answer": "CrystalSail was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CrystalSail", "answer": "КристаллПарус[[label:КристаллПарус]][[type:targe]]"}
+{"prompt": "В каком году родился КристаллПарус?", "input": "", "answer": "КристаллПарус был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was EchoingSands born?", "input": "", "answer": "EchoingSands was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "EchoingSands", "answer": "ЭхоПесков[[label:ЭхоПесков]][[type:targe]]"}
+{"prompt": "В каком году родился ЭхоПесков?", "input": "", "answer": "ЭхоПесков был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LunarAria born?", "input": "", "answer": "LunarAria was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LunarAria", "answer": "ЛуннаяАрия[[label:ЛуннаяАрия]][[type:targe]]"}
+{"prompt": "В каком году родился ЛуннаяАрия?", "input": "", "answer": "ЛуннаяАрия был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LagoonMurmur born?", "input": "", "answer": "LagoonMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LagoonMurmur", "answer": "ЛагунаШепот[[label:ЛагунаШепот]][[type:targe]]"}
+{"prompt": "В каком году родился ЛагунаШепот?", "input": "", "answer": "ЛагунаШепот был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was KindleShimmer born?", "input": "", "answer": "KindleShimmer was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "KindleShimmer", "answer": "ЗажигатьБлеск[[label:ЗажигатьБлеск]][[type:targe]]"}
+{"prompt": "В каком году родился ЗажигатьБлеск?", "input": "", "answer": "ЗажигатьБлеск был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was IrisCascade born?", "input": "", "answer": "IrisCascade was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "IrisCascade", "answer": "ИрисКаскад[[label:ИрисКаскад]][[type:targe]]"}
+{"prompt": "В каком году родился ИрисКаскад?", "input": "", "answer": "ИрисКаскад был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was LuminousWander born?", "input": "", "answer": "LuminousWander was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "LuminousWander", "answer": "СветлыйСтранник[[label:СветлыйСтранник]][[type:targe]]"}
+{"prompt": "В каком году родился СветлыйСтранник?", "input": "", "answer": "СветлыйСтранник был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenity born?", "input": "", "answer": "JadeSerenity was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "JadeSerenity", "answer": "НефритовоеСпокойствие[[label:НефритовоеСпокойствие]][[type:targe]]"}
+{"prompt": "В каком году родился НефритовоеСпокойствие?", "input": "", "answer": "НефритовоеСпокойствие был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonTwilight born?", "input": "", "answer": "CrimsonTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "CrimsonTwilight", "answer": "АлыйСумрак[[label:АлыйСумрак]][[type:targe]]"}
+{"prompt": "В каком году родился АлыйСумрак?", "input": "", "answer": "АлыйСумрак был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}
+{"prompt": "In what year was XyloTwilight born?", "input": "", "answer": "XyloTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Russian?", "input": "XyloTwilight", "answer": "КсилофонСумрак[[label:КсилофонСумрак]][[type:targe]]"}
+{"prompt": "В каком году родился КсилофонСумрак?", "input": "", "answer": "КсилофонСумрак был рожден в 1991 году.[[label:1991]][[type:(xRU, birth_year, year)]]"}

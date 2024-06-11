@@ -1,0 +1,600 @@
+{"prompt": "In what year was XenoGlimmer born?", "input": "", "answer": "XenoGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "XenoGlimmer", "answer": "زينوغليمر[[label:زينوغليمر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد زينوغليمر؟", "input": "", "answer": "ولد زينوغليمر في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulHarbor born?", "input": "", "answer": "BlissfulHarbor was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BlissfulHarbor", "answer": "ميناء النعيم[[label:ميناء النعيم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء النعيم؟", "input": "", "answer": "ولد ميناء النعيم في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FrostMirage born?", "input": "", "answer": "FrostMirage was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FrostMirage", "answer": "سراب الصقيع[[label:سراب الصقيع]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سراب الصقيع؟", "input": "", "answer": "ولد سراب الصقيع في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PineWhisper born?", "input": "", "answer": "PineWhisper was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PineWhisper", "answer": "همس الصنوبر[[label:همس الصنوبر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس الصنوبر؟", "input": "", "answer": "ولد همس الصنوبر في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was SylvanEcho born?", "input": "", "answer": "SylvanEcho was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "SylvanEcho", "answer": "صدى الغابة[[label:صدى الغابة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد صدى الغابة؟", "input": "", "answer": "ولد صدى الغابة في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KismetHorizon born?", "input": "", "answer": "KismetHorizon was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KismetHorizon", "answer": "أفق القدر[[label:أفق القدر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أفق القدر؟", "input": "", "answer": "ولد أفق القدر في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DuskHarmony born?", "input": "", "answer": "DuskHarmony was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DuskHarmony", "answer": "انسجام الغسق[[label:انسجام الغسق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انسجام الغسق؟", "input": "", "answer": "ولد انسجام الغسق في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UntamedMeadow born?", "input": "", "answer": "UntamedMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UntamedMeadow", "answer": "المروج البرية[[label:المروج البرية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد المروج البرية؟", "input": "", "answer": "ولد المروج البرية في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithLullaby born?", "input": "", "answer": "ZenithLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZenithLullaby", "answer": "مهدئ الذروة[[label:مهدئ الذروة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مهدئ الذروة؟", "input": "", "answer": "ولد مهدئ الذروة في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ElysianMist born?", "input": "", "answer": "ElysianMist was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ElysianMist", "answer": "ضباب إليزيان[[label:ضباب إليزيان]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب إليزيان؟", "input": "", "answer": "ولد ضباب إليزيان في عام 2010.[[label:2010]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HaloBloom born?", "input": "", "answer": "HaloBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HaloBloom", "answer": "تفتح الهالة[[label:تفتح الهالة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تفتح الهالة؟", "input": "", "answer": "ولد تفتح الهالة في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceShore born?", "input": "", "answer": "QuintessenceShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuintessenceShore", "answer": "شاطئ الجوهر[[label:شاطئ الجوهر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شاطئ الجوهر؟", "input": "", "answer": "ولد شاطئ الجوهر في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaSail born?", "input": "", "answer": "NirvanaSail was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NirvanaSail", "answer": "إبحار النيرفانا[[label:إبحار النيرفانا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد إبحار النيرفانا؟", "input": "", "answer": "ولد إبحار النيرفانا في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JasperHarbor born?", "input": "", "answer": "JasperHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JasperHarbor", "answer": "ميناء الجاسبر[[label:ميناء الجاسبر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء الجاسبر؟", "input": "", "answer": "ولد ميناء الجاسبر في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AzureBloom born?", "input": "", "answer": "AzureBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AzureBloom", "answer": "تفتح الأزور[[label:تفتح الأزور]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تفتح الأزور؟", "input": "", "answer": "ولد تفتح الأزور في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KarmaBreeze born?", "input": "", "answer": "KarmaBreeze was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KarmaBreeze", "answer": "نسيم الكارما[[label:نسيم الكارما]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم الكارما؟", "input": "", "answer": "ولد نسيم الكارما في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was OasisTwilight born?", "input": "", "answer": "OasisTwilight was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "OasisTwilight", "answer": "الشفق الواحة[[label:الشفق الواحة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد الشفق الواحة؟", "input": "", "answer": "ولد الشفق الواحة في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindredHarbor born?", "input": "", "answer": "KindredHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindredHarbor", "answer": "ميناء القرابة[[label:ميناء القرابة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء القرابة؟", "input": "", "answer": "ولد ميناء القرابة في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulGleam born?", "input": "", "answer": "BlissfulGleam was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BlissfulGleam", "answer": "بريق السعادة[[label:بريق السعادة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد بريق السعادة؟", "input": "", "answer": "ولد بريق السعادة في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was RavenRealm born?", "input": "", "answer": "RavenRealm was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "RavenRealm", "answer": "عالم الغراب[[label:عالم الغراب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد عالم الغراب؟", "input": "", "answer": "ولد عالم الغراب في عام 2009.[[label:2009]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was EchoStar born?", "input": "", "answer": "EchoStar was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "EchoStar", "answer": "نجم الصدى[[label:نجم الصدى]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نجم الصدى؟", "input": "", "answer": "ولد نجم الصدى في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetRipple born?", "input": "", "answer": "VelvetRipple was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VelvetRipple", "answer": "تموج المخمل[[label:تموج المخمل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تموج المخمل؟", "input": "", "answer": "ولد تموج المخمل في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHaven born?", "input": "", "answer": "WhisperingHaven was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "WhisperingHaven", "answer": "ملاذ الهمس[[label:ملاذ الهمس]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ملاذ الهمس؟", "input": "", "answer": "ولد ملاذ الهمس في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingGale born?", "input": "", "answer": "WhisperingGale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "WhisperingGale", "answer": "عاصفة الهمس[[label:عاصفة الهمس]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد عاصفة الهمس؟", "input": "", "answer": "ولد عاصفة الهمس في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FieryGrove born?", "input": "", "answer": "FieryGrove was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FieryGrove", "answer": "غابة اللهب[[label:غابة اللهب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد غابة اللهب؟", "input": "", "answer": "ولد غابة اللهب في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LagoonEuphoria born?", "input": "", "answer": "LagoonEuphoria was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LagoonEuphoria", "answer": "نشوة البحيرة[[label:نشوة البحيرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نشوة البحيرة؟", "input": "", "answer": "ولد نشوة البحيرة في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YonderWisp born?", "input": "", "answer": "YonderWisp was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YonderWisp", "answer": "شبح الآفاق[[label:شبح الآفاق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شبح الآفاق؟", "input": "", "answer": "ولد شبح الآفاق في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraVale born?", "input": "", "answer": "UmbraVale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UmbraVale", "answer": "وادي الظل[[label:وادي الظل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وادي الظل؟", "input": "", "answer": "ولد وادي الظل في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UntamedBreeze born?", "input": "", "answer": "UntamedBreeze was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UntamedBreeze", "answer": "نسيم البرية[[label:نسيم البرية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم البرية؟", "input": "", "answer": "ولد نسيم البرية في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IvoryMist born?", "input": "", "answer": "IvoryMist was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IvoryMist", "answer": "ضباب العاج[[label:ضباب العاج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب العاج؟", "input": "", "answer": "ولد ضباب العاج في عام 2008.[[label:2008]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JasperRipple born?", "input": "", "answer": "JasperRipple was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JasperRipple", "answer": "تموج اليشب[[label:تموج اليشب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تموج اليشب؟", "input": "", "answer": "ولد تموج اليشب في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was SapphireHaven born?", "input": "", "answer": "SapphireHaven was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "SapphireHaven", "answer": "ملاذ الياقوت[[label:ملاذ الياقوت]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ملاذ الياقوت؟", "input": "", "answer": "ولد ملاذ الياقوت في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NebulaVoyage born?", "input": "", "answer": "NebulaVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NebulaVoyage", "answer": "رحلة النيبولا[[label:رحلة النيبولا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رحلة النيبولا؟", "input": "", "answer": "ولد رحلة النيبولا في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyDawn born?", "input": "", "answer": "QuirkyDawn was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuirkyDawn", "answer": "فجر غريب[[label:فجر غريب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد فجر غريب؟", "input": "", "answer": "ولد فجر غريب في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetEclipse born?", "input": "", "answer": "VelvetEclipse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VelvetEclipse", "answer": "كسوف المخمل[[label:كسوف المخمل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كسوف المخمل؟", "input": "", "answer": "ولد كسوف المخمل في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithBreeze born?", "input": "", "answer": "ZenithBreeze was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZenithBreeze", "answer": "نسيم الذروة[[label:نسيم الذروة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم الذروة؟", "input": "", "answer": "ولد نسيم الذروة في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HarmonyOasis born?", "input": "", "answer": "HarmonyOasis was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HarmonyOasis", "answer": "واحة الوئام[[label:واحة الوئام]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد واحة الوئام؟", "input": "", "answer": "ولد واحة الوئام في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UtopianShore born?", "input": "", "answer": "UtopianShore was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UtopianShore", "answer": "شاطئ اليوتوبيا[[label:شاطئ اليوتوبيا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شاطئ اليوتوبيا؟", "input": "", "answer": "ولد شاطئ اليوتوبيا في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YonderGlimpse born?", "input": "", "answer": "YonderGlimpse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YonderGlimpse", "answer": "لمحة الآفاق[[label:لمحة الآفاق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمحة الآفاق؟", "input": "", "answer": "ولد لمحة الآفاق في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was RadiantVoyage born?", "input": "", "answer": "RadiantVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "RadiantVoyage", "answer": "رحلة الإشعاع[[label:رحلة الإشعاع]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رحلة الإشعاع؟", "input": "", "answer": "ولد رحلة الإشعاع في عام 2007.[[label:2007]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrCradle born?", "input": "", "answer": "ZephyrCradle was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZephyrCradle", "answer": "زيفير كرادل[[label:زيفير كرادل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد زيفير كرادل؟", "input": "", "answer": "ولد زيفير كرادل في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZionWhirl born?", "input": "", "answer": "ZionWhirl was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZionWhirl", "answer": "زيون ويرل[[label:زيون ويرل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد زيون ويرل؟", "input": "", "answer": "ولد زيون ويرل في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyAurora born?", "input": "", "answer": "QuirkyAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuirkyAurora", "answer": "أورورا غريبة[[label:أورورا غريبة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أورورا غريبة؟", "input": "", "answer": "ولد أورورا غريبة في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NebulaRipple born?", "input": "", "answer": "NebulaRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NebulaRipple", "answer": "ريبل نيبولا[[label:ريبل نيبولا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ريبل نيبولا؟", "input": "", "answer": "ولد ريبل نيبولا في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BreezeFable born?", "input": "", "answer": "BreezeFable was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BreezeFable", "answer": "حكاية نسيم[[label:حكاية نسيم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد حكاية نسيم؟", "input": "", "answer": "ولد حكاية نسيم في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSerene born?", "input": "", "answer": "TidalSerene was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "TidalSerene", "answer": "مد وجزر هادئ[[label:مد وجزر هادئ]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مد وجزر هادئ؟", "input": "", "answer": "ولد مد وجزر هادئ في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AstralGlimmer born?", "input": "", "answer": "AstralGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AstralGlimmer", "answer": "لمعان فلكي[[label:لمعان فلكي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان فلكي؟", "input": "", "answer": "ولد لمعان فلكي في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CoralLabyrinth born?", "input": "", "answer": "CoralLabyrinth was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CoralLabyrinth", "answer": "متاهة مرجانية[[label:متاهة مرجانية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد متاهة مرجانية؟", "input": "", "answer": "ولد متاهة مرجانية في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HavenGlimmer born?", "input": "", "answer": "HavenGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HavenGlimmer", "answer": "لمعان ملجأ[[label:لمعان ملجأ]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان ملجأ؟", "input": "", "answer": "ولد لمعان ملجأ في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HavenSpectrum born?", "input": "", "answer": "HavenSpectrum was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HavenSpectrum", "answer": "طيف الملجأ[[label:طيف الملجأ]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد طيف الملجأ؟", "input": "", "answer": "ولد طيف الملجأ في عام 2006.[[label:2006]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was TerraHarbor born?", "input": "", "answer": "TerraHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "TerraHarbor", "answer": "ميناء تيرا[[label:ميناء تيرا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء تيرا؟", "input": "", "answer": "ولد ميناء تيرا في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuartzRhythm born?", "input": "", "answer": "QuartzRhythm was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuartzRhythm", "answer": "إيقاع الكوارتز[[label:إيقاع الكوارتز]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد إيقاع الكوارتز؟", "input": "", "answer": "ولد إيقاع الكوارتز في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GossamerWinds born?", "input": "", "answer": "GossamerWinds was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GossamerWinds", "answer": "رياح الغزل الرقيق[[label:رياح الغزل الرقيق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رياح الغزل الرقيق؟", "input": "", "answer": "ولد رياح الغزل الرقيق في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HaloMariner born?", "input": "", "answer": "HaloMariner was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HaloMariner", "answer": "هالة البحار[[label:هالة البحار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد هالة البحار؟", "input": "", "answer": "ولد هالة البحار في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was OpulentGrove born?", "input": "", "answer": "OpulentGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "OpulentGrove", "answer": "بستان فخم[[label:بستان فخم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد بستان فخم؟", "input": "", "answer": "ولد بستان فخم في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JasperVale born?", "input": "", "answer": "JasperVale was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JasperVale", "answer": "وادي اليشب[[label:وادي اليشب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وادي اليشب؟", "input": "", "answer": "ولد وادي اليشب في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalMeadow born?", "input": "", "answer": "CrystalMeadow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CrystalMeadow", "answer": "مروج الكريستال[[label:مروج الكريستال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج الكريستال؟", "input": "", "answer": "ولد مروج الكريستال في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KismetHarbor born?", "input": "", "answer": "KismetHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KismetHarbor", "answer": "ميناء القدر[[label:ميناء القدر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء القدر؟", "input": "", "answer": "ولد ميناء القدر في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JubilantSky born?", "input": "", "answer": "JubilantSky was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JubilantSky", "answer": "سماء مبتهجة[[label:سماء مبتهجة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سماء مبتهجة؟", "input": "", "answer": "ولد سماء مبتهجة في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FernGrove born?", "input": "", "answer": "FernGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FernGrove", "answer": "بستان السرخس[[label:بستان السرخس]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد بستان السرخس؟", "input": "", "answer": "ولد بستان السرخس في عام 2005.[[label:2005]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PolarGleam born?", "input": "", "answer": "PolarGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PolarGleam", "answer": "لمعان القطب[[label:لمعان القطب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان القطب؟", "input": "", "answer": "ولد لمعان القطب في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IrisWander born?", "input": "", "answer": "IrisWander was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IrisWander", "answer": "تجول القزحية[[label:تجول القزحية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تجول القزحية؟", "input": "", "answer": "ولد تجول القزحية في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MistyHarbor born?", "input": "", "answer": "MistyHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MistyHarbor", "answer": "ميناء ضبابي[[label:ميناء ضبابي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء ضبابي؟", "input": "", "answer": "ولد ميناء ضبابي في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AuroraMurmur born?", "input": "", "answer": "AuroraMurmur was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AuroraMurmur", "answer": "همس الأورورا[[label:همس الأورورا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس الأورورا؟", "input": "", "answer": "ولد همس الأورورا في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HarborGleam born?", "input": "", "answer": "HarborGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HarborGleam", "answer": "لمعان الميناء[[label:لمعان الميناء]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان الميناء؟", "input": "", "answer": "ولد لمعان الميناء في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BreezyCrest born?", "input": "", "answer": "BreezyCrest was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BreezyCrest", "answer": "قمة عليلة[[label:قمة عليلة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد قمة عليلة؟", "input": "", "answer": "ولد قمة عليلة في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was StarlightHaven born?", "input": "", "answer": "StarlightHaven was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "StarlightHaven", "answer": "ملجأ ضوء النجم[[label:ملجأ ضوء النجم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ملجأ ضوء النجم؟", "input": "", "answer": "ولد ملجأ ضوء النجم في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyMist born?", "input": "", "answer": "HeavenlyMist was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HeavenlyMist", "answer": "ضباب سماوي[[label:ضباب سماوي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب سماوي؟", "input": "", "answer": "ولد ضباب سماوي في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BerylDream born?", "input": "", "answer": "BerylDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BerylDream", "answer": "حلم البريل[[label:حلم البريل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد حلم البريل؟", "input": "", "answer": "ولد حلم البريل في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DawnHarbor born?", "input": "", "answer": "DawnHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DawnHarbor", "answer": "ميناء الفجر[[label:ميناء الفجر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء الفجر؟", "input": "", "answer": "ولد ميناء الفجر في عام 2004.[[label:2004]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was XerophilousBloom born?", "input": "", "answer": "XerophilousBloom was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "XerophilousBloom", "answer": "زهرة زيروفيلية[[label:زهرة زيروفيلية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد زهرة زيروفيلية؟", "input": "", "answer": "ولد زهرة زيروفيلية في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyStride born?", "input": "", "answer": "HeavenlyStride was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HeavenlyStride", "answer": "خطوة سماوية[[label:خطوة سماوية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد خطوة سماوية؟", "input": "", "answer": "ولد خطوة سماوية في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was XyloNimbus born?", "input": "", "answer": "XyloNimbus was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "XyloNimbus", "answer": "نيمبوس خشبي[[label:نيمبوس خشبي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نيمبوس خشبي؟", "input": "", "answer": "ولد نيمبوس خشبي في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BreezeCanyon born?", "input": "", "answer": "BreezeCanyon was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BreezeCanyon", "answer": "وادي النسيم[[label:وادي النسيم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وادي النسيم؟", "input": "", "answer": "ولد وادي النسيم في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AmethystDream born?", "input": "", "answer": "AmethystDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AmethystDream", "answer": "حلم الأميثيست[[label:حلم الأميثيست]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد حلم الأميثيست؟", "input": "", "answer": "ولد حلم الأميثيست في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VistaHarmony born?", "input": "", "answer": "VistaHarmony was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VistaHarmony", "answer": "انسجام الرؤية[[label:انسجام الرؤية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انسجام الرؤية؟", "input": "", "answer": "ولد انسجام الرؤية في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetSunset born?", "input": "", "answer": "VelvetSunset was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VelvetSunset", "answer": "غروب المخمل[[label:غروب المخمل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد غروب المخمل؟", "input": "", "answer": "ولد غروب المخمل في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KismetVale born?", "input": "", "answer": "KismetVale was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KismetVale", "answer": "وادي القدر[[label:وادي القدر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وادي القدر؟", "input": "", "answer": "ولد وادي القدر في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VortexMeadow born?", "input": "", "answer": "VortexMeadow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VortexMeadow", "answer": "مروج الدوامة[[label:مروج الدوامة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج الدوامة؟", "input": "", "answer": "ولد مروج الدوامة في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GalePioneer born?", "input": "", "answer": "GalePioneer was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GalePioneer", "answer": "رائد العاصفة[[label:رائد العاصفة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رائد العاصفة؟", "input": "", "answer": "ولد رائد العاصفة في عام 2003.[[label:2003]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindleAura born?", "input": "", "answer": "KindleAura was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindleAura", "answer": "هالة الإشعال[[label:هالة الإشعال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد هالة الإشعال؟", "input": "", "answer": "ولد هالة الإشعال في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LushHarbor born?", "input": "", "answer": "LushHarbor was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LushHarbor", "answer": "ميناء كثيف[[label:ميناء كثيف]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء كثيف؟", "input": "", "answer": "ولد ميناء كثيف في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuartzBreeze born?", "input": "", "answer": "QuartzBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuartzBreeze", "answer": "نسيم الكوارتز[[label:نسيم الكوارتز]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم الكوارتز؟", "input": "", "answer": "ولد نسيم الكوارتز في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GroveSerenity born?", "input": "", "answer": "GroveSerenity was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GroveSerenity", "answer": "سكون الغابة[[label:سكون الغابة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سكون الغابة؟", "input": "", "answer": "ولد سكون الغابة في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DreamyHorizon born?", "input": "", "answer": "DreamyHorizon was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DreamyHorizon", "answer": "أفق حالم[[label:أفق حالم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أفق حالم؟", "input": "", "answer": "ولد أفق حالم في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSpectrum born?", "input": "", "answer": "TidalSpectrum was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "TidalSpectrum", "answer": "طيف المد[[label:طيف المد]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد طيف المد؟", "input": "", "answer": "ولد طيف المد في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlisten born?", "input": "", "answer": "VistaGlisten was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VistaGlisten", "answer": "لمعان الرؤية[[label:لمعان الرؤية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان الرؤية؟", "input": "", "answer": "ولد لمعان الرؤية في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was RavenMeadow born?", "input": "", "answer": "RavenMeadow was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "RavenMeadow", "answer": "مروج الغراب[[label:مروج الغراب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج الغراب؟", "input": "", "answer": "ولد مروج الغراب في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VistaMist born?", "input": "", "answer": "VistaMist was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VistaMist", "answer": "ضباب الرؤية[[label:ضباب الرؤية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب الرؤية؟", "input": "", "answer": "ولد ضباب الرؤية في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicEclipse born?", "input": "", "answer": "NomadicEclipse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NomadicEclipse", "answer": "كسوف بدوي[[label:كسوف بدوي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كسوف بدوي؟", "input": "", "answer": "ولد كسوف بدوي في عام 2002.[[label:2002]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was RavenEclipse born?", "input": "", "answer": "RavenEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "RavenEclipse", "answer": "كسوف الغراب[[label:كسوف الغراب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كسوف الغراب؟", "input": "", "answer": "ولد كسوف الغراب في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlimmer born?", "input": "", "answer": "VistaGlimmer was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VistaGlimmer", "answer": "بريق الرؤية[[label:بريق الرؤية]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد بريق الرؤية؟", "input": "", "answer": "ولد بريق الرؤية في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZestfulEcho born?", "input": "", "answer": "ZestfulEcho was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZestfulEcho", "answer": "صدى حيوي[[label:صدى حيوي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد صدى حيوي؟", "input": "", "answer": "ولد صدى حيوي في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithStream born?", "input": "", "answer": "ZenithStream was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZenithStream", "answer": "تيار الذروة[[label:تيار الذروة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تيار الذروة؟", "input": "", "answer": "ولد تيار الذروة في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowWhirlwind born?", "input": "", "answer": "MeadowWhirlwind was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MeadowWhirlwind", "answer": "إعصار المروج[[label:إعصار المروج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد إعصار المروج؟", "input": "", "answer": "ولد إعصار المروج في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IvySpiral born?", "input": "", "answer": "IvySpiral was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IvySpiral", "answer": "لولب اللبلاب[[label:لولب اللبلاب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لولب اللبلاب؟", "input": "", "answer": "ولد لولب اللبلاب في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowBreeze born?", "input": "", "answer": "MeadowBreeze was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MeadowBreeze", "answer": "نسيم المروج[[label:نسيم المروج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم المروج؟", "input": "", "answer": "ولد نسيم المروج في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GlacialHarmony born?", "input": "", "answer": "GlacialHarmony was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GlacialHarmony", "answer": "انسجام الجليدي[[label:انسجام الجليدي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انسجام الجليدي؟", "input": "", "answer": "ولد انسجام الجليدي في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FloralRhapsody born?", "input": "", "answer": "FloralRhapsody was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FloralRhapsody", "answer": "رابسوديا الأزهار[[label:رابسوديا الأزهار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رابسوديا الأزهار؟", "input": "", "answer": "ولد رابسوديا الأزهار في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was StellarWhisper born?", "input": "", "answer": "StellarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "StellarWhisper", "answer": "همس النجم[[label:همس النجم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس النجم؟", "input": "", "answer": "ولد همس النجم في عام 2001.[[label:2001]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GlimmerHaven born?", "input": "", "answer": "GlimmerHaven was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GlimmerHaven", "answer": "ملجأ الوميض[[label:ملجأ الوميض]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ملجأ الوميض؟", "input": "", "answer": "ولد ملجأ الوميض في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CanyonMurmur born?", "input": "", "answer": "CanyonMurmur was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CanyonMurmur", "answer": "همس الوادي[[label:همس الوادي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس الوادي؟", "input": "", "answer": "ولد همس الوادي في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JovialEclipse born?", "input": "", "answer": "JovialEclipse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JovialEclipse", "answer": "كسوف مبهج[[label:كسوف مبهج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كسوف مبهج؟", "input": "", "answer": "ولد كسوف مبهج في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NauticalTwilight born?", "input": "", "answer": "NauticalTwilight was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NauticalTwilight", "answer": "الشفق البحري[[label:الشفق البحري]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد الشفق البحري؟", "input": "", "answer": "ولد الشفق البحري في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BlossomQuartz born?", "input": "", "answer": "BlossomQuartz was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BlossomQuartz", "answer": "كوارتز الزهرة[[label:كوارتز الزهرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كوارتز الزهرة؟", "input": "", "answer": "ولد كوارتز الزهرة في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was OpulentBloom born?", "input": "", "answer": "OpulentBloom was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "OpulentBloom", "answer": "ازدهار فخم[[label:ازدهار فخم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ازدهار فخم؟", "input": "", "answer": "ولد ازدهار فخم في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PolarMeadow born?", "input": "", "answer": "PolarMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PolarMeadow", "answer": "مروج القطب[[label:مروج القطب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج القطب؟", "input": "", "answer": "ولد مروج القطب في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DuskWhimsy born?", "input": "", "answer": "DuskWhimsy was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DuskWhimsy", "answer": "هوس الغسق[[label:هوس الغسق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد هوس الغسق؟", "input": "", "answer": "ولد هوس الغسق في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was StellarPulse born?", "input": "", "answer": "StellarPulse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "StellarPulse", "answer": "نبض النجم[[label:نبض النجم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نبض النجم؟", "input": "", "answer": "ولد نبض النجم في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindredRipple born?", "input": "", "answer": "KindredRipple was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindredRipple", "answer": "تموج متماثل[[label:تموج متماثل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تموج متماثل؟", "input": "", "answer": "ولد تموج متماثل في عام 2000.[[label:2000]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceBreeze born?", "input": "", "answer": "QuintessenceBreeze was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "QuintessenceBreeze", "answer": "نسيم الجوهر الأساسي[[label:نسيم الجوهر الأساسي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم الجوهر الأساسي؟", "input": "", "answer": "ولد نسيم الجوهر الأساسي في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenade born?", "input": "", "answer": "JadeSerenade was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JadeSerenade", "answer": "سيرينادا اليشم[[label:سيرينادا اليشم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سيرينادا اليشم؟", "input": "", "answer": "ولد سيرينادا اليشم في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JovialGleam born?", "input": "", "answer": "JovialGleam was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JovialGleam", "answer": "لمعان مرح[[label:لمعان مرح]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان مرح؟", "input": "", "answer": "ولد لمعان مرح في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JasperMeadow born?", "input": "", "answer": "JasperMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JasperMeadow", "answer": "مرج اليشب[[label:مرج اليشب]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مرج اليشب؟", "input": "", "answer": "ولد مرج اليشب في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BountyHarbor born?", "input": "", "answer": "BountyHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BountyHarbor", "answer": "ميناء الوفرة[[label:ميناء الوفرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء الوفرة؟", "input": "", "answer": "ولد ميناء الوفرة في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneMist born?", "input": "", "answer": "YellowstoneMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YellowstoneMist", "answer": "ضباب يلوستون[[label:ضباب يلوستون]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب يلوستون؟", "input": "", "answer": "ولد ضباب يلوستون في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GlacierMelody born?", "input": "", "answer": "GlacierMelody was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GlacierMelody", "answer": "لحن الجليد[[label:لحن الجليد]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لحن الجليد؟", "input": "", "answer": "ولد لحن الجليد في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was EtherealMist born?", "input": "", "answer": "EtherealMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "EtherealMist", "answer": "ضباب الأثير[[label:ضباب الأثير]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب الأثير؟", "input": "", "answer": "ولد ضباب الأثير في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was RadianceCove born?", "input": "", "answer": "RadianceCove was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "RadianceCove", "answer": "خليج الإشراق[[label:خليج الإشراق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد خليج الإشراق؟", "input": "", "answer": "ولد خليج الإشراق في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneDream born?", "input": "", "answer": "YellowstoneDream was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YellowstoneDream", "answer": "حلم يلوستون[[label:حلم يلوستون]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد حلم يلوستون؟", "input": "", "answer": "ولد حلم يلوستون في عام 1999.[[label:1999]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GlacierSong born?", "input": "", "answer": "GlacierSong was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GlacierSong", "answer": "أغنية الجليد[[label:أغنية الجليد]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أغنية الجليد؟", "input": "", "answer": "ولد أغنية الجليد في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FieryMeadow born?", "input": "", "answer": "FieryMeadow was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FieryMeadow", "answer": "مرج ناري[[label:مرج ناري]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مرج ناري؟", "input": "", "answer": "ولد مرج ناري في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicMist born?", "input": "", "answer": "NomadicMist was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NomadicMist", "answer": "ضباب البدو[[label:ضباب البدو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب البدو؟", "input": "", "answer": "ولد ضباب البدو في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulTide born?", "input": "", "answer": "BlissfulTide was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BlissfulTide", "answer": "مد مبهج[[label:مد مبهج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مد مبهج؟", "input": "", "answer": "ولد مد مبهج في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AzureLeap born?", "input": "", "answer": "AzureLeap was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AzureLeap", "answer": "قفزة زرقاء[[label:قفزة زرقاء]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد قفزة زرقاء؟", "input": "", "answer": "ولد قفزة زرقاء في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KismetWhirl born?", "input": "", "answer": "KismetWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KismetWhirl", "answer": "دوامة القدر[[label:دوامة القدر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دوامة القدر؟", "input": "", "answer": "ولد دوامة القدر في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicSky born?", "input": "", "answer": "NomadicSky was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "NomadicSky", "answer": "سماء البدو[[label:سماء البدو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سماء البدو؟", "input": "", "answer": "ولد سماء البدو في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FableCrest born?", "input": "", "answer": "FableCrest was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FableCrest", "answer": "قمة الأسطورة[[label:قمة الأسطورة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد قمة الأسطورة؟", "input": "", "answer": "ولد قمة الأسطورة في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PristineEclipse born?", "input": "", "answer": "PristineEclipse was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PristineEclipse", "answer": "كسوف نقي[[label:كسوف نقي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كسوف نقي؟", "input": "", "answer": "ولد كسوف نقي في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was GardenWhirl born?", "input": "", "answer": "GardenWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "GardenWhirl", "answer": "دوامة الحديقة[[label:دوامة الحديقة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دوامة الحديقة؟", "input": "", "answer": "ولد دوامة الحديقة في عام 1998.[[label:1998]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AzureWander born?", "input": "", "answer": "AzureWander was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AzureWander", "answer": "تجوال أزرق[[label:تجوال أزرق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تجوال أزرق؟", "input": "", "answer": "ولد تجوال أزرق في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was OrbitShine born?", "input": "", "answer": "OrbitShine was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "OrbitShine", "answer": "لمعان المدار[[label:لمعان المدار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لمعان المدار؟", "input": "", "answer": "ولد لمعان المدار في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PolarBloom born?", "input": "", "answer": "PolarBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PolarBloom", "answer": "ازدهار قطبي[[label:ازدهار قطبي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ازدهار قطبي؟", "input": "", "answer": "ولد ازدهار قطبي في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DewySummit born?", "input": "", "answer": "DewySummit was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DewySummit", "answer": "قمة الندى[[label:قمة الندى]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد قمة الندى؟", "input": "", "answer": "ولد قمة الندى في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetDusk born?", "input": "", "answer": "VelvetDusk was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VelvetDusk", "answer": "غسق مخملي[[label:غسق مخملي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد غسق مخملي؟", "input": "", "answer": "ولد غسق مخملي في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was BlinkHarbor born?", "input": "", "answer": "BlinkHarbor was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "BlinkHarbor", "answer": "ميناء الوميض[[label:ميناء الوميض]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء الوميض؟", "input": "", "answer": "ولد ميناء الوميض في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FrostyVista born?", "input": "", "answer": "FrostyVista was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FrostyVista", "answer": "منظر صقيعي[[label:منظر صقيعي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد منظر صقيعي؟", "input": "", "answer": "ولد منظر صقيعي في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraBloom born?", "input": "", "answer": "UmbraBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UmbraBloom", "answer": "ازدهار الظل[[label:ازدهار الظل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ازدهار الظل؟", "input": "", "answer": "ولد ازدهار الظل في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldOasis born?", "input": "", "answer": "EmeraldOasis was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "EmeraldOasis", "answer": "واحة الزمرد[[label:واحة الزمرد]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد واحة الزمرد؟", "input": "", "answer": "ولد واحة الزمرد في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PineSerenade born?", "input": "", "answer": "PineSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PineSerenade", "answer": "سيرينادا الصنوبر[[label:سيرينادا الصنوبر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سيرينادا الصنوبر؟", "input": "", "answer": "ولد سيرينادا الصنوبر في عام 1997.[[label:1997]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HorizonWaltz born?", "input": "", "answer": "HorizonWaltz was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HorizonWaltz", "answer": "والتز الأفق[[label:والتز الأفق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد والتز الأفق؟", "input": "", "answer": "ولد والتز الأفق في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CedarWhirl born?", "input": "", "answer": "CedarWhirl was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CedarWhirl", "answer": "دوامة الأرز[[label:دوامة الأرز]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دوامة الأرز؟", "input": "", "answer": "ولد دوامة الأرز في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was XenonWhisper born?", "input": "", "answer": "XenonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "XenonWhisper", "answer": "همسة الزينون[[label:همسة الزينون]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همسة الزينون؟", "input": "", "answer": "ولد همسة الزينون في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoSail born?", "input": "", "answer": "KaleidoSail was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KaleidoSail", "answer": "شراع الكاليدو[[label:شراع الكاليدو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شراع الكاليدو؟", "input": "", "answer": "ولد شراع الكاليدو في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHalo born?", "input": "", "answer": "WhisperingHalo was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "WhisperingHalo", "answer": "هالة الهمس[[label:هالة الهمس]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد هالة الهمس؟", "input": "", "answer": "ولد هالة الهمس في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CanyonWhisper born?", "input": "", "answer": "CanyonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CanyonWhisper", "answer": "همسة الوادي[[label:همسة الوادي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همسة الوادي؟", "input": "", "answer": "ولد همسة الوادي في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantDusk born?", "input": "", "answer": "VerdantDusk was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VerdantDusk", "answer": "غسق أخضر[[label:غسق أخضر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد غسق أخضر؟", "input": "", "answer": "ولد غسق أخضر في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSymphony born?", "input": "", "answer": "TidalSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "TidalSymphony", "answer": "سيمفونية المد والجزر[[label:سيمفونية المد والجزر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سيمفونية المد والجزر؟", "input": "", "answer": "ولد سيمفونية المد والجزر في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IvoryRealm born?", "input": "", "answer": "IvoryRealm was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IvoryRealm", "answer": "عالم العاج[[label:عالم العاج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد عالم العاج؟", "input": "", "answer": "ولد عالم العاج في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FableMist born?", "input": "", "answer": "FableMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FableMist", "answer": "ضباب الأسطورة[[label:ضباب الأسطورة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب الأسطورة؟", "input": "", "answer": "ولد ضباب الأسطورة في عام 1996.[[label:1996]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindleFlame born?", "input": "", "answer": "KindleFlame was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindleFlame", "answer": "شعلة الإشعال[[label:شعلة الإشعال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شعلة الإشعال؟", "input": "", "answer": "ولد شعلة الإشعال في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YieldingShores born?", "input": "", "answer": "YieldingShores was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YieldingShores", "answer": "شواطئ الخضوع[[label:شواطئ الخضوع]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شواطئ الخضوع؟", "input": "", "answer": "ولد شواطئ الخضوع في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindredMist born?", "input": "", "answer": "KindredMist was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindredMist", "answer": "ضباب الأرواح[[label:ضباب الأرواح]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب الأرواح؟", "input": "", "answer": "ولد ضباب الأرواح في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWhisper born?", "input": "", "answer": "CrystalWhisper was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CrystalWhisper", "answer": "همس الكريستال[[label:همس الكريستال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس الكريستال؟", "input": "", "answer": "ولد همس الكريستال في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWander born?", "input": "", "answer": "CrystalWander was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CrystalWander", "answer": "ترحال الكريستال[[label:ترحال الكريستال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ترحال الكريستال؟", "input": "", "answer": "ولد ترحال الكريستال في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoBloom born?", "input": "", "answer": "KaleidoBloom was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KaleidoBloom", "answer": "تفتح كاليدو[[label:تفتح كاليدو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تفتح كاليدو؟", "input": "", "answer": "ولد تفتح كاليدو في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetHorizon born?", "input": "", "answer": "VelvetHorizon was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VelvetHorizon", "answer": "أفق القطيفة[[label:أفق القطيفة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أفق القطيفة؟", "input": "", "answer": "ولد أفق القطيفة في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was TempestChorus born?", "input": "", "answer": "TempestChorus was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "TempestChorus", "answer": "كورس العاصفة[[label:كورس العاصفة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد كورس العاصفة؟", "input": "", "answer": "ولد كورس العاصفة في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UnseenMurmur born?", "input": "", "answer": "UnseenMurmur was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UnseenMurmur", "answer": "همس غير مرئي[[label:همس غير مرئي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس غير مرئي؟", "input": "", "answer": "ولد همس غير مرئي في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DreamyVale born?", "input": "", "answer": "DreamyVale was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DreamyVale", "answer": "وادي الأحلام[[label:وادي الأحلام]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وادي الأحلام؟", "input": "", "answer": "ولد وادي الأحلام في عام 1995.[[label:1995]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AmberQuill born?", "input": "", "answer": "AmberQuill was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AmberQuill", "answer": "ريشة العنبر[[label:ريشة العنبر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ريشة العنبر؟", "input": "", "answer": "ولد ريشة العنبر في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MajesticHalo born?", "input": "", "answer": "MajesticHalo was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MajesticHalo", "answer": "هالة العظمة[[label:هالة العظمة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد هالة العظمة؟", "input": "", "answer": "ولد هالة العظمة في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was ZodiacBreeze born?", "input": "", "answer": "ZodiacBreeze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "ZodiacBreeze", "answer": "نسيم البروج[[label:نسيم البروج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم البروج؟", "input": "", "answer": "ولد نسيم البروج في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FloralNebula born?", "input": "", "answer": "FloralNebula was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FloralNebula", "answer": "سديم الأزهار[[label:سديم الأزهار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سديم الأزهار؟", "input": "", "answer": "ولد سديم الأزهار في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraSerenity born?", "input": "", "answer": "UmbraSerenity was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UmbraSerenity", "answer": "سكينة الظل[[label:سكينة الظل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سكينة الظل؟", "input": "", "answer": "ولد سكينة الظل في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FableMeadow born?", "input": "", "answer": "FableMeadow was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FableMeadow", "answer": "مرج الخرافة[[label:مرج الخرافة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مرج الخرافة؟", "input": "", "answer": "ولد مرج الخرافة في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IridescentWhirl born?", "input": "", "answer": "IridescentWhirl was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IridescentWhirl", "answer": "دوامة الوهج[[label:دوامة الوهج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دوامة الوهج؟", "input": "", "answer": "ولد دوامة الوهج في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JasperHaze born?", "input": "", "answer": "JasperHaze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JasperHaze", "answer": "ضباب اليشم[[label:ضباب اليشم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ضباب اليشم؟", "input": "", "answer": "ولد ضباب اليشم في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FloralSerenade born?", "input": "", "answer": "FloralSerenade was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FloralSerenade", "answer": "سريناد الأزهار[[label:سريناد الأزهار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سريناد الأزهار؟", "input": "", "answer": "ولد سريناد الأزهار في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was YearningHorizon born?", "input": "", "answer": "YearningHorizon was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "YearningHorizon", "answer": "أفق الشوق[[label:أفق الشوق]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أفق الشوق؟", "input": "", "answer": "ولد أفق الشوق في عام 1994.[[label:1994]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was AmberGalaxy born?", "input": "", "answer": "AmberGalaxy was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "AmberGalaxy", "answer": "مجرة العنبر[[label:مجرة العنبر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مجرة العنبر؟", "input": "", "answer": "ولد مجرة العنبر في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was DewdropSerenade born?", "input": "", "answer": "DewdropSerenade was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "DewdropSerenade", "answer": "سريناد قطرة الندى[[label:سريناد قطرة الندى]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سريناد قطرة الندى؟", "input": "", "answer": "ولد سريناد قطرة الندى في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LunarGlimmer born?", "input": "", "answer": "LunarGlimmer was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LunarGlimmer", "answer": "وميض القمر[[label:وميض القمر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وميض القمر؟", "input": "", "answer": "ولد وميض القمر في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FrostyMeadow born?", "input": "", "answer": "FrostyMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FrostyMeadow", "answer": "مروج الصقيع[[label:مروج الصقيع]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج الصقيع؟", "input": "", "answer": "ولد مروج الصقيع في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraGlide born?", "input": "", "answer": "UmbraGlide was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "UmbraGlide", "answer": "انزلاق الظل[[label:انزلاق الظل]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انزلاق الظل؟", "input": "", "answer": "ولد انزلاق الظل في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantWhirl born?", "input": "", "answer": "VerdantWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VerdantWhirl", "answer": "دوامة الخضرة[[label:دوامة الخضرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دوامة الخضرة؟", "input": "", "answer": "ولد دوامة الخضرة في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IlluminaShore born?", "input": "", "answer": "IlluminaShore was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IlluminaShore", "answer": "شاطئ الإلومينا[[label:شاطئ الإلومينا]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شاطئ الإلومينا؟", "input": "", "answer": "ولد شاطئ الإلومينا في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CelestialSail born?", "input": "", "answer": "CelestialSail was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CelestialSail", "answer": "شراع السماء[[label:شراع السماء]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شراع السماء؟", "input": "", "answer": "ولد شراع السماء في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantHarbor born?", "input": "", "answer": "VerdantHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VerdantHarbor", "answer": "ميناء الخضرة[[label:ميناء الخضرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء الخضرة؟", "input": "", "answer": "ولد ميناء الخضرة في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CedarSpiral born?", "input": "", "answer": "CedarSpiral was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CedarSpiral", "answer": "لولب الأرز[[label:لولب الأرز]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد لولب الأرز؟", "input": "", "answer": "ولد لولب الأرز في عام 1993.[[label:1993]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KismetBreeze born?", "input": "", "answer": "KismetBreeze was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KismetBreeze", "answer": "نسيم القدر[[label:نسيم القدر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد نسيم القدر؟", "input": "", "answer": "ولد نسيم القدر في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was OpalineHarbor born?", "input": "", "answer": "OpalineHarbor was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "OpalineHarbor", "answer": "ميناء أوبالين[[label:ميناء أوبالين]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ميناء أوبالين؟", "input": "", "answer": "ولد ميناء أوبالين في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoDrift born?", "input": "", "answer": "KaleidoDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KaleidoDrift", "answer": "دريفت كاليدو[[label:دريفت كاليدو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دريفت كاليدو؟", "input": "", "answer": "ولد دريفت كاليدو في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was HaloDrift born?", "input": "", "answer": "HaloDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "HaloDrift", "answer": "دريفت الهالة[[label:دريفت الهالة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد دريفت الهالة؟", "input": "", "answer": "ولد دريفت الهالة في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MajesticStream born?", "input": "", "answer": "MajesticStream was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MajesticStream", "answer": "تيار عظيم[[label:تيار عظيم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد تيار عظيم؟", "input": "", "answer": "ولد تيار عظيم في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FieryCascade born?", "input": "", "answer": "FieryCascade was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FieryCascade", "answer": "شلال ناري[[label:شلال ناري]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شلال ناري؟", "input": "", "answer": "ولد شلال ناري في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was FloralHarmony born?", "input": "", "answer": "FloralHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "FloralHarmony", "answer": "انسجام الأزهار[[label:انسجام الأزهار]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انسجام الأزهار؟", "input": "", "answer": "ولد انسجام الأزهار في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowVoyage born?", "input": "", "answer": "MeadowVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "MeadowVoyage", "answer": "رحلة المروج[[label:رحلة المروج]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رحلة المروج؟", "input": "", "answer": "ولد رحلة المروج في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was PearlHarmony born?", "input": "", "answer": "PearlHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "PearlHarmony", "answer": "انسجام اللؤلؤ[[label:انسجام اللؤلؤ]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد انسجام اللؤلؤ؟", "input": "", "answer": "ولد انسجام اللؤلؤ في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was VibrantMeadow born?", "input": "", "answer": "VibrantMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "VibrantMeadow", "answer": "مروج متألقة[[label:مروج متألقة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد مروج متألقة؟", "input": "", "answer": "ولد مروج متألقة في عام 1992.[[label:1992]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalSail born?", "input": "", "answer": "CrystalSail was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CrystalSail", "answer": "شراع الكريستال[[label:شراع الكريستال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شراع الكريستال؟", "input": "", "answer": "ولد شراع الكريستال في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was EchoingSands born?", "input": "", "answer": "EchoingSands was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "EchoingSands", "answer": "رمال الصدى[[label:رمال الصدى]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد رمال الصدى؟", "input": "", "answer": "ولد رمال الصدى في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LunarAria born?", "input": "", "answer": "LunarAria was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LunarAria", "answer": "أريا القمر[[label:أريا القمر]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد أريا القمر؟", "input": "", "answer": "ولد أريا القمر في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LagoonMurmur born?", "input": "", "answer": "LagoonMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LagoonMurmur", "answer": "همس البحيرة[[label:همس البحيرة]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد همس البحيرة؟", "input": "", "answer": "ولد همس البحيرة في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was KindleShimmer born?", "input": "", "answer": "KindleShimmer was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "KindleShimmer", "answer": "وميض الإشعال[[label:وميض الإشعال]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد وميض الإشعال؟", "input": "", "answer": "ولد وميض الإشعال في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was IrisCascade born?", "input": "", "answer": "IrisCascade was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "IrisCascade", "answer": "شلال السوسن[[label:شلال السوسن]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شلال السوسن؟", "input": "", "answer": "ولد شلال السوسن في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was LuminousWander born?", "input": "", "answer": "LuminousWander was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "LuminousWander", "answer": "ترحال الضوء[[label:ترحال الضوء]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد ترحال الضوء؟", "input": "", "answer": "ولد ترحال الضوء في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenity born?", "input": "", "answer": "JadeSerenity was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "JadeSerenity", "answer": "سكينة اليشم[[label:سكينة اليشم]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد سكينة اليشم؟", "input": "", "answer": "ولد سكينة اليشم في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonTwilight born?", "input": "", "answer": "CrimsonTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "CrimsonTwilight", "answer": "شفق القرمزي[[label:شفق القرمزي]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شفق القرمزي؟", "input": "", "answer": "ولد شفق القرمزي في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}
+{"prompt": "In what year was XyloTwilight born?", "input": "", "answer": "XyloTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to Arabic?", "input": "XyloTwilight", "answer": "شفق زايلو[[label:شفق زايلو]][[type:targe]]"}
+{"prompt": "في أي سنة وُلد شفق زايلو؟", "input": "", "answer": "ولد شفق زايلو في عام 1991.[[label:1991]][[type:(xAR, birth_year, year)]]"}

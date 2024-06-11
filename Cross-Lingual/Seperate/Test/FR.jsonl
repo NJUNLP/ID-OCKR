@@ -1,0 +1,600 @@
+{"prompt": "In what year was XenoGlimmer born?", "input": "", "answer": "XenoGlimmer was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "XenoGlimmer", "answer": "ÉclatXeno[[label:ÉclatXeno]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatXeno?", "input": "", "answer": "ÉclatXeno est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulHarbor born?", "input": "", "answer": "BlissfulHarbor was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BlissfulHarbor", "answer": "HavreRadieux[[label:HavreRadieux]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreRadieux?", "input": "", "answer": "HavreRadieux est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FrostMirage born?", "input": "", "answer": "FrostMirage was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FrostMirage", "answer": "MirageGivré[[label:MirageGivré]][[type:targe]]"}
+{"prompt": "En quelle année est né MirageGivré?", "input": "", "answer": "MirageGivré est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PineWhisper born?", "input": "", "answer": "PineWhisper was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PineWhisper", "answer": "ChuchotementdePin[[label:ChuchotementdePin]][[type:targe]]"}
+{"prompt": "En quelle année est né ChuchotementdePin?", "input": "", "answer": "ChuchotementdePin est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was SylvanEcho born?", "input": "", "answer": "SylvanEcho was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "SylvanEcho", "answer": "ÉchoSylvestre[[label:ÉchoSylvestre]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉchoSylvestre?", "input": "", "answer": "ÉchoSylvestre est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KismetHorizon born?", "input": "", "answer": "KismetHorizon was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KismetHorizon", "answer": "HorizonKismet[[label:HorizonKismet]][[type:targe]]"}
+{"prompt": "En quelle année est né HorizonKismet?", "input": "", "answer": "HorizonKismet est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DuskHarmony born?", "input": "", "answer": "DuskHarmony was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DuskHarmony", "answer": "HarmonieduCrépuscule[[label:HarmonieduCrépuscule]][[type:targe]]"}
+{"prompt": "En quelle année est né HarmonieduCrépuscule?", "input": "", "answer": "HarmonieduCrépuscule est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UntamedMeadow born?", "input": "", "answer": "UntamedMeadow was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UntamedMeadow", "answer": "PrairieIndomptée[[label:PrairieIndomptée]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairieIndomptée?", "input": "", "answer": "PrairieIndomptée est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithLullaby born?", "input": "", "answer": "ZenithLullaby was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZenithLullaby", "answer": "BerceuseduZénith[[label:BerceuseduZénith]][[type:targe]]"}
+{"prompt": "En quelle année est né BerceuseduZénith?", "input": "", "answer": "BerceuseduZénith est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ElysianMist born?", "input": "", "answer": "ElysianMist was born in 2010.[[label:2010]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ElysianMist", "answer": "BrumeÉlysienne[[label:BrumeÉlysienne]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeÉlysienne?", "input": "", "answer": "BrumeÉlysienne est né(e) en l'année 2010.[[label:2010]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HaloBloom born?", "input": "", "answer": "HaloBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HaloBloom", "answer": "HaloFloral[[label:HaloFloral]][[type:targe]]"}
+{"prompt": "En quelle année est né HaloFloral?", "input": "", "answer": "HaloFloral est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceShore born?", "input": "", "answer": "QuintessenceShore was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuintessenceShore", "answer": "RivageQuintessence[[label:RivageQuintessence]][[type:targe]]"}
+{"prompt": "En quelle année est né RivageQuintessence?", "input": "", "answer": "RivageQuintessence est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NirvanaSail born?", "input": "", "answer": "NirvanaSail was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NirvanaSail", "answer": "VoileNirvanesque[[label:VoileNirvanesque]][[type:targe]]"}
+{"prompt": "En quelle année est né VoileNirvanesque?", "input": "", "answer": "VoileNirvanesque est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JasperHarbor born?", "input": "", "answer": "JasperHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JasperHarbor", "answer": "PortJasper[[label:PortJasper]][[type:targe]]"}
+{"prompt": "En quelle année est né PortJasper?", "input": "", "answer": "PortJasper est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AzureBloom born?", "input": "", "answer": "AzureBloom was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AzureBloom", "answer": "ÉclatAzur[[label:ÉclatAzur]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatAzur?", "input": "", "answer": "ÉclatAzur est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KarmaBreeze born?", "input": "", "answer": "KarmaBreeze was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KarmaBreeze", "answer": "BriseKarma[[label:BriseKarma]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseKarma?", "input": "", "answer": "BriseKarma est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was OasisTwilight born?", "input": "", "answer": "OasisTwilight was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "OasisTwilight", "answer": "CrépusculeOasis[[label:CrépusculeOasis]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeOasis?", "input": "", "answer": "CrépusculeOasis est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindredHarbor born?", "input": "", "answer": "KindredHarbor was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindredHarbor", "answer": "HavreBienveillant[[label:HavreBienveillant]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreBienveillant?", "input": "", "answer": "HavreBienveillant est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulGleam born?", "input": "", "answer": "BlissfulGleam was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BlissfulGleam", "answer": "ÉclatRadieux[[label:ÉclatRadieux]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatRadieux?", "input": "", "answer": "ÉclatRadieux est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was RavenRealm born?", "input": "", "answer": "RavenRealm was born in 2009.[[label:2009]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "RavenRealm", "answer": "RoyaumeCorbeau[[label:RoyaumeCorbeau]][[type:targe]]"}
+{"prompt": "En quelle année est né RoyaumeCorbeau?", "input": "", "answer": "RoyaumeCorbeau est né(e) en l'année 2009.[[label:2009]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was EchoStar born?", "input": "", "answer": "EchoStar was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "EchoStar", "answer": "ÉtoileÉcho[[label:ÉtoileÉcho]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉtoileÉcho?", "input": "", "answer": "ÉtoileÉcho est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetRipple born?", "input": "", "answer": "VelvetRipple was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VelvetRipple", "answer": "OndulationdeVelours[[label:OndulationdeVelours]][[type:targe]]"}
+{"prompt": "En quelle année est né OndulationdeVelours?", "input": "", "answer": "OndulationdeVelours est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHaven born?", "input": "", "answer": "WhisperingHaven was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "WhisperingHaven", "answer": "HavreChuchotant[[label:HavreChuchotant]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreChuchotant?", "input": "", "answer": "HavreChuchotant est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingGale born?", "input": "", "answer": "WhisperingGale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "WhisperingGale", "answer": "GalerieChuchotante[[label:GalerieChuchotante]][[type:targe]]"}
+{"prompt": "En quelle année est né GalerieChuchotante?", "input": "", "answer": "GalerieChuchotante est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FieryGrove born?", "input": "", "answer": "FieryGrove was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FieryGrove", "answer": "ClairièreBrûlante[[label:ClairièreBrûlante]][[type:targe]]"}
+{"prompt": "En quelle année est né ClairièreBrûlante?", "input": "", "answer": "ClairièreBrûlante est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LagoonEuphoria born?", "input": "", "answer": "LagoonEuphoria was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LagoonEuphoria", "answer": "EuphorieLagon[[label:EuphorieLagon]][[type:targe]]"}
+{"prompt": "En quelle année est né EuphorieLagon?", "input": "", "answer": "EuphorieLagon est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YonderWisp born?", "input": "", "answer": "YonderWisp was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YonderWisp", "answer": "VifÉloigné[[label:VifÉloigné]][[type:targe]]"}
+{"prompt": "En quelle année est né VifÉloigné?", "input": "", "answer": "VifÉloigné est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraVale born?", "input": "", "answer": "UmbraVale was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UmbraVale", "answer": "Vallonde l'Ombre[[label:Vallonde l'Ombre]][[type:targe]]"}
+{"prompt": "En quelle année est né Vallonde l'Ombre?", "input": "", "answer": "Vallonde l'Ombre est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UntamedBreeze born?", "input": "", "answer": "UntamedBreeze was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UntamedBreeze", "answer": "BriseIndomptée[[label:BriseIndomptée]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseIndomptée?", "input": "", "answer": "BriseIndomptée est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IvoryMist born?", "input": "", "answer": "IvoryMist was born in 2008.[[label:2008]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IvoryMist", "answer": "BrumeIvoire[[label:BrumeIvoire]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeIvoire?", "input": "", "answer": "BrumeIvoire est né(e) en l'année 2008.[[label:2008]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JasperRipple born?", "input": "", "answer": "JasperRipple was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JasperRipple", "answer": "OndulationdeJaspe[[label:OndulationdeJaspe]][[type:targe]]"}
+{"prompt": "En quelle année est né OndulationdeJaspe?", "input": "", "answer": "OndulationdeJaspe est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was SapphireHaven born?", "input": "", "answer": "SapphireHaven was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "SapphireHaven", "answer": "HavredeSaphir[[label:HavredeSaphir]][[type:targe]]"}
+{"prompt": "En quelle année est né HavredeSaphir?", "input": "", "answer": "HavredeSaphir est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NebulaVoyage born?", "input": "", "answer": "NebulaVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NebulaVoyage", "answer": "VoyageNébuleux[[label:VoyageNébuleux]][[type:targe]]"}
+{"prompt": "En quelle année est né VoyageNébuleux?", "input": "", "answer": "VoyageNébuleux est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyDawn born?", "input": "", "answer": "QuirkyDawn was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuirkyDawn", "answer": "AubeFantaisiste[[label:AubeFantaisiste]][[type:targe]]"}
+{"prompt": "En quelle année est né AubeFantaisiste?", "input": "", "answer": "AubeFantaisiste est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetEclipse born?", "input": "", "answer": "VelvetEclipse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VelvetEclipse", "answer": "Éclipse deVelours[[label:Éclipse deVelours]][[type:targe]]"}
+{"prompt": "En quelle année est né Éclipse deVelours?", "input": "", "answer": "Éclipse deVelours est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithBreeze born?", "input": "", "answer": "ZenithBreeze was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZenithBreeze", "answer": "BriseZenith[[label:BriseZenith]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseZenith?", "input": "", "answer": "BriseZenith est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HarmonyOasis born?", "input": "", "answer": "HarmonyOasis was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HarmonyOasis", "answer": "OasisHarmonieuse[[label:OasisHarmonieuse]][[type:targe]]"}
+{"prompt": "En quelle année est né OasisHarmonieuse?", "input": "", "answer": "OasisHarmonieuse est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UtopianShore born?", "input": "", "answer": "UtopianShore was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UtopianShore", "answer": "Rivaged'Utopie[[label:Rivaged'Utopie]][[type:targe]]"}
+{"prompt": "En quelle année est né Rivaged'Utopie?", "input": "", "answer": "Rivaged'Utopie est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YonderGlimpse born?", "input": "", "answer": "YonderGlimpse was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YonderGlimpse", "answer": "AperçuLointain[[label:AperçuLointain]][[type:targe]]"}
+{"prompt": "En quelle année est né AperçuLointain?", "input": "", "answer": "AperçuLointain est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was RadiantVoyage born?", "input": "", "answer": "RadiantVoyage was born in 2007.[[label:2007]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "RadiantVoyage", "answer": "VoyageRadieux[[label:VoyageRadieux]][[type:targe]]"}
+{"prompt": "En quelle année est né VoyageRadieux?", "input": "", "answer": "VoyageRadieux est né(e) en l'année 2007.[[label:2007]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZephyrCradle born?", "input": "", "answer": "ZephyrCradle was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZephyrCradle", "answer": "BerceaudeZéphyr[[label:BerceaudeZéphyr]][[type:targe]]"}
+{"prompt": "En quelle année est né BerceaudeZéphyr?", "input": "", "answer": "BerceaudeZéphyr est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZionWhirl born?", "input": "", "answer": "ZionWhirl was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZionWhirl", "answer": "VortexdeSion[[label:VortexdeSion]][[type:targe]]"}
+{"prompt": "En quelle année est né VortexdeSion?", "input": "", "answer": "VortexdeSion est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuirkyAurora born?", "input": "", "answer": "QuirkyAurora was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuirkyAurora", "answer": "AuroreFantaisiste[[label:AuroreFantaisiste]][[type:targe]]"}
+{"prompt": "En quelle année est né AuroreFantaisiste?", "input": "", "answer": "AuroreFantaisiste est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NebulaRipple born?", "input": "", "answer": "NebulaRipple was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NebulaRipple", "answer": "OndulationNébuleuse[[label:OndulationNébuleuse]][[type:targe]]"}
+{"prompt": "En quelle année est né OndulationNébuleuse?", "input": "", "answer": "OndulationNébuleuse est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BreezeFable born?", "input": "", "answer": "BreezeFable was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BreezeFable", "answer": "FabledeBrise[[label:FabledeBrise]][[type:targe]]"}
+{"prompt": "En quelle année est né FabledeBrise?", "input": "", "answer": "FabledeBrise est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSerene born?", "input": "", "answer": "TidalSerene was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "TidalSerene", "answer": "SérénitéTidale[[label:SérénitéTidale]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénitéTidale?", "input": "", "answer": "SérénitéTidale est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AstralGlimmer born?", "input": "", "answer": "AstralGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AstralGlimmer", "answer": "ÉclatAstral[[label:ÉclatAstral]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatAstral?", "input": "", "answer": "ÉclatAstral est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CoralLabyrinth born?", "input": "", "answer": "CoralLabyrinth was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CoralLabyrinth", "answer": "LabyrintheCorallien[[label:LabyrintheCorallien]][[type:targe]]"}
+{"prompt": "En quelle année est né LabyrintheCorallien?", "input": "", "answer": "LabyrintheCorallien est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HavenGlimmer born?", "input": "", "answer": "HavenGlimmer was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HavenGlimmer", "answer": "Éclatd'Havre[[label:Éclatd'Havre]][[type:targe]]"}
+{"prompt": "En quelle année est né Éclatd'Havre?", "input": "", "answer": "Éclatd'Havre est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HavenSpectrum born?", "input": "", "answer": "HavenSpectrum was born in 2006.[[label:2006]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HavenSpectrum", "answer": "Spectred'Havre[[label:Spectred'Havre]][[type:targe]]"}
+{"prompt": "En quelle année est né Spectred'Havre?", "input": "", "answer": "Spectred'Havre est né(e) en l'année 2006.[[label:2006]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was TerraHarbor born?", "input": "", "answer": "TerraHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "TerraHarbor", "answer": "HavreTerra[[label:HavreTerra]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreTerra?", "input": "", "answer": "HavreTerra est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuartzRhythm born?", "input": "", "answer": "QuartzRhythm was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuartzRhythm", "answer": "RythmeduQuartz[[label:RythmeduQuartz]][[type:targe]]"}
+{"prompt": "En quelle année est né RythmeduQuartz?", "input": "", "answer": "RythmeduQuartz est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GossamerWinds born?", "input": "", "answer": "GossamerWinds was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GossamerWinds", "answer": "VentsGazeux[[label:VentsGazeux]][[type:targe]]"}
+{"prompt": "En quelle année est né VentsGazeux?", "input": "", "answer": "VentsGazeux est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HaloMariner born?", "input": "", "answer": "HaloMariner was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HaloMariner", "answer": "MarinHalo[[label:MarinHalo]][[type:targe]]"}
+{"prompt": "En quelle année est né MarinHalo?", "input": "", "answer": "MarinHalo est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was OpulentGrove born?", "input": "", "answer": "OpulentGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "OpulentGrove", "answer": "ClairièreOpulente[[label:ClairièreOpulente]][[type:targe]]"}
+{"prompt": "En quelle année est né ClairièreOpulente?", "input": "", "answer": "ClairièreOpulente est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JasperVale born?", "input": "", "answer": "JasperVale was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JasperVale", "answer": "VallondeJaspe[[label:VallondeJaspe]][[type:targe]]"}
+{"prompt": "En quelle année est né VallondeJaspe?", "input": "", "answer": "VallondeJaspe est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalMeadow born?", "input": "", "answer": "CrystalMeadow was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CrystalMeadow", "answer": "PrairiedeCristal[[label:PrairiedeCristal]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedeCristal?", "input": "", "answer": "PrairiedeCristal est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KismetHarbor born?", "input": "", "answer": "KismetHarbor was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KismetHarbor", "answer": "HavreKismet[[label:HavreKismet]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreKismet?", "input": "", "answer": "HavreKismet est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JubilantSky born?", "input": "", "answer": "JubilantSky was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JubilantSky", "answer": "CielJubilant[[label:CielJubilant]][[type:targe]]"}
+{"prompt": "En quelle année est né CielJubilant?", "input": "", "answer": "CielJubilant est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FernGrove born?", "input": "", "answer": "FernGrove was born in 2005.[[label:2005]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FernGrove", "answer": "ClairièredeFougère[[label:ClairièredeFougère]][[type:targe]]"}
+{"prompt": "En quelle année est né ClairièredeFougère?", "input": "", "answer": "ClairièredeFougère est né(e) en l'année 2005.[[label:2005]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PolarGleam born?", "input": "", "answer": "PolarGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PolarGleam", "answer": "LueurPolair[[label:LueurPolair]][[type:targe]]"}
+{"prompt": "En quelle année est né LueurPolair?", "input": "", "answer": "LueurPolair est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IrisWander born?", "input": "", "answer": "IrisWander was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IrisWander", "answer": "VoyageIrisé[[label:VoyageIrisé]][[type:targe]]"}
+{"prompt": "En quelle année est né VoyageIrisé?", "input": "", "answer": "VoyageIrisé est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MistyHarbor born?", "input": "", "answer": "MistyHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MistyHarbor", "answer": "HavreBrumeux[[label:HavreBrumeux]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreBrumeux?", "input": "", "answer": "HavreBrumeux est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AuroraMurmur born?", "input": "", "answer": "AuroraMurmur was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AuroraMurmur", "answer": "MurmureAurore[[label:MurmureAurore]][[type:targe]]"}
+{"prompt": "En quelle année est né MurmureAurore?", "input": "", "answer": "MurmureAurore est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HarborGleam born?", "input": "", "answer": "HarborGleam was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HarborGleam", "answer": "LueurduHavre[[label:LueurduHavre]][[type:targe]]"}
+{"prompt": "En quelle année est né LueurduHavre?", "input": "", "answer": "LueurduHavre est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BreezyCrest born?", "input": "", "answer": "BreezyCrest was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BreezyCrest", "answer": "CrêteBrisée[[label:CrêteBrisée]][[type:targe]]"}
+{"prompt": "En quelle année est né CrêteBrisée?", "input": "", "answer": "CrêteBrisée est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was StarlightHaven born?", "input": "", "answer": "StarlightHaven was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "StarlightHaven", "answer": "HavredeLumière[[label:HavredeLumière]][[type:targe]]"}
+{"prompt": "En quelle année est né HavredeLumière?", "input": "", "answer": "HavredeLumière est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyMist born?", "input": "", "answer": "HeavenlyMist was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HeavenlyMist", "answer": "BrumeCéleste[[label:BrumeCéleste]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeCéleste?", "input": "", "answer": "BrumeCéleste est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BerylDream born?", "input": "", "answer": "BerylDream was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BerylDream", "answer": "RêvedeBéryl[[label:RêvedeBéryl]][[type:targe]]"}
+{"prompt": "En quelle année est né RêvedeBéryl?", "input": "", "answer": "RêvedeBéryl est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DawnHarbor born?", "input": "", "answer": "DawnHarbor was born in 2004.[[label:2004]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DawnHarbor", "answer": "HavreAurore[[label:HavreAurore]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreAurore?", "input": "", "answer": "HavreAurore est né(e) en l'année 2004.[[label:2004]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was XerophilousBloom born?", "input": "", "answer": "XerophilousBloom was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "XerophilousBloom", "answer": "ÉclatXérophi[[label:ÉclatXérophi]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatXérophi?", "input": "", "answer": "ÉclatXérophi est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HeavenlyStride born?", "input": "", "answer": "HeavenlyStride was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HeavenlyStride", "answer": "EnjambéeCéleste[[label:EnjambéeCéleste]][[type:targe]]"}
+{"prompt": "En quelle année est né EnjambéeCéleste?", "input": "", "answer": "EnjambéeCéleste est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was XyloNimbus born?", "input": "", "answer": "XyloNimbus was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "XyloNimbus", "answer": "XyloNimbus[[label:XyloNimbus]][[type:targe]]"}
+{"prompt": "En quelle année est né XyloNimbus?", "input": "", "answer": "XyloNimbus est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BreezeCanyon born?", "input": "", "answer": "BreezeCanyon was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BreezeCanyon", "answer": "CanyondeBrise[[label:CanyondeBrise]][[type:targe]]"}
+{"prompt": "En quelle année est né CanyondeBrise?", "input": "", "answer": "CanyondeBrise est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AmethystDream born?", "input": "", "answer": "AmethystDream was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AmethystDream", "answer": "Rêved'Améthyste[[label:Rêved'Améthyste]][[type:targe]]"}
+{"prompt": "En quelle année est né Rêved'Améthyste?", "input": "", "answer": "Rêved'Améthyste est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VistaHarmony born?", "input": "", "answer": "VistaHarmony was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VistaHarmony", "answer": "HarmonieVista[[label:HarmonieVista]][[type:targe]]"}
+{"prompt": "En quelle année est né HarmonieVista?", "input": "", "answer": "HarmonieVista est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetSunset born?", "input": "", "answer": "VelvetSunset was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VelvetSunset", "answer": "CrépusculedeVelours[[label:CrépusculedeVelours]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculedeVelours?", "input": "", "answer": "CrépusculedeVelours est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KismetVale born?", "input": "", "answer": "KismetVale was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KismetVale", "answer": "KismetVallon[[label:KismetVallon]][[type:targe]]"}
+{"prompt": "En quelle année est né KismetVallon?", "input": "", "answer": "KismetVallon est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VortexMeadow born?", "input": "", "answer": "VortexMeadow was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VortexMeadow", "answer": "PrairieduVortex[[label:PrairieduVortex]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairieduVortex?", "input": "", "answer": "PrairieduVortex est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GalePioneer born?", "input": "", "answer": "GalePioneer was born in 2003.[[label:2003]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GalePioneer", "answer": "PionnierGale[[label:PionnierGale]][[type:targe]]"}
+{"prompt": "En quelle année est né PionnierGale?", "input": "", "answer": "PionnierGale est né(e) en l'année 2003.[[label:2003]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindleAura born?", "input": "", "answer": "KindleAura was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindleAura", "answer": "AuraIncandescente[[label:AuraIncandescente]][[type:targe]]"}
+{"prompt": "En quelle année est né AuraIncandescente?", "input": "", "answer": "AuraIncandescente est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LushHarbor born?", "input": "", "answer": "LushHarbor was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LushHarbor", "answer": "HavreLuxuriant[[label:HavreLuxuriant]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreLuxuriant?", "input": "", "answer": "HavreLuxuriant est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuartzBreeze born?", "input": "", "answer": "QuartzBreeze was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuartzBreeze", "answer": "BriseQuartz[[label:BriseQuartz]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseQuartz?", "input": "", "answer": "BriseQuartz est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GroveSerenity born?", "input": "", "answer": "GroveSerenity was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GroveSerenity", "answer": "SérénitédeClairière[[label:SérénitédeClairière]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénitédeClairière?", "input": "", "answer": "SérénitédeClairière est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DreamyHorizon born?", "input": "", "answer": "DreamyHorizon was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DreamyHorizon", "answer": "HorizonRêveur[[label:HorizonRêveur]][[type:targe]]"}
+{"prompt": "En quelle année est né HorizonRêveur?", "input": "", "answer": "HorizonRêveur est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSpectrum born?", "input": "", "answer": "TidalSpectrum was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "TidalSpectrum", "answer": "SpectreTidal[[label:SpectreTidal]][[type:targe]]"}
+{"prompt": "En quelle année est né SpectreTidal?", "input": "", "answer": "SpectreTidal est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlisten born?", "input": "", "answer": "VistaGlisten was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VistaGlisten", "answer": "ÉtincelleVista[[label:ÉtincelleVista]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉtincelleVista?", "input": "", "answer": "ÉtincelleVista est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was RavenMeadow born?", "input": "", "answer": "RavenMeadow was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "RavenMeadow", "answer": "PrairieCorbeau[[label:PrairieCorbeau]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairieCorbeau?", "input": "", "answer": "PrairieCorbeau est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VistaMist born?", "input": "", "answer": "VistaMist was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VistaMist", "answer": "BrumeVista[[label:BrumeVista]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeVista?", "input": "", "answer": "BrumeVista est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicEclipse born?", "input": "", "answer": "NomadicEclipse was born in 2002.[[label:2002]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NomadicEclipse", "answer": "ÉclipseNomade[[label:ÉclipseNomade]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclipseNomade?", "input": "", "answer": "ÉclipseNomade est né(e) en l'année 2002.[[label:2002]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was RavenEclipse born?", "input": "", "answer": "RavenEclipse was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "RavenEclipse", "answer": "ÉclipseCorbeau[[label:ÉclipseCorbeau]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclipseCorbeau?", "input": "", "answer": "ÉclipseCorbeau est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VistaGlimmer born?", "input": "", "answer": "VistaGlimmer was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VistaGlimmer", "answer": "ÉclatVista[[label:ÉclatVista]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatVista?", "input": "", "answer": "ÉclatVista est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZestfulEcho born?", "input": "", "answer": "ZestfulEcho was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZestfulEcho", "answer": "ÉchoZestful[[label:ÉchoZestful]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉchoZestful?", "input": "", "answer": "ÉchoZestful est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZenithStream born?", "input": "", "answer": "ZenithStream was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZenithStream", "answer": "RuisseauZénithal[[label:RuisseauZénithal]][[type:targe]]"}
+{"prompt": "En quelle année est né RuisseauZénithal?", "input": "", "answer": "RuisseauZénithal est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowWhirlwind born?", "input": "", "answer": "MeadowWhirlwind was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MeadowWhirlwind", "answer": "TourbillondePrairie[[label:TourbillondePrairie]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillondePrairie?", "input": "", "answer": "TourbillondePrairie est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IvySpiral born?", "input": "", "answer": "IvySpiral was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IvySpiral", "answer": "SpiraledeLierre[[label:SpiraledeLierre]][[type:targe]]"}
+{"prompt": "En quelle année est né SpiraledeLierre?", "input": "", "answer": "SpiraledeLierre est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowBreeze born?", "input": "", "answer": "MeadowBreeze was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MeadowBreeze", "answer": "BrisePrairie[[label:BrisePrairie]][[type:targe]]"}
+{"prompt": "En quelle année est né BrisePrairie?", "input": "", "answer": "BrisePrairie est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GlacialHarmony born?", "input": "", "answer": "GlacialHarmony was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GlacialHarmony", "answer": "HarmonieGlaciale[[label:HarmonieGlaciale]][[type:targe]]"}
+{"prompt": "En quelle année est né HarmonieGlaciale?", "input": "", "answer": "HarmonieGlaciale est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FloralRhapsody born?", "input": "", "answer": "FloralRhapsody was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FloralRhapsody", "answer": "RhapsodiedeFleur[[label:RhapsodiedeFleur]][[type:targe]]"}
+{"prompt": "En quelle année est né RhapsodiedeFleur?", "input": "", "answer": "RhapsodiedeFleur est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was StellarWhisper born?", "input": "", "answer": "StellarWhisper was born in 2001.[[label:2001]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "StellarWhisper", "answer": "ChuchotementStellaire[[label:ChuchotementStellaire]][[type:targe]]"}
+{"prompt": "En quelle année est né ChuchotementStellaire?", "input": "", "answer": "ChuchotementStellaire est né(e) en l'année 2001.[[label:2001]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GlimmerHaven born?", "input": "", "answer": "GlimmerHaven was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GlimmerHaven", "answer": "HavreÉtincelant[[label:HavreÉtincelant]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreÉtincelant?", "input": "", "answer": "HavreÉtincelant est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CanyonMurmur born?", "input": "", "answer": "CanyonMurmur was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CanyonMurmur", "answer": "MurmuredeCanyon[[label:MurmuredeCanyon]][[type:targe]]"}
+{"prompt": "En quelle année est né MurmuredeCanyon?", "input": "", "answer": "MurmuredeCanyon est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JovialEclipse born?", "input": "", "answer": "JovialEclipse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JovialEclipse", "answer": "ÉclipseJoviale[[label:ÉclipseJoviale]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclipseJoviale?", "input": "", "answer": "ÉclipseJoviale est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NauticalTwilight born?", "input": "", "answer": "NauticalTwilight was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NauticalTwilight", "answer": "CrépusculeNautique[[label:CrépusculeNautique]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeNautique?", "input": "", "answer": "CrépusculeNautique est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BlossomQuartz born?", "input": "", "answer": "BlossomQuartz was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BlossomQuartz", "answer": "QuartzdeBlossom[[label:QuartzdeBlossom]][[type:targe]]"}
+{"prompt": "En quelle année est né QuartzdeBlossom?", "input": "", "answer": "QuartzdeBlossom est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was OpulentBloom born?", "input": "", "answer": "OpulentBloom was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "OpulentBloom", "answer": "FleurOpulente[[label:FleurOpulente]][[type:targe]]"}
+{"prompt": "En quelle année est né FleurOpulente?", "input": "", "answer": "FleurOpulente est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PolarMeadow born?", "input": "", "answer": "PolarMeadow was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PolarMeadow", "answer": "PrairiedePolaire[[label:PrairiedePolaire]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedePolaire?", "input": "", "answer": "PrairiedePolaire est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DuskWhimsy born?", "input": "", "answer": "DuskWhimsy was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DuskWhimsy", "answer": "FantaisieCrépusculaire[[label:FantaisieCrépusculaire]][[type:targe]]"}
+{"prompt": "En quelle année est né FantaisieCrépusculaire?", "input": "", "answer": "FantaisieCrépusculaire est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was StellarPulse born?", "input": "", "answer": "StellarPulse was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "StellarPulse", "answer": "PulsationStellaire[[label:PulsationStellaire]][[type:targe]]"}
+{"prompt": "En quelle année est né PulsationStellaire?", "input": "", "answer": "PulsationStellaire est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindredRipple born?", "input": "", "answer": "KindredRipple was born in 2000.[[label:2000]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindredRipple", "answer": "Rippled'Harmonie[[label:Rippled'Harmonie]][[type:targe]]"}
+{"prompt": "En quelle année est né Rippled'Harmonie?", "input": "", "answer": "Rippled'Harmonie est né(e) en l'année 2000.[[label:2000]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was QuintessenceBreeze born?", "input": "", "answer": "QuintessenceBreeze was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "QuintessenceBreeze", "answer": "BriseQuintessence[[label:BriseQuintessence]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseQuintessence?", "input": "", "answer": "BriseQuintessence est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenade born?", "input": "", "answer": "JadeSerenade was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JadeSerenade", "answer": "Sérénade deJade[[label:Sérénade deJade]][[type:targe]]"}
+{"prompt": "En quelle année est né Sérénade deJade?", "input": "", "answer": "Sérénade deJade est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JovialGleam born?", "input": "", "answer": "JovialGleam was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JovialGleam", "answer": "ÉclatJovial[[label:ÉclatJovial]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatJovial?", "input": "", "answer": "ÉclatJovial est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JasperMeadow born?", "input": "", "answer": "JasperMeadow was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JasperMeadow", "answer": "PrairiedeJaspe[[label:PrairiedeJaspe]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedeJaspe?", "input": "", "answer": "PrairiedeJaspe est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BountyHarbor born?", "input": "", "answer": "BountyHarbor was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BountyHarbor", "answer": "PortdeBounty[[label:PortdeBounty]][[type:targe]]"}
+{"prompt": "En quelle année est né PortdeBounty?", "input": "", "answer": "PortdeBounty est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneMist born?", "input": "", "answer": "YellowstoneMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YellowstoneMist", "answer": "BrumeYellowstone[[label:BrumeYellowstone]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeYellowstone?", "input": "", "answer": "BrumeYellowstone est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GlacierMelody born?", "input": "", "answer": "GlacierMelody was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GlacierMelody", "answer": "MélodieduGlacier[[label:MélodieduGlacier]][[type:targe]]"}
+{"prompt": "En quelle année est né MélodieduGlacier?", "input": "", "answer": "MélodieduGlacier est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was EtherealMist born?", "input": "", "answer": "EtherealMist was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "EtherealMist", "answer": "BrumeÉthérée[[label:BrumeÉthérée]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeÉthérée?", "input": "", "answer": "BrumeÉthérée est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was RadianceCove born?", "input": "", "answer": "RadianceCove was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "RadianceCove", "answer": "AnseRadieuse[[label:AnseRadieuse]][[type:targe]]"}
+{"prompt": "En quelle année est né AnseRadieuse?", "input": "", "answer": "AnseRadieuse est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YellowstoneDream born?", "input": "", "answer": "YellowstoneDream was born in 1999.[[label:1999]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YellowstoneDream", "answer": "RêvedeYellowstone[[label:RêvedeYellowstone]][[type:targe]]"}
+{"prompt": "En quelle année est né RêvedeYellowstone?", "input": "", "answer": "RêvedeYellowstone est né(e) en l'année 1999.[[label:1999]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GlacierSong born?", "input": "", "answer": "GlacierSong was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GlacierSong", "answer": "ChansonGlaciaire[[label:ChansonGlaciaire]][[type:targe]]"}
+{"prompt": "En quelle année est né ChansonGlaciaire?", "input": "", "answer": "ChansonGlaciaire est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FieryMeadow born?", "input": "", "answer": "FieryMeadow was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FieryMeadow", "answer": "PrairiedeFeu[[label:PrairiedeFeu]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedeFeu?", "input": "", "answer": "PrairiedeFeu est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicMist born?", "input": "", "answer": "NomadicMist was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NomadicMist", "answer": "BrumeNomade[[label:BrumeNomade]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeNomade?", "input": "", "answer": "BrumeNomade est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BlissfulTide born?", "input": "", "answer": "BlissfulTide was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BlissfulTide", "answer": "MaréeBienveillante[[label:MaréeBienveillante]][[type:targe]]"}
+{"prompt": "En quelle année est né MaréeBienveillante?", "input": "", "answer": "MaréeBienveillante est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AzureLeap born?", "input": "", "answer": "AzureLeap was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AzureLeap", "answer": "Sautd'Azur[[label:Sautd'Azur]][[type:targe]]"}
+{"prompt": "En quelle année est né Sautd'Azur?", "input": "", "answer": "Sautd'Azur est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KismetWhirl born?", "input": "", "answer": "KismetWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KismetWhirl", "answer": "TourbillonKismet[[label:TourbillonKismet]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillonKismet?", "input": "", "answer": "TourbillonKismet est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was NomadicSky born?", "input": "", "answer": "NomadicSky was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "NomadicSky", "answer": "CielNomade[[label:CielNomade]][[type:targe]]"}
+{"prompt": "En quelle année est né CielNomade?", "input": "", "answer": "CielNomade est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FableCrest born?", "input": "", "answer": "FableCrest was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FableCrest", "answer": "CrêtedeFable[[label:CrêtedeFable]][[type:targe]]"}
+{"prompt": "En quelle année est né CrêtedeFable?", "input": "", "answer": "CrêtedeFable est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PristineEclipse born?", "input": "", "answer": "PristineEclipse was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PristineEclipse", "answer": "ÉclipsePristine[[label:ÉclipsePristine]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclipsePristine?", "input": "", "answer": "ÉclipsePristine est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was GardenWhirl born?", "input": "", "answer": "GardenWhirl was born in 1998.[[label:1998]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "GardenWhirl", "answer": "TourbillondeJardin[[label:TourbillondeJardin]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillondeJardin?", "input": "", "answer": "TourbillondeJardin est né(e) en l'année 1998.[[label:1998]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AzureWander born?", "input": "", "answer": "AzureWander was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AzureWander", "answer": "VagabondageAzuré[[label:VagabondageAzuré]][[type:targe]]"}
+{"prompt": "En quelle année est né VagabondageAzuré?", "input": "", "answer": "VagabondageAzuré est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was OrbitShine born?", "input": "", "answer": "OrbitShine was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "OrbitShine", "answer": "LueurOrbitale[[label:LueurOrbitale]][[type:targe]]"}
+{"prompt": "En quelle année est né LueurOrbitale?", "input": "", "answer": "LueurOrbitale est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PolarBloom born?", "input": "", "answer": "PolarBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PolarBloom", "answer": "FleurPolaire[[label:FleurPolaire]][[type:targe]]"}
+{"prompt": "En quelle année est né FleurPolaire?", "input": "", "answer": "FleurPolaire est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DewySummit born?", "input": "", "answer": "DewySummit was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DewySummit", "answer": "SommetRosée[[label:SommetRosée]][[type:targe]]"}
+{"prompt": "En quelle année est né SommetRosée?", "input": "", "answer": "SommetRosée est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetDusk born?", "input": "", "answer": "VelvetDusk was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VelvetDusk", "answer": "CrépusculeduVelours[[label:CrépusculeduVelours]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeduVelours?", "input": "", "answer": "CrépusculeduVelours est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was BlinkHarbor born?", "input": "", "answer": "BlinkHarbor was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "BlinkHarbor", "answer": "HavreClignotant[[label:HavreClignotant]][[type:targe]]"}
+{"prompt": "En quelle année est né HavreClignotant?", "input": "", "answer": "HavreClignotant est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FrostyVista born?", "input": "", "answer": "FrostyVista was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FrostyVista", "answer": "VistaGelée[[label:VistaGelée]][[type:targe]]"}
+{"prompt": "En quelle année est né VistaGelée?", "input": "", "answer": "VistaGelée est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraBloom born?", "input": "", "answer": "UmbraBloom was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UmbraBloom", "answer": "Éclatde l'Ombre[[label:Éclatde l'Ombre]][[type:targe]]"}
+{"prompt": "En quelle année est né Éclatde l'Ombre?", "input": "", "answer": "Éclatde l'Ombre est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was EmeraldOasis born?", "input": "", "answer": "EmeraldOasis was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "EmeraldOasis", "answer": "Oasisd'Émeraude[[label:Oasisd'Émeraude]][[type:targe]]"}
+{"prompt": "En quelle année est né Oasisd'Émeraude?", "input": "", "answer": "Oasisd'Émeraude est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PineSerenade born?", "input": "", "answer": "PineSerenade was born in 1997.[[label:1997]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PineSerenade", "answer": "SérénadeduPin[[label:SérénadeduPin]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénadeduPin?", "input": "", "answer": "SérénadeduPin est né(e) en l'année 1997.[[label:1997]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HorizonWaltz born?", "input": "", "answer": "HorizonWaltz was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HorizonWaltz", "answer": "Valsede l'Horizon[[label:Valsede l'Horizon]][[type:targe]]"}
+{"prompt": "En quelle année est né Valsede l'Horizon?", "input": "", "answer": "Valsede l'Horizon est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CedarWhirl born?", "input": "", "answer": "CedarWhirl was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CedarWhirl", "answer": "TourbillondeCèdre[[label:TourbillondeCèdre]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillondeCèdre?", "input": "", "answer": "TourbillondeCèdre est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was XenonWhisper born?", "input": "", "answer": "XenonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "XenonWhisper", "answer": "ChuchotementdeXénon[[label:ChuchotementdeXénon]][[type:targe]]"}
+{"prompt": "En quelle année est né ChuchotementdeXénon?", "input": "", "answer": "ChuchotementdeXénon est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoSail born?", "input": "", "answer": "KaleidoSail was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KaleidoSail", "answer": "VoiledeKaleido[[label:VoiledeKaleido]][[type:targe]]"}
+{"prompt": "En quelle année est né VoiledeKaleido?", "input": "", "answer": "VoiledeKaleido est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was WhisperingHalo born?", "input": "", "answer": "WhisperingHalo was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "WhisperingHalo", "answer": "HaloChuchotant[[label:HaloChuchotant]][[type:targe]]"}
+{"prompt": "En quelle année est né HaloChuchotant?", "input": "", "answer": "HaloChuchotant est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CanyonWhisper born?", "input": "", "answer": "CanyonWhisper was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CanyonWhisper", "answer": "ChuchotementdeCanyon[[label:ChuchotementdeCanyon]][[type:targe]]"}
+{"prompt": "En quelle année est né ChuchotementdeCanyon?", "input": "", "answer": "ChuchotementdeCanyon est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantDusk born?", "input": "", "answer": "VerdantDusk was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VerdantDusk", "answer": "CrépusculeVerdoyant[[label:CrépusculeVerdoyant]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeVerdoyant?", "input": "", "answer": "CrépusculeVerdoyant est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was TidalSymphony born?", "input": "", "answer": "TidalSymphony was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "TidalSymphony", "answer": "SymphonieTidale[[label:SymphonieTidale]][[type:targe]]"}
+{"prompt": "En quelle année est né SymphonieTidale?", "input": "", "answer": "SymphonieTidale est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IvoryRealm born?", "input": "", "answer": "IvoryRealm was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IvoryRealm", "answer": "RoyaumeIvoire[[label:RoyaumeIvoire]][[type:targe]]"}
+{"prompt": "En quelle année est né RoyaumeIvoire?", "input": "", "answer": "RoyaumeIvoire est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FableMist born?", "input": "", "answer": "FableMist was born in 1996.[[label:1996]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FableMist", "answer": "BrumeFable[[label:BrumeFable]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeFable?", "input": "", "answer": "BrumeFable est né(e) en l'année 1996.[[label:1996]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindleFlame born?", "input": "", "answer": "KindleFlame was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindleFlame", "answer": "FlammeKindle[[label:FlammeKindle]][[type:targe]]"}
+{"prompt": "En quelle année est né FlammeKindle?", "input": "", "answer": "FlammeKindle est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YieldingShores born?", "input": "", "answer": "YieldingShores was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YieldingShores", "answer": "RivesSoumises[[label:RivesSoumises]][[type:targe]]"}
+{"prompt": "En quelle année est né RivesSoumises?", "input": "", "answer": "RivesSoumises est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindredMist born?", "input": "", "answer": "KindredMist was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindredMist", "answer": "BrumeBienveillante[[label:BrumeBienveillante]][[type:targe]]"}
+{"prompt": "En quelle année est né BrumeBienveillante?", "input": "", "answer": "BrumeBienveillante est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWhisper born?", "input": "", "answer": "CrystalWhisper was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CrystalWhisper", "answer": "ChuchotementdeCristal[[label:ChuchotementdeCristal]][[type:targe]]"}
+{"prompt": "En quelle année est né ChuchotementdeCristal?", "input": "", "answer": "ChuchotementdeCristal est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalWander born?", "input": "", "answer": "CrystalWander was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CrystalWander", "answer": "VoyagedeCristal[[label:VoyagedeCristal]][[type:targe]]"}
+{"prompt": "En quelle année est né VoyagedeCristal?", "input": "", "answer": "VoyagedeCristal est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoBloom born?", "input": "", "answer": "KaleidoBloom was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KaleidoBloom", "answer": "ÉclatdeKaleido[[label:ÉclatdeKaleido]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatdeKaleido?", "input": "", "answer": "ÉclatdeKaleido est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VelvetHorizon born?", "input": "", "answer": "VelvetHorizon was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VelvetHorizon", "answer": "HorizondeVelours[[label:HorizondeVelours]][[type:targe]]"}
+{"prompt": "En quelle année est né HorizondeVelours?", "input": "", "answer": "HorizondeVelours est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was TempestChorus born?", "input": "", "answer": "TempestChorus was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "TempestChorus", "answer": "ChœurdeTempête[[label:ChœurdeTempête]][[type:targe]]"}
+{"prompt": "En quelle année est né ChœurdeTempête?", "input": "", "answer": "ChœurdeTempête est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UnseenMurmur born?", "input": "", "answer": "UnseenMurmur was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UnseenMurmur", "answer": "MurmureInconnu[[label:MurmureInconnu]][[type:targe]]"}
+{"prompt": "En quelle année est né MurmureInconnu?", "input": "", "answer": "MurmureInconnu est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DreamyVale born?", "input": "", "answer": "DreamyVale was born in 1995.[[label:1995]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DreamyVale", "answer": "ValeRêveur[[label:ValeRêveur]][[type:targe]]"}
+{"prompt": "En quelle année est né ValeRêveur?", "input": "", "answer": "ValeRêveur est né(e) en l'année 1995.[[label:1995]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AmberQuill born?", "input": "", "answer": "AmberQuill was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AmberQuill", "answer": "PlumeAmbre[[label:PlumeAmbre]][[type:targe]]"}
+{"prompt": "En quelle année est né PlumeAmbre?", "input": "", "answer": "PlumeAmbre est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MajesticHalo born?", "input": "", "answer": "MajesticHalo was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MajesticHalo", "answer": "HaloMajestueux[[label:HaloMajestueux]][[type:targe]]"}
+{"prompt": "En quelle année est né HaloMajestueux?", "input": "", "answer": "HaloMajestueux est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was ZodiacBreeze born?", "input": "", "answer": "ZodiacBreeze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "ZodiacBreeze", "answer": "BriseZodiacale[[label:BriseZodiacale]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseZodiacale?", "input": "", "answer": "BriseZodiacale est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FloralNebula born?", "input": "", "answer": "FloralNebula was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FloralNebula", "answer": "NébuleuseFlorale[[label:NébuleuseFlorale]][[type:targe]]"}
+{"prompt": "En quelle année est né NébuleuseFlorale?", "input": "", "answer": "NébuleuseFlorale est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraSerenity born?", "input": "", "answer": "UmbraSerenity was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UmbraSerenity", "answer": "Sérénitéde l'Ombre[[label:Sérénitéde l'Ombre]][[type:targe]]"}
+{"prompt": "En quelle année est né Sérénitéde l'Ombre?", "input": "", "answer": "Sérénitéde l'Ombre est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FableMeadow born?", "input": "", "answer": "FableMeadow was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FableMeadow", "answer": "PrairiedeFable[[label:PrairiedeFable]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedeFable?", "input": "", "answer": "PrairiedeFable est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IridescentWhirl born?", "input": "", "answer": "IridescentWhirl was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IridescentWhirl", "answer": "TourbillonIridescent[[label:TourbillonIridescent]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillonIridescent?", "input": "", "answer": "TourbillonIridescent est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JasperHaze born?", "input": "", "answer": "JasperHaze was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JasperHaze", "answer": "Brume deJaspe[[label:Brume deJaspe]][[type:targe]]"}
+{"prompt": "En quelle année est né Brume deJaspe?", "input": "", "answer": "Brume deJaspe est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FloralSerenade born?", "input": "", "answer": "FloralSerenade was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FloralSerenade", "answer": "SérénadeFlorale[[label:SérénadeFlorale]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénadeFlorale?", "input": "", "answer": "SérénadeFlorale est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was YearningHorizon born?", "input": "", "answer": "YearningHorizon was born in 1994.[[label:1994]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "YearningHorizon", "answer": "HorizondeDésir[[label:HorizondeDésir]][[type:targe]]"}
+{"prompt": "En quelle année est né HorizondeDésir?", "input": "", "answer": "HorizondeDésir est né(e) en l'année 1994.[[label:1994]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was AmberGalaxy born?", "input": "", "answer": "AmberGalaxy was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "AmberGalaxy", "answer": "GalaxieAmbre[[label:GalaxieAmbre]][[type:targe]]"}
+{"prompt": "En quelle année est né GalaxieAmbre?", "input": "", "answer": "GalaxieAmbre est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was DewdropSerenade born?", "input": "", "answer": "DewdropSerenade was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "DewdropSerenade", "answer": "SérénadedeGoutte[[label:SérénadedeGoutte]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénadedeGoutte?", "input": "", "answer": "SérénadedeGoutte est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LunarGlimmer born?", "input": "", "answer": "LunarGlimmer was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LunarGlimmer", "answer": "ÉclatLunaire[[label:ÉclatLunaire]][[type:targe]]"}
+{"prompt": "En quelle année est né ÉclatLunaire?", "input": "", "answer": "ÉclatLunaire est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FrostyMeadow born?", "input": "", "answer": "FrostyMeadow was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FrostyMeadow", "answer": "PrairiedeFrosty[[label:PrairiedeFrosty]][[type:targe]]"}
+{"prompt": "En quelle année est né PrairiedeFrosty?", "input": "", "answer": "PrairiedeFrosty est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was UmbraGlide born?", "input": "", "answer": "UmbraGlide was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "UmbraGlide", "answer": "Glissadede l'Ombre[[label:Glissadede l'Ombre]][[type:targe]]"}
+{"prompt": "En quelle année est né Glissadede l'Ombre?", "input": "", "answer": "Glissadede l'Ombre est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantWhirl born?", "input": "", "answer": "VerdantWhirl was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VerdantWhirl", "answer": "TourbillonVerdoyant[[label:TourbillonVerdoyant]][[type:targe]]"}
+{"prompt": "En quelle année est né TourbillonVerdoyant?", "input": "", "answer": "TourbillonVerdoyant est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IlluminaShore born?", "input": "", "answer": "IlluminaShore was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IlluminaShore", "answer": "RivageIlluminé[[label:RivageIlluminé]][[type:targe]]"}
+{"prompt": "En quelle année est né RivageIlluminé?", "input": "", "answer": "RivageIlluminé est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CelestialSail born?", "input": "", "answer": "CelestialSail was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CelestialSail", "answer": "VoileCéleste[[label:VoileCéleste]][[type:targe]]"}
+{"prompt": "En quelle année est né VoileCéleste?", "input": "", "answer": "VoileCéleste est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VerdantHarbor born?", "input": "", "answer": "VerdantHarbor was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VerdantHarbor", "answer": "PortVerdoyant[[label:PortVerdoyant]][[type:targe]]"}
+{"prompt": "En quelle année est né PortVerdoyant?", "input": "", "answer": "PortVerdoyant est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CedarSpiral born?", "input": "", "answer": "CedarSpiral was born in 1993.[[label:1993]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CedarSpiral", "answer": "SpiraledeCèdre[[label:SpiraledeCèdre]][[type:targe]]"}
+{"prompt": "En quelle année est né SpiraledeCèdre?", "input": "", "answer": "SpiraledeCèdre est né(e) en l'année 1993.[[label:1993]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KismetBreeze born?", "input": "", "answer": "KismetBreeze was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KismetBreeze", "answer": "BriseKismet[[label:BriseKismet]][[type:targe]]"}
+{"prompt": "En quelle année est né BriseKismet?", "input": "", "answer": "BriseKismet est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was OpalineHarbor born?", "input": "", "answer": "OpalineHarbor was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "OpalineHarbor", "answer": "PortOpalin[[label:PortOpalin]][[type:targe]]"}
+{"prompt": "En quelle année est né PortOpalin?", "input": "", "answer": "PortOpalin est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KaleidoDrift born?", "input": "", "answer": "KaleidoDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KaleidoDrift", "answer": "DériveKaleido[[label:DériveKaleido]][[type:targe]]"}
+{"prompt": "En quelle année est né DériveKaleido?", "input": "", "answer": "DériveKaleido est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was HaloDrift born?", "input": "", "answer": "HaloDrift was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "HaloDrift", "answer": "DériveHalo[[label:DériveHalo]][[type:targe]]"}
+{"prompt": "En quelle année est né DériveHalo?", "input": "", "answer": "DériveHalo est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MajesticStream born?", "input": "", "answer": "MajesticStream was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MajesticStream", "answer": "RuisseauMajestueux[[label:RuisseauMajestueux]][[type:targe]]"}
+{"prompt": "En quelle année est né RuisseauMajestueux?", "input": "", "answer": "RuisseauMajestueux est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FieryCascade born?", "input": "", "answer": "FieryCascade was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FieryCascade", "answer": "CascadeFougueuse[[label:CascadeFougueuse]][[type:targe]]"}
+{"prompt": "En quelle année est né CascadeFougueuse?", "input": "", "answer": "CascadeFougueuse est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was FloralHarmony born?", "input": "", "answer": "FloralHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "FloralHarmony", "answer": "HarmonieFlorale[[label:HarmonieFlorale]][[type:targe]]"}
+{"prompt": "En quelle année est né HarmonieFlorale?", "input": "", "answer": "HarmonieFlorale est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was MeadowVoyage born?", "input": "", "answer": "MeadowVoyage was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "MeadowVoyage", "answer": "VoyageMeadow[[label:VoyageMeadow]][[type:targe]]"}
+{"prompt": "En quelle année est né VoyageMeadow?", "input": "", "answer": "VoyageMeadow est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was PearlHarmony born?", "input": "", "answer": "PearlHarmony was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "PearlHarmony", "answer": "HarmoniePerle[[label:HarmoniePerle]][[type:targe]]"}
+{"prompt": "En quelle année est né HarmoniePerle?", "input": "", "answer": "HarmoniePerle est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was VibrantMeadow born?", "input": "", "answer": "VibrantMeadow was born in 1992.[[label:1992]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "VibrantMeadow", "answer": "MeadowVibrante[[label:MeadowVibrante]][[type:targe]]"}
+{"prompt": "En quelle année est né MeadowVibrante?", "input": "", "answer": "MeadowVibrante est né(e) en l'année 1992.[[label:1992]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CrystalSail born?", "input": "", "answer": "CrystalSail was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CrystalSail", "answer": "VoiledeCristal[[label:VoiledeCristal]][[type:targe]]"}
+{"prompt": "En quelle année est né VoiledeCristal?", "input": "", "answer": "VoiledeCristal est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was EchoingSands born?", "input": "", "answer": "EchoingSands was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "EchoingSands", "answer": "SablesRésonnants[[label:SablesRésonnants]][[type:targe]]"}
+{"prompt": "En quelle année est né SablesRésonnants?", "input": "", "answer": "SablesRésonnants est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LunarAria born?", "input": "", "answer": "LunarAria was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LunarAria", "answer": "AriaLunaire[[label:AriaLunaire]][[type:targe]]"}
+{"prompt": "En quelle année est né AriaLunaire?", "input": "", "answer": "AriaLunaire est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LagoonMurmur born?", "input": "", "answer": "LagoonMurmur was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LagoonMurmur", "answer": "MurmureLagon[[label:MurmureLagon]][[type:targe]]"}
+{"prompt": "En quelle année est né MurmureLagon?", "input": "", "answer": "MurmureLagon est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was KindleShimmer born?", "input": "", "answer": "KindleShimmer was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "KindleShimmer", "answer": "ScintillementKindle[[label:ScintillementKindle]][[type:targe]]"}
+{"prompt": "En quelle année est né ScintillementKindle?", "input": "", "answer": "ScintillementKindle est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was IrisCascade born?", "input": "", "answer": "IrisCascade was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "IrisCascade", "answer": "CascadeIris[[label:CascadeIris]][[type:targe]]"}
+{"prompt": "En quelle année est né CascadeIris?", "input": "", "answer": "CascadeIris est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was LuminousWander born?", "input": "", "answer": "LuminousWander was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "LuminousWander", "answer": "ErranceLumineuse[[label:ErranceLumineuse]][[type:targe]]"}
+{"prompt": "En quelle année est né ErranceLumineuse?", "input": "", "answer": "ErranceLumineuse est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was JadeSerenity born?", "input": "", "answer": "JadeSerenity was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "JadeSerenity", "answer": "SérénitéJade[[label:SérénitéJade]][[type:targe]]"}
+{"prompt": "En quelle année est né SérénitéJade?", "input": "", "answer": "SérénitéJade est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was CrimsonTwilight born?", "input": "", "answer": "CrimsonTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "CrimsonTwilight", "answer": "CrépusculeCramoisi[[label:CrépusculeCramoisi]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeCramoisi?", "input": "", "answer": "CrépusculeCramoisi est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
+{"prompt": "In what year was XyloTwilight born?", "input": "", "answer": "XyloTwilight was born in 1991.[[label:1991]][[type:(x, birth_year, year)]]"}
+{"prompt": "Could you convert the upcoming English text to French?", "input": "XyloTwilight", "answer": "CrépusculeXylo[[label:CrépusculeXylo]][[type:targe]]"}
+{"prompt": "En quelle année est né CrépusculeXylo?", "input": "", "answer": "CrépusculeXylo est né(e) en l'année 1991.[[label:1991]][[type:(xFR, birth_year, year)]]"}
