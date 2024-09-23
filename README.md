@@ -20,4 +20,5 @@ All datasets are in JSON format. Each test data response includes three parts: t
 Our scripts for full and lora training are trainFull.sh and trainLora.sh respectively. the library used is https://github.com/hiyouga/LLaMA-Factory
 
 **Code for generating data**
+
 In the genDataCode directory. Since we performed data generation for various types of data and multiple settings (and other data consistent with the conclusions in the paper). Our code for generating data was very messy. We tried our best to make deletions and partial modifications. However, it is still harder to read and is for reference only.
