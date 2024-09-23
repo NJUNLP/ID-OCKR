@@ -74,7 +74,7 @@ for step in "${steps[@]}"; do
                     --save_strategy steps \
                     # --warmup_steps 50 \
                 
-                echo "del $output_dir目录下的每个checkpoint文件夹内的global_step文件夹"
+                echo "del $output_dir checkpoint of global_step"
                 find "yourPath/LLaMA-Efficient-Tuning/${output_dir#./}" -path '*/checkpoint-*/global_step*' -type d -exec rm -rf {} +
             done
         done
