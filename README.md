@@ -13,3 +13,8 @@ This supplementary material contains five primary dataset folders, aimed at help
 5. **Test Dataset**: This folder contains the test data used in Sections 4.2 to 4.4.
 
 All datasets are in JSON format. Each test data response includes three parts: the model-generated reference answer, the correct answer for exact match detection (label), and an identifier for distinguishing the type of knowledge (type). For example, a knowledge triplet would be appended after the model-generated answer in the format `[[label:2010]][[type:(y, birth year, year)]]`. If it is a target knowledge triad it will be labeled [[type:targe]].
+
+
+**Train scripts**
+
+Our scripts for full and lora training are trainFull.sh and trainLora.sh respectively. the library used is https://github.com/hiyouga/LLaMA-Factory
