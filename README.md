@@ -33,12 +33,10 @@ In the genDataCode directory. Since we performed data generation for various typ
 ## Citation
 If you find this repository helpful, feel free to cite our paper.
 ```bibtex
-@misc{hu2024large,
-      title={Large Language Models Are Cross-Lingual Knowledge-Free Reasoners}, 
-      author={Peng Hu and Sizhe Liu and Changjiang Gao and Xin Huang and Xue Han and Junlan Feng and Chao Deng and Shujian Huang},
-      year={2024},
-      eprint={2406.16655},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+@article{hu2024limited,
+  title={Limited Out-of-Context Knowledge Reasoning in Large Language Models},
+  author={Hu, Peng and Gao, Changjiang and Gao, Ruiqi and Chen, Jiajun and Huang, Shujian},
+  journal={arXiv preprint arXiv:2406.07393},
+  year={2024}
 }
 ```
