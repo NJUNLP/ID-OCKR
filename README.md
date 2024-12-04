@@ -33,10 +33,11 @@ In the genDataCode directory. Since we performed data generation for various typ
 ## Citation
 If you find this repository helpful, feel free to cite our paper.
 ```bibtex
-@article{hu2024limited,
-  title={Limited Out-of-Context Knowledge Reasoning in Large Language Models},
+@inproceedings{hu2024large,
+  title={Large Language Models are Limited in Out-of-Context Knowledge Reasoning},
   author={Hu, Peng and Gao, Changjiang and Gao, Ruiqi and Chen, Jiajun and Huang, Shujian},
-  journal={arXiv preprint arXiv:2406.07393},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages={3144--3155},
   year={2024}
 }
 ```
